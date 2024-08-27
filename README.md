@@ -1,2 +1,2 @@
-# deltora-translation-tsv
-Deltora Quest DS translated TSV files
+# Deltora Quest - translated TSV files
+This repo contains WIP translation files for text strings from _Deltora Quest - Nanatsu no Houseki_ for the Nintendo DS. These files are simple TSV (Tab-Separated Values) files exported with the _dump_strings.py_ script from [deltora-explorer](https://github.com/Tayrtahn/deltora-explorer). Each row contains the string's header data (which I have yet to fully decode, but contains info about the graphics and audio that should be used when displaying the string), the original Japanese text extracted from the game data, an automated translation using Google Translate for reference, and a final translation that will be reimported into the game, as well as any optional notes from the translation process.
