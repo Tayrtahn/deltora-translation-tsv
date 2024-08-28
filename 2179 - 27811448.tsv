@@ -30,34 +30,41 @@ Jumps to row 18 after."
 first king of the⏎
 united tribes of⏎
 Deltora、and he ruled⏎
-the land long and
+the land long and⏎
 wisely"		
 501	影の大王に そなえて ベルトを⏎いつでも こしに まいていた	"In preparation for the Great Shadow King, I always wore a belt around my waist."	"He knew that the Enemy⏎
 is clever and sly、and⏎
 that to its anger and⏎
 envy a thousand years⏎
 is like the blink of⏎
-and eye⏸
-So he wore the belt⏎
-always, and never let⏎
-it out of his sight"		
-501	しつこい影の大王が また いつ⏎おそってくるか わからなかったからだ	Because I didn't know when the nagging shadow king would attack again.	"…in case the⏎
-Shadow Lord returned"	"Not used, annoyingly"	
-501	アディンは それを 王のつとめとし⏎王家のおきてとした	Adin made it the duty of the king and the law of the royal family.	"He decreed that⏎
-all kings of Deltora⏎
-must wear the Belt"	Jumps to row 30 after	
-501	アディンのひまご エルステッド王は⏎年をとって とても太ってしまった	Adin's Corn King Ørsted grew old and became very fat.	"But Adin’s⏎
-descendants⏎
-grew old and fat"		
-501	そのために ベルトをするのが⏎辛くなってしまった	"Because of this, it became difficult to wear a belt."	"It became difficult⏎
-to wear the belt"		
-501	大臣たちは ぎしきのときだけ⏎ベルトをするように すすめた	Ministers recommended wearing belts only in times of crisis.	"Royal advisors⏎
-suggested only⏎
-wearing the belt⏎
-At special events"		
-501	それいらい 王が ベルトを⏎こしにまく かいすうは へった	"Since then, the amount of belts worn by kings around their waists has decreased."	"Soon、the belt was⏎
-only worn when the⏎
-king was crowned"	Jumps to row 31 after.	
+an eye"	"This line is important, since it’s also the last line of the last book in the entire Deltora series. "	
+501	しつこい影の大王が また いつ⏎おそってくるか わからなかったからだ	Because I didn't know when the nagging shadow king would attack again.	"So he wore the belt⏎
+always、and never let⏎
+it out of his sight…"	"Not used, annoyingly"	
+501	アディンは それを 王のつとめとし⏎王家のおきてとした	Adin made it the duty of the king and the law of the royal family.	"So he wore the belt⏎
+always、and never let⏎
+it out of his sight…"	"The text in the book doesn’t actually give the reasoning about the Shadow Lord returning, nor does it mention wearing the belt being made into law. I’m going with the book."	
+501	アディンのひまご エルステッド王は⏎年をとって とても太ってしまった	Adin's Corn King Ørsted grew old and became very fat.	"The first to leave the⏎
+belt aside was Adin’s⏎
+grandson、King Elstred、⏎
+who grew fat and found⏎
+the steel cut sadly⏎
+into his belly"		
+501	そのために ベルトをするのが⏎辛くなってしまった	"Because of this, it became difficult to wear a belt."	"His chief advisor⏎
+soothed his fears、⏎
+saying that the belt⏎
+need only be worn on⏎
+great occasions"		
+501	大臣たちは ぎしきのときだけ⏎ベルトをするように すすめた	Ministers recommended wearing belts only in times of crisis.	"Elstred’s daughter⏎
+wore the belt only 5⏎
+times in her reign。⏎
+Her son wore it only⏎
+3 times"	"Not bothering to include their names from the book here for brevity. Sorry, Queen Adina and King Brandon."	
+501	それいらい 王が ベルトを⏎こしにまく かいすうは へった	"Since then, the amount of belts worn by kings around their waists has decreased."	"At last it became the⏎
+custom for the belt to⏎
+be worn only on the day⏎
+the heir took the⏎
+throne…"	Jumps to row 31 after.	
 501	やがて 王が こしに ベルトをまくのは⏎王になる ぎしきの日だけになった	"Before long, the only time the king wore his belt was on the day he became king."	"Soon、the belt was⏎
 only worn when the⏎
 king was crowned"	Unused	
@@ -99,58 +106,57 @@ like the sun"
 28010001	デルトラの七部族は その光の⏎もとで だんけつして たたかった	The seven tribes of Deltora fought under that light.	"Then all the tribes⏎
 united behind him to⏎
 form a great army、"		
-28010001	こうして めでたく 影の大王を⏎おいはらう事ができた	"In this way, we were happily able to drive away the Great King of Shadows."	"and together they drove⏎
-the Enemy from their⏎
-land"		
+28010001	こうして めでたく 影の大王を⏎おいはらう事ができた	"In this way, we were happily able to drive away the Great King of Shadows."	"and together they⏎
+drove the Enemy from⏎
+their land"		
 41810118	……デルトラのベルトの事だよな	...It's about Deltora's belt.	The Belt of Deltora…		
 42810118	こんなに すごい⏎ベルトだったなんて!	It was such an amazing⏎belt!	Incredible!	Jumps back up to row 9 after.	
-43810118	……へんだな⏸王様がベルトを つけるのは⏎とくべつな ぎしきのときだけ⏸それが おきてのはずだ……	...That's strange⏸The king only wears a belt⏎only in special situations⏸That's what should happen...	"Strange…⏸
-The Belt is only⏎
-worn for ceremonies⏸
-At least、that’s⏎
-how it is now…"	Jumps back up to row 13 after	
+43810118	……へんだな⏸王様がベルトを つけるのは⏎とくべつな ぎしきのときだけ⏸それが おきてのはずだ……	...That's strange⏸The king only wears a belt⏎only in special situations⏸That's what should happen...	"How strange…⏸
+The Rule says that the⏎
+belt should only be⏸
+worn on special⏎
+occasions"	Jumps back up to row 13 after	
 42810118	そうだったのか!	Was that so?	What?!		
 41810118	でも、これじゃあ、影の大王が⏎あらわれたら この国は……	"But, if this is the case, if the Great King of Shadows appears, this country will..."	"But、if the Shadow⏎
 Lord reappears、⏸
-Deltora will be-"	Dramatic lightning cuts off Jarred’s sentence.	
-43810118	ずっと へんだと思っていた⏸国の大切な事は、みんな⏎大臣たちがきめてしまう⏸王様は 毎日 あそんで⏎くらしている……	I always thought it was strange that all the important matters in the country are decided by the ministers.The king spends his life playing around every day...	"It's always seemed⏎
+Deltora will-"	Dramatic lightning cuts off Jarred’s sentence.	
+43810118	ずっと へんだと思っていた⏸国の大切な事は、みんな⏎大臣たちがきめてしまう⏸王様は 毎日 あそんで⏎くらしている……	I always thought it was strange that all the important matters in the country are decided by the ministers.The king spends his life playing around every day...	"It’s always seemed⏎
 strange to me…⏸
 The advisors make⏎
-all the decisions ⏸
-The king just plays…"		
-41810118	王様って それじゃあ⏎ダメなんじゃないかな?⏸エンドンは この ベルトのれきしを⏎知っているのかな……	"I guess that's no good for being a king, right? I wonder if Endon knows about this belt..."	"Doesn't seem right⏎
+all the decisions⏸
+The king just kinda⏎
+goofs off…"		
+41810118	王様って それじゃあ⏎ダメなんじゃないかな?⏸エンドンは この ベルトのれきしを⏎知っているのかな……	"I guess that's no good for being a king, right? I wonder if Endon knows about this belt..."	"It doesn’t seem right⏎
 for a king!⏸
-I wonder if Endon⏎
+Hm、I wonder if Endon⏎
 knows this history…"		
 43810118	今日は 親友のエンドンが⏎王様になる日だ⏸つまり、ベルトを⏎こしに まくんだよな……	"Today is the day my best friend Endon becomes king, which means he's going to wrap his belt around him..."	"Today my best friend⏎
 Endon will become king⏸
-So he'll put on⏎
-the Belt"	Jarred leaves the book and runs to the middle of the room before this line.	
-41810118	よし ぼくが 教えてやろう。⏎ベルトを はなすな……⏸それが 王様の つとめだって	"Okay, I'll teach you. ⏎Don't let go of your belt...⏸That's his duty as a king."	"I've gotta tell him!⏸
+So he’ll put on⏎
+the belt"	Jarred leaves the book and runs to the middle of the room before this line.	
+41810118	よし ぼくが 教えてやろう。⏎ベルトを はなすな……⏸それが 王様の つとめだって	"Okay, I'll teach you. ⏎Don't let go of your belt...⏸That's his duty as a king."	"I’ve gotta tell him!⏸
 Wearing the belt is⏎
-the king's duty!"	Hop	
-42810118	ぎしきが どうなっても⏎しるもんか!	"No matter what happens to Gishiki, I'll do it!"	"I've gotta get to⏎
+the king’s duty!"	Hop	
+42810118	ぎしきが どうなっても⏎しるもんか!	"No matter what happens to Gishiki, I'll do it!"	"I’ve gotta get to⏎
 that ceremony!"		
-28010900	王様は ついこのあいだまで⏎とてもお元気だったのにねえ……	The king was doing very well until recently...	"I don't get it…⏸
+28010900	王様は ついこのあいだまで⏎とてもお元気だったのにねえ……	The king was doing very well until recently...	"I don’t understand…⏸
 The king was always⏎
-so happy and healthy…⏸
-Well, until recently…"	Woman on the second screen from the library.	
+so strong and healthy…"	Woman on the second screen from the library.	
 28010700	王様が こんなに はやくに⏎おなくなりになるとは……⏸あとつぎの エンドン様は⏎まだ 子どもだというのに……	"I didn't expect the king to disappear so quickly...even though the next one, Lord Endon, was still a child..."	"The king died so⏎
 suddenly…⏸
 And Prince Endon is⏎
 still just a child…"	First guard outside the library.	
-28010600	やあ、ジャード⏸おさななじみの エンドン様が⏎ついに 王様に おなりだ⏸どんなきぶんだい?	"Hello, Jard⏸Our familiar Lord Endon has finally become king⏸What kind of situation is he in?"	"Oh hello、Jarred⏸
+28010600	やあ、ジャード⏸おさななじみの エンドン様が⏎ついに 王様に おなりだ⏸どんなきぶんだい?	"Hello, Jard⏸Our familiar Lord Endon has finally become king⏸What kind of situation is he in?"	"Oh、hello、Jarred!⏸
 So Endon is finally⏎
 going to be king!⏸
-That's a lot of⏎
+That’s a lot of⏎
 pressure、huh?"	Second guard encountered.	
-28010800	エンドン様は ちょっと⏎たよりないけど だいじょうぶかしら?⏸あら、ジャードだったの。⏎今のは きかなかった事にしてね!	"Endon-sama is a bit ⏎not so good, but is he okay?⏸Oh, it was Jard. ⏎Just pretend he didn't listen!"	"I know Endon has⏎
-always been a bit odd、⏸
-but he seems…⏎
-different today⏸
+28010800	エンドン様は ちょっと⏎たよりないけど だいじょうぶかしら?⏸あら、ジャードだったの。⏎今のは きかなかった事にしてね!	"Endon-sama is a bit ⏎not so good, but is he okay?⏸Oh, it was Jard. ⏎Just pretend he didn't listen!"	"Endon is so young…⏸
+Is he really ready to⏎
+be our King?⏸
 Oh、Jarred!⏸
-Um, you didn’t⏎
-hear me、right?"	Second woman encountered.	
+Um、you didn’t⏎
+hear that、right?"	Second woman encountered.	
 42810118	エンドン!	Endon!	Endon!		
 42810118	とおしてください!	Please pass through!	Hey! Over here!	Yelling through the crowd.	
 42810118	エンドン、大事な話が⏎あるんだ!	"Endon, I have something important to tell you!"	"I need to tell you⏎
@@ -158,99 +164,102 @@ something important!"	Jarred trips and falls on his face after this line.
 42810118	エンドン!	Endon!	Endon!		
 49810370	……	……	……		
 21810b24	しずかに!	Quietly!	Silence!		
-21810b24	わたしは 主席大臣のプランディン⏸これより われらの新しい王を⏎おむかえする ぎしきを とりおこなう	"I am Prandin, Chief Minister, and from now on, I will prepare to welcome our new king."	"I am Chief⏎
-Advisor Prandine⏸
-It is my duty to⏎
-welcome our new king"		
-28010600	主席大臣て何?	What is a chief minister?	Who's the kid?	Unidentified speaker	
-28010700	一番えらい大臣て事さ	He's the greatest minister.	"Shh、that's Jarred…⏎
-The Prince's friend"	Unidentified speaker 2	
+21810b24	わたしは 主席大臣のプランディン⏸これより われらの新しい王を⏎おむかえする ぎしきを とりおこなう	"I am Prandin, Chief Minister, and from now on, I will prepare to welcome our new king."	"I、Chief Advisor⏎
+Prandine、will now⏸
+begin the coronation⏎
+ceremony!"		
+28010600	主席大臣て何?	What is a chief minister?	Hey、who’s that kid?	I'm pretty sure these two lines are intended to help define the difference between a “chief advisor” and just an “advisor” for young Japanese readers who might not be familiar with the kanji or terms. 主席 (“main+chair” -> “chairman” -> “chief”)	
+28010700	一番えらい大臣て事さ	He's the greatest minister.	"Shh! That’s Jarred…⏎
+the Prince’s friend"	"It sounds pretty silly to clarify it in English, so we can repurpose them."	
 41810118	(デルトラのベルトだ……)	(It's Deltora's belt...)	(The Belt of Deltora…)		
 21810b24	このベルトを エンドン様の⏎こしにつけ……⏸ベルトが エンドン様を 王と⏎みとめれば……わが王国は あんたい……	Put this belt on Endon-sama's ⏎string... If the belt recognizes Endon-sama as king... my kingdom will be yours...	"Put on the Belt、⏎
 Prince Endon⏸
-If it recognizes⏎
-you as heir、⏸
+Once it recognizes⏎
+you as the heir、⏸
 you will become the⏎
 new king of Deltora!"		
 21810b24	エンドン様、よいですかな?	"Mr. Endon, are you okay?"	"Are you ready、⏎
 Prince Endon?"		
-49810370	うん。⏎いや、よろしい。はじめなさい	"Yeah. ⏎No, that's fine. Get started"	"Uh-huh⏸
-What?⏸
-Oh、I mean-⏎
-Yes"	He puts on the belt and we get a big two-screen shiny effect. The crowd gasps.	
-42810118	(これが……これがベルトの力!?)	(This… this is the power of the belt!?)	"(Is this… the⏎
-power of the Belt!?)"		
+49810370	うん。⏎いや、よろしい。はじめなさい	"Yeah. ⏎No, that's fine. Get started"	I am ready	"Endon is trying to keep up an appearance of strength despite his father’s death.
+He puts on the belt and we get a big two-screen shiny effect. The crowd gasps."	
+42810118	(これが……これがベルトの力!?)	(This… this is the power of the belt!?)	(Whoa! The Belt!)	Changing this so Jarred seems less incredulous 	
 21810b24	おお、われらが王 エンドン様!⏎ベルトが 王位を みとめましたぞ!	"Oh, our king Endon! ⏎The belt has acknowledged your throne!"	"All hail King Endon!⏎
-The Belt accepts you!"		
+The throne is yours!"		
 4a810370	ご苦労だった、プランディン⏸おきてどおり、ベルトを⏎げんじゅうに ほかんしておいてくれ	"Thank you for your hard work, Prandin.As I was told, please keep your belt safe."	"Thank you、Prandine⏸
-You can take the⏎
-Belt away now"		
+You can put the belt⏎
+back in storage now"		
 42810118	エンドン、ちがうぞ!⏸ベルトは ずっと きみの⏎こしに まいておくんだ!⏸それが 本当の⏎おきてなんだ!	"Endon, that's wrong! ⏸Keep your belt on your ⏎bag all the time!⏸That's the real ⏎law!"	"Wait、Endon!⏸
-Always wear the belt!⏸
-That's the real rule!"		
-21810b24	たわごとを言うではない!	Don't give a shit!	Insolent fool!	"Thank you, Google."	
+Always wear the belt!⏎
+That’s the real Rule!"		
+21810b24	たわごとを言うではない!	Don't give a shit!	Insolent child!	"Yeah, not quite, Google."	
 49810370	ジャード……	Jard...	Jarred…		
-21810b24	王様! いいですな	King! That's good.	Listen to your king!		
+21810b24	王様! いいですな	King! That's good.	"Show some respect for⏎
+your king!"		
 49810370	ジャード……大臣のいうとおりだ	Jard...the minister is right.	"Jarred…⏎
 Prandine is right"		
-42810118	(なんだよ、エンドン!)⏸(キミもプランディンの⏎言いなりになるのか!?)	"(What is it, Endon!) ⏸ (Are you going to follow Prandin's ⏎ command too!?)"	"(What's going on?)⏸
+42810118	(なんだよ、エンドン!)⏸(キミもプランディンの⏎言いなりになるのか!?)	"(What is it, Endon!) ⏸ (Are you going to follow Prandin's ⏎ command too!?)"	"(What’s going on?)⏸
 (Think for yourself、⏎
 Endon!)"		
 43810118	エンドン……かわっちゃったな⏸このあいだまで いっしょに⏎あそんでいたのに……⏸そういえば 今日は たての⏎つくりかたを 教えてくれるって……	"Endon... you've changed ⏸ We were playing ⏎ together the other day... ⏸ Come to think of it, today you're going to teach us how to make fresh ⏎..."	"Endon…⏎
-You've changed⏸
-We were best friends⏎
-until recently⏸
-Just the other day…"	Flashback…	
-49030370	ジャード。⏎次は きみが やってみてよ	"Jard. ⏎Next time, she should try it."	"Next time、you should⏎
-try it、Jarred"		
+You’ve changed⏸
+We were always best⏎
+friends…⏸
+You still owe me that⏎
+smithing lesson…"		
+49030370	ジャード。⏎次は きみが やってみてよ	"Jard. ⏎Next time, she should try it."	"Here、why don’t you⏎
+give it a shot、Jarred?"		
 41810118	ぼくが!?	Me!?	Me!?		
-49030370	初代アディン王から ひきつがれた⏎かじの ぎじゅつ⏸もう、なんども 教えただろう?	"The ⏎Kajijyutsutsu⏎ that was inherited from the first King Adin⏸I have already taught you many times, haven't I?"	"You're not scared⏎
-just because my⏸
-skills were passed down⏎
-from Adin、are you?"		
-43810118	うーん、きみには かなわないよ	"Well, I can't compete with you."	"Well、there's no way⏎
-I can compete with you!"		
-4a030370	いいからいいから!	"It's okay, it's okay!"	Hah、that's okay!		
+49030370	初代アディン王から ひきつがれた⏎かじの ぎじゅつ⏸もう、なんども 教えただろう?	"The ⏎Kajijyutsutsu⏎ that was inherited from the first King Adin⏸I have already taught you many times, haven't I?"	"I’ve taught you so much⏎
+of what I know⏸
+I’m sure you’re up to⏎
+the task!"		
+43810118	うーん、きみには かなわないよ	"Well, I can't compete with you."	"There’s no way I could⏎
+make one like you…"		
+4a030370	いいからいいから!	"It's okay, it's okay!"	"Hah、don’t sweat it!⏎
+Just do your best!"		
 4a810370	なかなか うまいじゃないか⏸よし、次は たての⏎つくりかたを 教えてあげるよ	"It's pretty good, isn't it?Okay, next time I'll show you how to make it freshly."	"Not bad!⏸
-Okay、let’s try one⏎
-from the beginning…"		
+Okay、let’s try making⏎
+a dagger next"	"I think “freshly” is referring to a style of sword. Something about “disobedient”, which is literally derived from “stab-shield”?Dagger sounds like a decent fit.
+Flashback…"	
 41030118	うん、わかった	"Yeah, I understand."	Whew! Okay!		
-21030b24	エンドン王子。⏎王様が およびです	Prince Endon. ⏎The king is he and	"Prince Endon、⏎
-The King needs you"		
+21030b24	エンドン王子。⏎王様が およびです	Prince Endon. ⏎The king is he and	"Prince Endon、the King⏎
+needs to see you"		
 49810370	でも……	but……	But…		
 21030b24	王子。王様は ご病気です。⏎大切な お話かと……	prince. The king is sick. ⏎I think the important person is a story...	"My Prince、the King⏎
-is sick⏸
-This is important"		
+is very sick⏸
+This… is important"		
 41030118	行けよ、エンドン	"Go, Endon."	Go ahead、Endon		
-49810370	……うん	……Yeah	…Right		
-4a810370	じゃあ、かじの練習を⏎しておくんだぞ	"Well then, let's practice playing the rudder."	"We can practice⏎
-more later"		
+49810370	……うん	……Yeah	"…⏸
+…Right"		
+4a810370	じゃあ、かじの練習を⏎しておくんだぞ	"Well then, let's practice playing the rudder."	"We can continue later。⏎
+Practice、Jarred!"		
 41030118	はいはい、王子様!	"Yes, yes, prince!"	Yes、my prince!		
-43810118	楽しかった 子ども時代は⏎おわったって事か……	My fun childhood is ⏎ over...	"I miss my friend⏸
+43810118	楽しかった 子ども時代は⏎おわったって事か……	My fun childhood is ⏎ over...	"I miss those times…⏸
 I… I guess it’s⏎
 time to move on"		
-41810118	いや、父上を なくしたばかりだし⏎さっきは大臣もいたし……	"No, I just lost my father, and the minister was there just now..."	"Wait、Endon just lost⏎
+41810118	いや、父上を なくしたばかりだし⏎さっきは大臣もいたし……	"No, I just lost my father, and the minister was there just now..."	"Wait… Endon just lost⏎
 his father⏸
-And he couldn't talk⏎
-with Prandine there"		
+And Prandine was was⏎
+there…"		
 41810118	なにより、王になる ぎしきの⏎さいちゅうだったし……	"Above all, it was a great opportunity to become king..."	"And the pressure⏎
 of the ceremony…"		
-41810118	しっぱい、しっぱい!	"So much, so much!"	Of course!		
-41810118	ふたりきりなら これまでと⏎同じ エンドンのはずだ	"If it's just the two of us, it should be the same endon as before."	"If I can get him alone、⏎
-then I can tell him"	"The player gets control for a moment, just to leave the room."	
+41810118	しっぱい、しっぱい!	"So much, so much!"	"Of course he couldn’t⏎
+really listen!"		
+41810118	ふたりきりなら これまでと⏎同じ エンドンのはずだ	"If it's just the two of us, it should be the same endon as before."	"I need to talk to him⏎
+alone、then he’ll see!"	"The player gets control for a moment, just to leave the room."	
 41030118	エンドン、待って!	"Endon, wait!"	Endon、wait!		
-49810370	ジャード……さっきはごめん	Jard... I'm sorry about earlier.	"Jarred… I'm sorry⏎
+49810370	ジャード……さっきはごめん	Jard... I'm sorry about earlier.	"Jarred… I’m sorry⏎
 about earlier"		
-41030118	いいんだ。⏎それより、ベルトは?	It's okay. ⏎What about the belt?	"That's okay、Endon⏎
+41030118	いいんだ。⏎それより、ベルトは?	It's okay. ⏎What about the belt?	"It’s okay、Endon。⏎
 Where's the Belt?"		
-49810370	大切に しまってあるはずだけど……	"I should have kept it safe, but..."	"It's safe in⏎
-storage"		
+49810370	大切に しまってあるはずだけど……	"I should have kept it safe, but..."	"I’m sure it’s safe in⏎
+storage now"		
 41030118	あれは ずっと みにつけているんだ。⏎それが王様のつとめだぞ	I've been looking at that one for a long time. ⏎That's the king's duty.	"You should wear⏎
-the Belt always⏸
-as the ancient kings⏎
+the belt always!⏸
+As the ancient kings⏎
 and queens did!"		
-49810370	そんな話は きいた事がない⏸おきてに反する事は ぼくには⏎できないよ	I've never heard of such a thing.I can't do anything that goes against the law.	"I've never heard of⏎
-such things⏸
+49810370	そんな話は きいた事がない⏸おきてに反する事は ぼくには⏎できないよ	I've never heard of such a thing.I can't do anything that goes against the law.	"I’ve never heard of⏎
+such a thing⏸
 You know I can’t⏎
 break the Rule"		
 42030118	おきてなんて!⏸そんなの、大臣たちが⏎かってに きめた事だ!	What's going on? That's what the ministers decided on their own!	"Wake up、Endon!⏸
@@ -259,24 +268,27 @@ traditions made into⏸
 laws by the advisors!"		
 49810370	ジャード?⏎いったい 何を言ってるんだ?	Jard?⏎What on earth are you talking about?	"What in the world⏎
 are you talking about?"		
-42030118	あのベルトは この国を守る⏎大切なベルトなんだ	That belt protects this country⏎It's an important belt.	"The Belt is what⏎
+42030118	あのベルトは この国を守る⏎大切なベルトなんだ	That belt protects this country⏎It's an important belt.	"The belt is what⏎
 keeps Deltora safe!"	Jarred grabs Endon by the hand.	
 49810370	守る? だれから?	Protect it? From whom?	"Safe?⏎
-Safe from whom?"		
-42030118	影の大王だ	He is the great king of shadows.	The Shadow Lord		
-41030118	さあ、ベルトのところへ行こう!	Now let's go to the belt!	"Now c’mon、let's⏎
-go get the Belt!"		
-4b810370	やめてくれ!⏎ぼくは おきてに したがうんだ!	Stop it!⏎I follow the commandments!	"No! I must obey⏎
+Safe from what?"		
+42030118	影の大王だ	He is the great king of shadows.	"The Enemy! The Lord of⏎
+Shadows!"		
+41030118	さあ、ベルトのところへ行こう!	Now let's go to the belt!	"Now c’mon、let’s⏎
+go get the belt!"		
+4b810370	やめてくれ!⏎ぼくは おきてに したがうんだ!	Stop it!⏎I follow the commandments!	"No! I must always obey⏎
 the Rule!"	Endon break away from Jarred’s grip.	
-28010b74	さよう、だまされてはいけませぬぞ	"Goodbye, don't let yourself be fooled."	"My king! Do not⏎
-be fooled!"	"Prandine, offscreen"	
-21030b24	この、うらぎり者め!	You traitor!	"The boy is a⏎
-jealous traitor!"	Prandine walks in.	
-42030118	エンドン! ぼくを信じてくれ!	Endon! Trust me!	"Endon!⏎
+28010b74	さよう、だまされてはいけませぬぞ	"Goodbye, don't let yourself be fooled."	"My king! Do not be⏎
+fooled by this traitor!"	"Prandine, offscreen"	
+21030b24	この、うらぎり者め!	You traitor!	"He has always been⏎
+jealous of you!⏸
+And now he seeks to⏎
+destroy you!"	Prandine walks in.	
+42030118	エンドン! ぼくを信じてくれ!	Endon! Trust me!	"No、Endon!⏎
 Believe me!"	"Before this line, Jarred tries to approach Endon, but he backs away and looks to Prandine."	
 21030b24	あぶない!⏎剣をぬくつもりですぞ!	Dangerous!⏎I'm going to draw my sword!	"Beware、your majesty!⏎
 He has a knife!"	Prandine jumps between them.	
-21030b24	だれか! 兵はおらぬか!	Who is this? There are no soldiers!	"Murderer! Traitor!⏎
+21030b24	だれか! 兵はおらぬか!	Who is this? There are no soldiers!	"Murderer! Traitor!⏸
 Guards! Guards!"	"Guards run in; Prandine leaves. Endon hesitates, but Prandine comes back and says something that gets him to leave."	
 0	えいへいバトル⏎⏎えいへいに近づいて タッチすると⏎こうげきするぞ!	"Eihei Battle ⏎⏎If you approach the Eihei and touch it, ⏎ it will attack!"	"Fight the guards!⏎
 ⏎
@@ -292,11 +304,11 @@ from Prandine!)"	"Jarred is on a tree branch outside, looking down on a couple o
 tree from his room…)"	Jumps to row 115 for instructions on note writing.	
 41810118	(気づいてくれよ、エンドン!)	"(Please notice, Endon!)"	"(Please notice、⏎
 Endon!)"		
-43810118	(ぼくは なんとかして 生きのびる。⏎キミを まもるための 力を……)	(I will survive somehow. ⏎The power to protect you...)	"(I can't help Endon⏎
+43810118	(ぼくは なんとかして 生きのびる。⏎キミを まもるための 力を……)	(I will survive somehow. ⏎The power to protect you...)	"(I can’t help Endon⏎
 if I'm dead)"		
 42810118	(そう、ちえと 力を⏎身につけないと!)	"(That's right, Chieto, I need to learn the power!)"	"(I need to get⏎
 out of here)⏸
-(I'll be waiting⏎
+(I’ll be waiting⏎
 for you、Endon!)"	Jumps to row 116 for instructions on cart jump mini game.	
 41030118	……な、なんだ、これは。⏎これがデルの町!?	"...What, what is this? ⏎This is Del’s town!?"	Is this… Del?	Jarred looks around the dirty streets.	
 43030118	城(しろ)からは あんなに美しく⏎見えていたのに……	It looked so beautiful⏎ from the castle...	"But… how?⏸
@@ -304,51 +316,54 @@ It looked so beautiful⏎
 from the palace"	"After this, Jarred looks behind him, jumps, and runs to hide behind a wall."	
 28010600	どこへ行った!?	Where did you go!?	Where did he go!?	Guard 1	
 28010700	あっちだ!	Over there!	Over there!	"Guard 2 enters, but hears something behind him and they both leave."	
-42030118	(とにかく今は にげなくちゃ!)	"(Anyway, I have to run away for now!)"	"I've gotta get⏎
+42030118	(とにかく今は にげなくちゃ!)	"(Anyway, I have to run away for now!)"	"I’ve gotta get⏎
 out of here!"	Player gets control after this.	
 0	エンドンにきけんを知らせろ!⏎⏎エンドンに手紙を書いて⏎きけんを知らせるんだ!!⏎⏎書き直しはできないよ!	Tell Endon about the crisis!⏎⏎Write a letter to Endon and tell him about the crisis!⏎⏎You can't rewrite it!	"Write a note for⏎
 Endon warning him⏎
 about the danger⏎
-he's in!⏎
+he’s in!⏎
 ⏎
-There's no eraser!"	Jumps back up to row 107 after.	
+There’s no eraser!"	Jumps back up to row 107 after.	
 0	馬車にとびおりろ!⏎⏎ゴミを捨てに行く馬車に⏎タイミングよくとびおりるんだ!⏎⏎下画面タッチでとびおります	Jump on the carriage! ⏎⏎Jump on the carriage going to throw away the trash ⏎Jump at the right time! ⏎⏎Touch the bottom screen to jump off	"Jump onto the⏎
 rubbish cart!⏎
 ⏎
 Wait for the right⏎
 time and tap the⏎
 screen to jump!"	Jumps back to 110 after fading to black and back.	
-28010600	城から 来たんじゃないだろうな?⏎だとしたら タダじゃ すまさんぞ	"It didn't come from the castle, right?⏎If that's the case, it's free, sorry."	"…You from the palace?⏎
-Why are you here?"	Beggar on top left screen of Del	
+28010600	城から 来たんじゃないだろうな?⏎だとしたら タダじゃ すまさんぞ	"It didn't come from the castle, right?⏎If that's the case, it's free, sorry."	"Did you come from the⏎
+palace?⏸
+What are you doing⏎
+here?"	Beggar on top left screen of Del	
 28010700	城のやつら……⏎うまい物 食べてるんだろうなあ	The guys in the castle...⏎I guess they're eating delicious food.	"I bet they have plenty⏎
 to eat in the palace…"	Man on lower left screen of Del	
 28010600	仕事がない……金がない……⏎食い物もない……	No job...no money...⏎no food...	"No job… No money…⏎
 No food…"	Person on upper right screen of Del	
 28010700	ふん……なんだおまえ。⏎きれいな服を きやがってよ	Hmm...what are you? ⏎Give her beautiful clothes	"Who… are you?⏎
 Such clean clothes…"	Person at exit from Del	
-28010800	言ってもしかたがないけど……⏎言わずにはいられない……⏸この町は どうしようもないわ	I can't help but say it...⏎I can't help but say it...⏸There's nothing we can do about this town.	"There's no hope…⏎
+28010800	言ってもしかたがないけど……⏎言わずにはいられない……⏸この町は どうしようもないわ	I can't help but say it...⏎I can't help but say it...⏸There's nothing we can do about this town.	"There’s no hope…⏎
 No future…⏸
-This town⏎
-is doomed…"	Woman on right middle screen of Del	
+This town is doomed…"	Woman on right middle screen of Del	
 28010900	夫が何をしたって言うのよ!⏎どうして つれていかれたのよ!	What did my husband do? ⏎Why did he take me away?	"They took my husband!⏎
 He didn't do anything!"	Woman on lower left screen of Del	
-28010700	お若いの……⏎早く町を出るんじゃ⏸ここでは しあわせも 希望も⏎見つからんぞ……	You are young... ⏎You should leave town soon⏸You won't find happiness or hope here...	"You're still young⏸
+28010700	お若いの……⏎早く町を出るんじゃ⏸ここでは しあわせも 希望も⏎見つからんぞ……	You are young... ⏎You should leave town soon⏸You won't find happiness or hope here...	"You’re still young⏸
 You should get out⏎
 of Del while you can⏸
-There's no hope⏎
+There’s no hope⏎
 or happiness here…"	Old man on top left screen of Del	
-28010700	王から 手紙の返事が きたぞ⏸見なくても 何が書いてあるのか⏎わかっているけどな	I got a reply to the letter from the king⏸I know what it says even if I don't look at it⏎	"I asked the king to⏎
-do something to help⏸
-But I know he won’t⏎
-do anything…"	Old man on bottom middle screen of Del	
-28010800	おにいちゃん、食べる物 もってない?	"Big brother, don't you have anything to eat?"	Spare some food?	Woman on bottom middle screen of Del	
-28010900	ひもじいよ……	It's old man...	(An old man)	Man on middle screen on Del	
-41030118	す、すみません。⏎とつぜん おじゃまして	I-I'm sorry. ⏎Sorry to interrupt you suddenly	"Sorry to bother you、⏎
+28010700	王から 手紙の返事が きたぞ⏸見なくても 何が書いてあるのか⏎わかっているけどな	I got a reply to the letter from the king⏸I know what it says even if I don't look at it⏎	"I sent a letter to the⏎
+King asking for help⏸
+I got a reply back、but⏎
+I don’t even need to⏸
+read it to know what⏎
+it says"	Old man on bottom middle screen of Del	
+28010800	おにいちゃん、食べる物 もってない?	"Big brother, don't you have anything to eat?"	"Hey mister、can you⏎
+spare some food?"	Woman on bottom middle screen of Del	
+28010900	ひもじいよ……	It's old man...	So… hungry…	Man on middle screen on Del	
+41030118	す、すみません。⏎とつぜん おじゃまして	I-I'm sorry. ⏎Sorry to interrupt you suddenly	"Sorry to barge in、⏎
 but I need help!"		
-43030118	兵に おわれているんです	It's surrounded by soldiers.	"Soldiers are⏎
-chasing me!"		
+43030118	兵に おわれているんです	It's surrounded by soldiers.	Soldiers are after me!		
 2503072c	おくの部屋へ行け	Go to Oku's room.	Get in the back room		
-43030118	おわれていると言っても⏎悪い事をしたわけじゃなくて……	"Even though I say I'm depressed, it doesn't mean I did anything wrong..."	"I swear I'm innocent…⏎
+43030118	おわれていると言っても⏎悪い事をしたわけじゃなくて……	"Even though I say I'm depressed, it doesn't mean I did anything wrong..."	"I swear I’m innocent…⏎
 But the guards…"		
 2503072c	おくへ行けと言っただろう?	"I told you to go away, right?"	"I said、get⏎
 in the back room"		
@@ -356,40 +371,40 @@ in the back room"
 in the back room"	Shown when the player talks to Crian	
 41030118	や、やあ	"Hey, hey"	Oh! Hello!	Jarred sees Ana	
 2481031c	……こんにちは	……Hello	…Hello		
-43030118	とつぜん、ごめん……	"Suddenly, I'm sorry..."	I'm so sorry…		
+43030118	とつぜん、ごめん……	"Suddenly, I'm sorry..."	Sorry to surprise you!		
 2481031c	……	……	…		
-41030118	ここは……かじ屋さんかな	Is this place...a blacksmith shop?	"This place… is it⏎
-a blacksmith?"	Am I missing a joke here?	
-2481031c	見ればわかるでしょ?⏸わたしは アンナ。⏎クリアンおじいさんの まごむすめ	"You can see it, right?⏸My name is Anna. ⏎Grandpa Kurian's Magomusume"	"Well、isn't that⏎
+41030118	ここは……かじ屋さんかな	Is this place...a blacksmith shop?	"What is this place? A⏎
+Blacksmith’s shop?"	Am I missing a joke here?	
+2481031c	見ればわかるでしょ?⏸わたしは アンナ。⏎クリアンおじいさんの まごむすめ	"You can see it, right?⏸My name is Anna. ⏎Grandpa Kurian's Magomusume"	"Well、isn’t that⏎
 obvious、silly?⏸
-I'm Anna… Crian is⏎
-my grandpa"		
+I’m Anna… Crian out⏎
+front is my grandpa"		
 41030118	まご?⏎ええと、きみの ご両親は?	"Mago?⏎Um, who are your parents?"	"Grandpa? Where are⏎
 your parents?"		
 2481031c	影の憲兵(けんぺい)たちに 殺されたわ	I was killed by the shadow military police.	"…They were killed by⏎
 Grey Guards"		
-43030118	影の……憲兵?	Shadow...military police?	Grey… Guards?		
-2481031c	あなたのせいで おじいさんに⏎なにかあったら……	If something happens to your grandfather because of you...	"…If something⏎
-happens to Grandpa⏸
-because of you-!"		
-42030118	そ、そんな事には ならないよ。⏎ぼくは すぐに 出て行くから	"Well, that won't happen. ⏎I'll leave right away"	"Hey、no chance! I’ll⏎
+43030118	影の……憲兵?	Shadow...military police?	…Grey Guards?	Jarred is clearly unfamiliar with the term	
+2481031c	あなたのせいで おじいさんに⏎なにかあったら……	If something happens to your grandfather because of you...	"If something happens to⏎
+Grandpa because of you-"		
+42030118	そ、そんな事には ならないよ。⏎ぼくは すぐに 出て行くから	"Well, that won't happen. ⏎I'll leave right away"	"Hey、don’t worry! I’ll⏎
 be leaving soon!"		
-43030118	すぐに出て行きます⏸でも、兵士が来ても ぼくが⏎ここにいたと 言わないでください⏸やつらは ぼくが 新しい王を⏎殺そうとしたと言うでしょう	"I'll leave soon⏸ but when the soldiers come, don't tell them I was ⏎here⏸They'll say I tried to ⏎kill the new king."	"Thank you、I'll be⏎
+43030118	すぐに出て行きます⏸でも、兵士が来ても ぼくが⏎ここにいたと 言わないでください⏸やつらは ぼくが 新しい王を⏎殺そうとしたと言うでしょう	"I'll leave soon⏸ but when the soldiers come, don't tell them I was ⏎here⏸They'll say I tried to ⏎kill the new king."	"Thank you、I’ll be⏎
 on my way soon⏸
 But I beg you not⏎
 to tell the guards⏸
 They think I tried to⏎
 kill the new King!"	Crian enters the room and Jarred talks to him.	
-42030118	でも、それはウソです!	But that's a lie!	But that's a lie!		
-2503072c	ふん。王を殺せば おまえは⏎国の えいゆうになれるぞ	"Hmm. If you kill the king, you will become the king of the country."	"Hm… Many in Del would⏎
+42030118	でも、それはウソです!	But that's a lie!	But that’s a lie!		
+2503072c	ふん。王を殺せば おまえは⏎国の えいゆうになれるぞ	"Hmm. If you kill the king, you will become the king of the country."	"Many in Del would⏎
 thank you if you had"		
-41030118	えっ?	Huh?	Huh?		
+41030118	えっ?	Huh?	What do you mean?		
 2503072c	国民が こんなに みじめな⏎くらしをしているのに……⏸城の中で ぬくぬくと くらしている⏎王なんぞ いなくなればいいのさ	Even though the people are living such a miserable life... there should be no king living snugly in his castle.	"The people of Del live⏎
 this miserable life⏸
 While the King is snug⏎
 in the palace⏸
 Is it any wonder?"		
-43030118	そんな……	Like that...	But…		
+43030118	そんな……	Like that...	"But that’s not…⏸
+…"		
 2503072c	ふん。⏎すばらしい 王だとでも?	Hmm. ⏎Are you saying he's a wonderful king?	"Hmm…⏎
 You think differently?"		
 41030118	あの……お話を……	Um...tell me a story...	"Um…⏎
@@ -410,9 +425,9 @@ work、don't eat。⏸
 Think you can⏎
 help out here?"		
 41030118	かじの仕事なら……すこし	If it's a rudder's job...a little bit.	"With blacksmithing?⏎
-Yeah、a little。"		
-2481031c	すぐに 出て行くって いったのに!	I said I would leave right away!	"Hey! I thought⏎
-you were leaving!"	This seems to be a joke?	
+Yeah、a little"		
+2481031c	すぐに 出て行くって いったのに!	I said I would leave right away!	"Can you please get out⏎
+of my room!?"	This seems to be a joke?	
 43030118	ご、ごめん!	Sorry!	Sorry!		
 0	エンドン。⏎町は ずっとむかしから、こんなに⏎ひどい事に なっていたそうだ。⏎⏎国民は王様に手紙を書いた。⏎むかしから なんども なんども。⏎でも 返事は いつも同じ。	"Endon. ⏎The town says he's been in something this ⏎terrible ever since a long time ago. ⏎⏎The people wrote a letter to the king. ⏎Once upon a time, he did it again and again. ⏎But his answer is always the same."	"Endon。⏎
 I know now that Del⏎
@@ -428,82 +443,83 @@ the Kings。 The advisors⏎
 write the responses:⏎
 ⏎
 「The King thanks you for⏎
-your message。 He will⏎
+your message。He will⏎
 attend to your request⏎
 when time allows」"	Direct quote from the book in English	
 0	とても ざんねんな事だけど⏎国民は 王と城の中の人たちを⏎にくんでいる……	"It's a very strange thing, but the ⏎people are keeping the king and the people in the castle in ⏎..."	"The people of Del⏎
 detest the King and⏎
 everyone in the palace…"		
 0	エンドン……あれから7年がすぎた。⏎きみの事を 思わない日はなかった……⏎エンドン、どうしてる?⏎⏎ぼくは……⏎ぼくを 助けてくれた クリアンさんは⏎なくなってしまった。	"Endon... 7 years have passed since then. ⏎There hasn't been a day that I haven't thought about you... ⏎Endon, how are you doing?⏎⏎I... ⏎Mr. Krian, who saved me, ⏎is gone."	"Endon… ⏎ 
-It's been 7 years。⏎
-I think of you every⏎
-day。 How are you?⏎
+It’s been 7 years。I⏎
+think of you every day。⏎
 ⏎
 Crian、the man who⏎
-saved me、has passed。"		
+saved me、has passed⏎
+away。"		
 0	ぼくは アンナと けっこんして⏎かじ屋をひきついだ。⏎アンナは はたらき者で とても良いつまだ。⏎はやく きみに しょうかいしたいよ。⏎⏎そうそう、もうすぐ 子どもが生まれる。⏎ぼくは しあわせ者だ。	"I had a fight with Anna and we grabbed a blacksmith. ⏎Anna is a hard worker and she is a very good student. ⏎She wants to meet you soon. ⏎⏎That's right, a child will be born soon. ⏎I am a happy person."	"I run the blacksmith⏎
 now。 Anna and I got⏎
 married and are⏎
-expecting our⏎
-first child soon!"		
+expecting our first⏎
+child soon!"		
 0	でも、自分の しあわせを 感じるとき……⏎ぼくは この国の未来と、きみの事を⏎思わずにはいられない……	But when I feel happy...⏎I can't help but think about the future of this country and you...	"Still、I can't help⏎
 but worry about you。⏎
-And the future⏎
-of Deltora…"		
-22030328	どうしたの?⏎しずんだ顔をして	What's wrong?⏎You look depressed.	"What's wrong、dear?⏎
+And the future of⏎
+all of Deltora…"		
+22030328	どうしたの?⏎しずんだ顔をして	What's wrong?⏎You look depressed.	"What’s wrong、dear?⏎
 You seem upset"	Endon and Sharn are standing in the courtyard. Jarred’s note is still on the tree.	
 4d810670	わたしを 育ててくれた うばの⏎ミンが 何者かに 殺されてしまった	"My nanny, ⏎Min, who raised me, was killed by someone."	"My old nursemaid、Min…⏎
-She was killed"		
+She was killed!"		
 23030328	まあ、ひどい……⏎さぞ お力おとしでしょう	"Well, that's terrible...⏎Please help me out."	"Oh、how awful!⏎
 Let me comfort you…"		
 4d810670	ミンは 城の中に うらぎり者が⏎いると言っていた⏸しかし、わたしは 信じなかった……⏎ゆめでも 見たのだろうと思って……⏸ミンが いなくなって 考えた⏸あれは本当だったのでは⏎ないだろうか、と⏸だから、ぜったいに はんにんを⏎つかまえるように 命じた⏸大臣も やくそくしてくれた⏸でも……⏸おそらく 何も していない⏸ミンの事だけじゃない⏸何を命じても 何を聞いても⏎大臣は てきとうな事しか言わない……⏸思えば むかしから そうだった……⏸ジャードは それに 気づかせようと⏎してくれたのかもしれない……	"Min said there was a thief in the castle⏎But I didn't believe it...⏎I thought I had seen it in a dream...⏸After Min disappeared, I thought⏸That was true. I wondered if he had done anything, so I ordered him to grab Han-nin. The minister was also reluctant, but... he probably didn't do anything. It was just about Min. No, no matter what he orders or what he asks, the minister only says the right things... Come to think of it, it's been like that for a long time... Maybe Jard was trying to make him realize that. do not have……"	"Min said there was a⏎
 traitor in the palace⏸
-I didn't believe her⏎
+I didn’t believe her。⏎
 I thought she must’ve⏸
 fallen asleep working⏎
 and dreamt it。⏸
 Now I fear she may⏎
 have been right。⏸
-I've ordered the⏎
+I’ve ordered the⏎
 guards to look for a⏸
 traitor、but… it’s⏎
 probably pointless。⏸
-No、I'm not just⏎
+…⏸
+No、I’m not just⏎
 upset about Min。⏸
 No matter what I do、⏎
 the advisors have⏸
 the real power here。⏎
-And it's been like⏸
-that as long as⏎
+And it’s been like⏸
+that for as long as⏎
 I can remember。⏸
 Jarred…⏸
 Jarred tried to⏎
 make me see。"	"Thanks for the exposition, Endon."	
 23030328	ジャードとは だれですか?	Who is Jard?	"Jarred?⏎
-Who's that?"		
+Who’s that?"		
 4d810670	わたしの親友さ。⏎彼の事を忘れたことはない	You're my best friend. ⏎I have never forgotten about him	"My old friend。⏎
-I'll never forget him"		
+I’ll never forget him"		
 23030328	まあ、すごい風!	"Well, what a wind!"	Oh、the wind!	The wind blows Jarred’s note down.	
-4d810670	おなかの赤んぼうが⏎カゼをひいてしまう⏸中へ入ろう	The baby in my stomach is catching a cold. Let's go inside.	"Let's go inside。⏎
+4d810670	おなかの赤んぼうが⏎カゼをひいてしまう⏸中へ入ろう	The baby in my stomach is catching a cold. Let's go inside.	"Let’s go inside。⏎
 The future mother⏸
 of my child shouldn’t⏎
 be out in this cold。"	Endon stops to look at the note.	
 500	プランディンには 気をつけろ。⏎ベルトは きみと国を すくう。⏎けして 手ばなすな。⏎⏎ぼくは いつでも きみの味方だ。	Be careful of Prandin. ⏎The belt will take over you and the country. ⏎Don't let go. ⏎⏎He will always be on your side.	"Prandine is evil⏎
 The Belt will save us⏎
 Be strong⏎
-I'll always be⏎
+I’ll always be⏎
 on your side"	This is unused in the game; the note the player drew is shown instead.	
 4d810670	ジャード……ジャード……⏎ぼくは……おろかだった……	Jard...Jard...⏎I was...stupid...	"Jarred… Jarred…⏎
 I was such a fool!"		
 28810900	おねがいです!⏎助けてください!	Please! ⏎Please help me!	"Help!⏎
 Please help me!"	The palace is under attack! A grey guard has a woman trapped.	
-28810700	いひひひ、そうだな……今すぐに⏎雨をふらせてみろ	"Ihihihi, that's right...let's make it rain right now."	"Yes! It's time!⏎
-The darkness comes!"	This doesn’t seem to translate directly very well. Needs to be reworked.	
-28810700	ならば 助けてやらない事もない	"If that's the case, there's nothing I can do to help you."	Nothing can stop it!		
+28810700	いひひひ、そうだな……今すぐに⏎雨をふらせてみろ	"Ihihihi, that's right...let's make it rain right now."	"Gahaha! It’s pouring⏎
+rain!"		
+28810700	ならば 助けてやらない事もない	"If that's the case, there's nothing I can do to help you."	Let it rain blood!		
 28810900	そんな!	That’s it!	Hyaah!		
-47810718	血の雨なら いつでも。⏎おまえの血をかりるけどな	Whenever it rains blood. ⏎I'll take your blood.	"(clever one-liner⏎
-about darkness)"		
-28810700	よ、よくも……	"Yo, well..."	Well… done…		
+47810718	血の雨なら いつでも。⏎おまえの血をかりるけどな	Whenever it rains blood. ⏎I'll take your blood.	"Raining blood? Let’s⏎
+start with yours!"	This doesn’t seem to translate directly very well. Needs to be reworked.	
+28810700	よ、よくも……	"Yo, well..."	Urk-!		
 28010600	………	………	………	Examining dead guard	
 28010700	ううう…	Uuuuu...	Ugghhh…	Examining nearly dead guard	
 28010600	このっ こいつめ!	"This, this guy!"	Who are these guys!?	Palace guard fighting grey guard	
@@ -511,7 +527,7 @@ about darkness)"
 28010700	グオオオオ	Goooooooo	Rraaargh!	Grey guard fighting palace guard	
 0					
 0					
-4f810670	何者だ!?	Who are you!?	Who's there!?		
+4f810670	何者だ!?	Who are you!?	Who’s there!?		
 45030718	エンドン……なのか?	Endon...?	Endon… is that you?		
 4d810670	……キミは……	...You...	…?		
 47030718	ジャード。かじ屋のジャード	Jard. Kajiya's Jard	"Jarred。⏎
@@ -520,133 +536,142 @@ Jarred the blacksmith。"
 4f810670	ゆるしてくれ!⏎わたしは おろかだった⏸いくら こうかいしても したりない。⏎あの時の きみの言葉を……	"Please forgive me!⏎I was stupid⏸No matter how much I try, I won't do it. ⏎What she said to you back then..."	"Forgive me、Jarred!⏎
 I was a fool!⏸
 A stubborn fool!⏎
-You knew…"		
+Back then、you knew…"		
 45030718	エンドン、もういい⏸きみは無知だったかもしれない。⏎でも、おろかだったわけじゃない	"Endon, that's enough⏸You may have been ignorant. ⏎But I wasn't stupid."	"No、Endon。⏸
-You were ignorant⏎
+You were ignorant、⏎
 but not a fool。"		
-47030718	さあ、あの日のつづきだ	"Now, let's continue from that day."	"Let's pretend it⏎
-never happened"		
-4d810670	どうするんだ?	What should I do?	…What do we do now?		
-45030718	ぼくといっしょに ここから 出よう。⏎しんじつを知るときが 来たようだ	Get out of here with me. ⏎It seems the time has come to know the truth.	"We get out of here。⏸
-It's time to⏎
+47030718	さあ、あの日のつづきだ	"Now, let's continue from that day."	"It’s all in the past⏎
+anyway"		
+4d810670	どうするんだ?	What should I do?	What do we do now?		
+45030718	ぼくといっしょに ここから 出よう。⏎しんじつを知るときが 来たようだ	Get out of here with me. ⏎It seems the time has come to know the truth.	"Get out of here with me⏸
+It's time for you to⏎
 see the truth"		
-4e810670	ジャード。⏎今度はきみにまかせるよ	Jard. ⏎I'll leave it to you this time.	"You have my⏎
-trust、Jarred"		
-23030828	エンドン、その人は……	"Endon, that person..."	"Endon?⏎
-Is that-?"		
-4e030670	親友のジャードだよ	"This is my best friend, Jard."	"This is my old⏎
-friend Jarred"		
-22030828	まあ、あなたが……	"Well, you..."	Well、well…		
+4e810670	ジャード。⏎今度はきみにまかせるよ	Jard. ⏎I'll leave it to you this time.	"Yes、I trust you、⏎
+Jarred"		
+23030828	エンドン、その人は……	"Endon, that person..."	Endon? Who is this?		
+4e030670	親友のジャードだよ	"This is my best friend, Jard."	"This is my old friend⏎
+Jarred"		
+22030828	まあ、あなたが……	"Well, you..."	Jarred! You came!		
 4d810670	ジャード、わたしの つまだ	"Jard, my pinch"	"Jarred、this⏎
 is my wife、Sharn"		
-47030718	はじめまして、王妃様	"Nice to meet you, Queen"	"Nice to meet you⏎
+47030718	はじめまして、王妃様	"Nice to meet you, Queen"	"Nice to meet you、⏎
 your highness"		
-4d810670	見てのとおり、まもなく子どもが⏎生まれてくる	"As you can see, the baby will be born soon."	"We're expecting⏎
-a child soon"		
-45030718	エンドン! それは すばらしい!⏸実は ぼくも けっこんしたんだ。⏎つまの名はアンナ	"Endon! That's amazing!⏸Actually, I did it too. ⏎My name is Anna"	"Endon! That's great⏸
-I'm married too⏎
-Her name is Anna"		
-47030718	そして ぼくのところも もうすぐ⏎子どもが 生まれる	And my child will be born soon.	"We're expecting⏎
-a child soon too"		
+4d810670	見てのとおり、まもなく子どもが⏎生まれてくる	"As you can see, the baby will be born soon."	"As you can see、we’re⏎
+expecting a child soon"		
+45030718	エンドン! それは すばらしい!⏸実は ぼくも けっこんしたんだ。⏎つまの名はアンナ	"Endon! That's amazing!⏸Actually, I did it too. ⏎My name is Anna"	"That’s great、Endon!⏸
+I’m married too! Her⏎
+name is Anna"		
+47030718	そして ぼくのところも もうすぐ⏎子どもが 生まれる	And my child will be born soon.	"We're expecting a child⏎
+soon too"		
 4d810670	ジャード。⏎大切なときに……すまない	Jard. ⏎At an important time...I'm sorry	"Jarred…⏎
-I’m sorry this this is⏎
-happening now"		
-47030718	いや、こんなときで 良かったよ⏸つまり、ぼくは おなかが 大きな⏎女性には なれているって事さ	"Well, I'm glad it happened at a time like this⏸In other words, I have a big belly⏎I'm used to being a woman."	"Well, I'm glad it⏎
-happened now!⏸
-I'm used to being around⏎
-a pregnant woman!"	"Not sure what this is about. A joke, maybe?"	
-22810828	まあ、たのもしい!	"Well, it's fun!"	"Well, it's fun!"	Not sure what this response means either	
+I’m sorry this is all⏸
+happening now…"		
+47030718	いや、こんなときで 良かったよ⏸つまり、ぼくは おなかが 大きな⏎女性には なれているって事さ	"Well, I'm glad it happened at a time like this⏸In other words, I have a big belly⏎I'm used to being a woman."	"Well、I’m glad it⏎
+happening now!⏸
+I know how to handle⏎
+pregnant women!"	"Not sure what this is about. A joke, maybe?"	
+22810828	まあ、たのもしい!	"Well, it's fun!"	(Ahem!)	Not sure what this response means either	
 45030718	さて……ベルトはどこだ?	Now...where's the belt?	"So…⏎
 Where's the belt?"		
-4d810670	ベルトは……おきてどおりに⏎げんじゅうに ほかんされている	The belt is... as commanded ⏎ Genjui other than that.	"It's in the tower⏎
-as the Rule says"		
-45030718	それじゃあ、そこへ行こう⏸ベルトは きみが身につけて⏎守るべき物だ	"Well then, let's go there ⏸ The belt is something you should wear ⏎ and protect."	"Then let's go!⏸
-The Belt should be⏎
+4d810670	ベルトは……おきてどおりに⏎げんじゅうに ほかんされている	The belt is... as commanded ⏎ Genjui other than that.	"It’s in the tower as⏎
+the Rule requires"		
+45030718	それじゃあ、そこへ行こう⏸ベルトは きみが身につけて⏎守るべき物だ	"Well then, let's go there ⏸ The belt is something you should wear ⏎ and protect."	"Then let’s go!⏸
+The belt should be⏎
 worn and kept safe!"		
-4f810670	しかし、おきてが!!	"However, the law is!!"	But the Rule-!		
-45030718	それ以上言うと、ぼくは きみを⏎おろか者とよぶぞ	"If you say anything more, I'll call you an idiot."	"Don't be a⏎
-fool、Endon…"	Jarred pauses and looks away quite dramatically before speaking this line	
+4f810670	しかし、おきてが!!	"However, the law is!!"	But、the Rule-!		
+45030718	それ以上言うと、ぼくは きみを⏎おろか者とよぶぞ	"If you say anything more, I'll call you an idiot."	"Oh、don’t be a fool、⏎
+Endon…"	Jarred pauses and looks away quite dramatically before speaking this line	
 4d810670	こっちだ	It's this way	This way	Endon and Sharn talk in private for a moment before saying this	
-45810718	どうした?	what up?	What's wrong?		
+45810718	どうした?	what up?	What’s wrong?		
 4d810670	ベルトはあった⏸でも……	I had a belt ⏸ but...	"The belt is here…⏸
 But…"		
 4d810670	宝石はうばわれてしまった……	The jewels were stolen...	The gems are gone		
 46810718	なんという事だ!	Oh my god!	No!		
 21810b24	ふはははは!⏸宝石はいただいた。⏎これでベルトは無力⏸まもなく、この国は わたしが⏎おつかえする方の物になる!	"Hahahahaha!⏸I received the jewelry. ⏎Now the belt is powerless⏸Soon, this country will belong to the person I ⏎serve!"	"Hahahahaha!⏸
-I took the gems!⏎
-The Belt is powerless!⏸
+I stole the gems!⏎
+The belt is powerless!⏸
 Soon this land will⏎
 belong to my master!"	Enter Prandine	
 46810718	おまえは王に つかえる身ではないのか!	Aren't you worthy of being a king?	"Your master?⏎
 Who do you serve?"	Jarred points his sword at Prandine	
-21810b24	おやおや、ジャードではないか。⏎死んだと思っていたが	"Oh, isn't that Jard? ⏎I thought he was dead"	"Is that Jarred?⏎
-I thought you died"		
+21810b24	おやおや、ジャードではないか。⏎死んだと思っていたが	"Oh, isn't that Jard? ⏎I thought he was dead"	"Ah、Jarred、you have⏎
+risen from the dead to⏸
+try to interfere once⏎
+more!"	"Trying to work in a book quote, more or less"	
 46810718	しつもんに こたえろ!	Reply to me!	Answer the question!		
-21810b24	わたしが おつかえするのはただひとり⏸いだいなる影の大王様よ!	The only person I serve is the great King of Shadows!	"I serve only⏎
-one master-⏸
-the great⏎
-Shadow Lord!"		
+21810b24	わたしが おつかえするのはただひとり⏸いだいなる影の大王様よ!	The only person I serve is the great King of Shadows!	"I serve my master-⏸
+the great Shadow Lord!"		
 4f810770	なんと……	What...	No…		
 21810b24	ついでに言っておくならば……⏸この国の大臣は むかしから⏎影の大王様に おつかえしている⏸この国を ホネぬきにするためなら⏎なんだってするのさ⏸命じられれば 王も殺す	By the way...⏸The minister of this country has been in the service of the Great Shadow King since long ago⏸He will do whatever it takes to rid this country of his bones⏸He will even kill the king if he is ordered to do so.	"Yes! The Chief Advisors⏎
-have been serving⏸t
-he Shadow Lord in⏎
-secret for ages⏸
-I'd do anything to⏎
-destroy this kingdom⏸
-I'd even… kill the⏎
-king if ordered"		
-45810718	それじゃあ、先代の王が⏎なくなったのは……	"Well then, the previous king ⏎ disappeared..."	"The old King-!⏎
-You-!"		
-21810b24	気づくのがおそかったな	It was too late to realize	"Yes…⏎
-Now you see"		
-4f810670	ゆるさん!	Yuru-san!	"Bastard!⏎
-I trusted you!"	"After saying this, Endon charges at Prandine and is knocked back by a whip."	
-21810b24	さて、さいごの仕上げだ。⏎ねんには ねんをいれないとな⏸ベルトはアディンのしそんが⏎いなくては力をはっきできない⏸つまり……	"Now, the final touch. ⏎I need to put a ton in the belt ⏎The belt is made by Adin ⏎I can't show my strength without it ⏸In other words..."	"Now for the⏎
-finishing touch!⏸
-The Belt's power can⏎
-only be used by⏸
-Adin's heir! So…"		
-21810b24	王と、王妃(おうひ)のおなかの子が……	The king and the queen's unborn child...	"The King and Queen’s⏎
-unborn child…"		
-23030828	あっ!⏎あそこに宝石が おちています!	Ah! ⏎There's a jewel falling over there!	"Ah!⏎
-One of the gems!"		
-21810b24	なんだと!? バカな!	What!? You idiot!	What!? Fools!		
-21030b24	どこだ?	Where is it?	Where?		
-28010b24	うわーーーーー!	Wow!	Aaaaaah!		
+have been serving⏸
+the Shadow Lord in⏎
+secret for ages!⏸
+Slowly robbing the⏎
+royal family of power⏸
+until you were nothing⏎
+but his puppets!"	Changing this to match the book a bit more	
+45810718	それじゃあ、先代の王が⏎なくなったのは……	"Well then, the previous king ⏎ disappeared..."	All this time…		
+21810b24	気づくのがおそかったな	It was too late to realize	"The poison on my blade⏎
+made short work of your⏸
+mother and father、King⏎
+Endon…"		
+4f810670	ゆるさん!	Yuru-san!	You- you traitor!	"After saying this, Endon charges at Prandine and is knocked back by a whip."	
+21810b24	さて、さいごの仕上げだ。⏎ねんには ねんをいれないとな⏸ベルトはアディンのしそんが⏎いなくては力をはっきできない⏸つまり……	"Now, the final touch. ⏎I need to put a ton in the belt ⏎The belt is made by Adin ⏎I can't show my strength without it ⏸In other words..."	"Now to finish this!⏸
+Only Adin’s heirs can⏎
+use the belt’s power"		
+21810b24	王と、王妃(おうひ)のおなかの子が……	The king and the queen's unborn child...	"So you and your unborn⏎
+brat must die!"		
+23030828	あっ!⏎あそこに宝石が おちています!	Ah! ⏎There's a jewel falling over there!	Oh!	I'm not sure why the game makes this so much less interesting than the book. I’m going to try to bring back some of Sharn’s trick if I can.	
+21810b24	なんだと!? バカな!	What!? You idiot!	What? What do you see?		
+21030b24	どこだ?	Where is it?	"Someone coming to help⏎
+you、perhaps? Fool!"		
+28010b24	うわーーーーー!	Wow!	Aaaaaah!	Not used. We get a pretty great sound clip of Prandine’s death scream instead.	
 45030718	王妃!	princess!	Your highness!		
-22030828	だましてやりましたわ	I tricked you.	I… tricked him!		
+22030828	だましてやりましたわ	I tricked you.	"Often in the great hall⏎
+I have watched little⏸
+clowns upset big ones⏎
+from below⏸
+I did not see why the⏎
+trick should not work⏸
+for me!"		
 4f030670	きみって人は……	Who are you...	You… what?		
-47030718	エンドン。きみは すばらしい女性と⏎けっこんしたな	Endon. You married her wonderful woman.	"Endon、you married⏎
-one hell of a woman"		
-4e030670	う、うん	"Uh, yeah"	No kidding		
-45030718	さあ、こうしてはいられない。⏎ぼくの家へ行こう!	"Now, I can't stay like this. ⏎Let's go to my house!"	"We've gotta get⏎
-out of here!⏸
-Let's go to⏎
-to my place!"		
-4f030670	待ってくれ。⏎それからどうする?	Wait. ⏎What do you do next?	"Wait、what can⏎
-we do now?"		
-4d030670	ベルトの宝石は うばわれてしまった⏸宝石がないと ベルトは⏎役に立たない	"The jewels on the belt have been stolen⏸Without the jewels, the belt is ⏎useless."	"The gems are gone⏸
-Without them、the⏎
-Belt is useless"		
-45030718	エンドン……宝石を取りもどせば⏎いいだけの話だ⏸もちろん、今すぐには⏎うごけない	"Endon... It's just a matter of getting the jewel back ⏎Of course, I can't move ⏎right now."	"Then we'll have to⏎
-get the gems back⏸
-We'll have to⏎
-lay low for a while…"		
-45030718	でも、いつか……	But someday...	But someday…		
-47030718	影の大王の好きにはさせないさ	I won't let the shadow king have his way.	"I won't let⏎
-the Shadow Lord win!"	Sharn does a happy little hop after this line.	
+47030718	エンドン。きみは すばらしい女性と⏎けっこんしたな	Endon. You married her wonderful woman.	"Endon、you are as⏎
+fortunate in your bride⏸
+as I am in mine!"		
+4e030670	う、うん	"Uh, yeah"	…		
+45030718	さあ、こうしてはいられない。⏎ぼくの家へ行こう!	"Now, I can't stay like this. ⏎Let's go to my house!"	"We must hurry!⏎
+Quickly、to my shop!"		
+4f030670	待ってくれ。⏎それからどうする?	Wait. ⏎What do you do next?	"I cannot just run and⏎
+hide!"		
+4d030670	ベルトの宝石は うばわれてしまった⏸宝石がないと ベルトは⏎役に立たない	"The jewels on the belt have been stolen⏸Without the jewels, the belt is ⏎useless."	"I must find the gems⏎
+And restore the belt!⏸
+Without them Deltora⏎
+is doomed!"		
+45030718	エンドン……宝石を取りもどせば⏎いいだけの話だ⏸もちろん、今すぐには⏎うごけない	"Endon... It's just a matter of getting the jewel back ⏎Of course, I can't move ⏎right now."	"The gems must be found、⏎
+but you cannot be the⏸
+one to find them、Endon⏸
+The Shadow Lord will be⏎
+searching for you.⏸
+You must stay in hiding⏎
+and wait"	Changing this a bit to fit the book.	
+45030718	でも、いつか……	But someday...	"If the Shadow Lord can⏎
+be patient、so can we"	"This is Sharn’s line in the book, but she’s done talking in the game, so Jarred gets it instead."	
+47030718	影の大王の好きにはさせないさ	I won't let the shadow king have his way.	"Years may pass、but⏎
+Adin’s heir will wear⏸
+the belt again and save⏎
+Deltora!"	Sharn does a happy little hop after this line.	
 1	16年後	16 years later	16 Years Later		
 0	あれから16年。⏎友よ。⏎元気にしているか?	16 years have passed since then. ⏎My friend. ⏎Are you doing well?	"16 Years have⏎
 passed since then。⏎
 My friend…⏎
 Are you doing well?"		
-1b810618	いよいよか	Is it finally here?	Is it finally time?		
-1c81081c	今日じゃなくても いいじゃないですか。⏎お祝いの日じゃなくても……	It doesn't matter if it's not today. ⏎Even if it's not a day of celebration...	"It doesn't matter⏎
-if it's really today"	"This translation is clumsy. They’re being vague, so Google isn’t much help."	
-1b810618	その話は なんどもしたじゃないか。⏎きみも わかってくれたはずだ	We've talked about that many times. ⏎I'm sure she understood as well.	"We've been over⏎
-this before⏸
-You understand⏎
-why it must be"		
+1b810618	いよいよか	Is it finally here?	It’s time		
+1c81081c	今日じゃなくても いいじゃないですか。⏎お祝いの日じゃなくても……	It doesn't matter if it's not today. ⏎Even if it's not a day of celebration...	"Does it have to be⏎
+today?"	"This translation is clumsy. They’re being vague, so Google isn’t much help."	
+1b810618	その話は なんどもしたじゃないか。⏎きみも わかってくれたはずだ	We've talked about that many times. ⏎I'm sure she understood as well.	"We’ve been over this⏎
+many times⏸
+You know why it must⏎
+be this way"		
 1c81081c	リーフ……	Leaf...	Lief…		
 28010700	王族以外入ってはいけません!!	Only members of the royal family are allowed to enter!!	"Only members of the⏎
 Royal family may enter!"	Possibly unused	
