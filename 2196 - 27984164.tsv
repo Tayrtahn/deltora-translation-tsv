@@ -1,23 +1,37 @@
 Header	Japanese	Google Translate	Translated
-00000000	よーし⏎たたくぞー	Okay, let's hit it!	
-00000000	リーフはつかれたが⏎いい仕事をした	Leaf was tired but did a good job.	
-00000000	リーフの剣LVが#f5ffになった!!	Leaf's sword LV has become #f5ff!!	
-00000000	バルダの剣LVが#f5ffになった!!	Barda's sword LV has become #f5ff!!	
-00000000	ジャスミンの剣LVが#f5ffになった!!	Jasmine's sword LV has become #f5ff!!	
-00000000	鉄の合成により⏎一定時間『きぜつ』こうかをえた!	By synthesizing iron, ⏎ gained a “kisetsu” shape for a certain period of time!	
-00000000	銀の合成により⏎一定時間影のてきに大ダメージ!	By synthesizing silver, ⏎Great damage to shadows for a certain period of time!	
-00000000	金の合成により⏎一定時間炎の追加ダメージ!	By combining gold, ⏎additional fire damage for a certain period of time!	
-00000000	水晶の合成により⏎一定時間こうげきはんいが広がる!	By synthesizing crystals, ⏎Kougekihani spreads for a certain period of time!	
-00000000	ジャードは少し⏎かじのコツをつかんだようだ	Jard seems to have gotten the hang of ⏎Kazi a little bit.	
-00000000	かじのこころえ⏎⏎下画面をれんぞくタッチすると⏎リーフが剣をきたえます⏎メーターがたまると剣のLVがあがります	Kaji no Kokoro⏎⏎Touch the bottom screen to make Leaf raise a sword⏎As the meter fills up, the sword's level will increase	
-00000000	かじのこころえ⏎⏎下画面をれんぞくタッチすると⏎ジャードが剣をきたえます⏎メーターがたまると剣のLVがあがります	Kaji no Kokoro ⏎⏎Touch the bottom screen to make ⏎Jard prepare a sword ⏎As the meter accumulates, the sword's level will increase	
-00000000	リーフは『そざい』をもっています⏎⏎合成したい『そざい』をえらんでください⏎まる:けってい⏎やじるし:ごうせいしない	"Leaf has ""Sozai"" ⏎⏎ Please select the ""Sozai"" you want to combine ⏎ Maru: Kite ⏎ Yajirushi: Do not go"	
-00000000	#0f00#0f00#0f00『#f8ff鉄#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間『きぜつ』こうかをえる#0f00	#0f00#0f00#0f00 『#f8ff Iron#fcff』 ``Kizetsu'' for a certain period of time #0f00	
-00000000	#0f00#0f00#0f00『#f8ff銀#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間影のてきに大ダメージ#0f00#0f00	#0f00#0f00#0f00 『#f8ffsilver#fcff』 Great damage when shadowed for a certain period of time #0f00#0f00	
-00000000	#0f00#0f00#0f00『#f8ff金#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間炎の追加ダメージをえる#0f00	#0f00#0f00#0f00 『#f8ff金#fcff』 Gain additional flame damage for a certain period of time #0f00	
-00000000	#0f00#0f00#0f00『#f8ff水晶(すいしょう)#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間こうげきはんいが広がる#0f00	#0f00#0f00#0f00『#f8ffCrystal#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00The fire spreads for a certain period of time#0f00	
-00000000	『#f8ffデルのバッジ#fcff』がかがやいた!	“#f8ff Dell badge #fcff” shines!	
-00000000	『きぜつ』こうか	“Kisetsu” Kouka	
-00000000	影のてきに大ダメージ	Great damage to shadows	
-00000000	炎の追加ダメージ	additional fire damage	
-00000000	こうげきはんいが広い	The space is spacious	
+0	よーし⏎たたくぞー	"Okay, let's hit it!"	Okay、lets do it!
+0	リーフはつかれたが⏎いい仕事をした	Leaf was tired but did a good job.	"Whew!⏎
+Great job!"
+0	リーフの剣LVが#f5ffになった!!	Leaf's sword LV has become #f5ff!!	Lief’s sword hit LV #f5ff!
+0	バルダの剣LVが#f5ffになった!!	Barda's sword LV has become #f5ff!!	Barda’s sword hit LV #f5ff!
+0	ジャスミンの剣LVが#f5ffになった!!	Jasmine's sword LV has become #f5ff!!	Jasmine’s sword hit LV #f5ff!
+0	鉄の合成により⏎一定時間『きぜつ』こうかをえた!	"By synthesizing iron, ⏎ gained a “kisetsu” shape for a certain period of time!"	鉄の合成により⏎一定時間『きぜつ』こうかをえた!
+0	銀の合成により⏎一定時間影のてきに大ダメージ!	"By synthesizing silver, ⏎Great damage to shadows for a certain period of time!"	銀の合成により⏎一定時間影のてきに大ダメージ!
+0	金の合成により⏎一定時間炎の追加ダメージ!	"By combining gold, ⏎additional fire damage for a certain period of time!"	金の合成により⏎一定時間炎の追加ダメージ!
+0	水晶の合成により⏎一定時間こうげきはんいが広がる!	"By synthesizing crystals, ⏎Kougekihani spreads for a certain period of time!"	水晶の合成により⏎一定時間こうげきはんいが広がる!
+0	ジャードは少し⏎かじのコツをつかんだようだ	Jard seems to have gotten the hang of ⏎Kazi a little bit.	"Jarred seems to have⏎
+gotten the hang of it!"
+0	かじのこころえ⏎⏎下画面をれんぞくタッチすると⏎リーフが剣をきたえます⏎メーターがたまると剣のLVがあがります	"Kaji no Kokoro⏎⏎Touch the bottom screen to make Leaf raise a sword⏎As the meter fills up, the sword's level will increase"	"Blacksmithing⏎
+⏎
+Tap the bottom screen⏎
+to make Lief hit⏎
+⏎
+Fill the meter to⏎
+level up the sword!"
+0	かじのこころえ⏎⏎下画面をれんぞくタッチすると⏎ジャードが剣をきたえます⏎メーターがたまると剣のLVがあがります	"Kaji no Kokoro ⏎⏎Touch the bottom screen to make ⏎Jard prepare a sword ⏎As the meter accumulates, the sword's level will increase"	"Blacksmithing⏎
+⏎
+Tap the bottom screen⏎
+to make Jarred hit⏎
+⏎
+Fill the meter to⏎
+level up the sword!"
+0	リーフは『そざい』をもっています⏎⏎合成したい『そざい』をえらんでください⏎まる:けってい⏎やじるし:ごうせいしない	"Leaf has ""Sozai"" ⏎⏎ Please select the ""Sozai"" you want to combine ⏎ Maru: Kite ⏎ Yajirushi: Do not go"	リーフは『そざい』をもっています⏎⏎合成したい『そざい』をえらんでください⏎まる:けってい⏎やじるし:ごうせいしない
+0	#0f00#0f00#0f00『#f8ff鉄#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間『きぜつ』こうかをえる#0f00	#0f00#0f00#0f00 『#f8ff Iron#fcff』 ``Kizetsu'' for a certain period of time #0f00	#0f00#0f00#0f00『#f8ff鉄#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間『きぜつ』こうかをえる#0f00
+0	#0f00#0f00#0f00『#f8ff銀#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間影のてきに大ダメージ#0f00#0f00	#0f00#0f00#0f00 『#f8ffsilver#fcff』 Great damage when shadowed for a certain period of time #0f00#0f00	#0f00#0f00#0f00『#f8ff銀#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間影のてきに大ダメージ#0f00#0f00
+0	#0f00#0f00#0f00『#f8ff金#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間炎の追加ダメージをえる#0f00	#0f00#0f00#0f00 『#f8ff金#fcff』 Gain additional flame damage for a certain period of time #0f00	#0f00#0f00#0f00『#f8ff金#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間炎の追加ダメージをえる#0f00
+0	#0f00#0f00#0f00『#f8ff水晶(すいしょう)#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間こうげきはんいが広がる#0f00	#0f00#0f00#0f00『#f8ffCrystal#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00The fire spreads for a certain period of time#0f00	#0f00#0f00#0f00『#f8ff水晶(すいしょう)#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間こうげきはんいが広がる#0f00
+0	『#f8ffデルのバッジ#fcff』がかがやいた!	“#f8ff Dell badge #fcff” shines!	『#f8ffデルのバッジ#fcff』がかがやいた!
+0	『きぜつ』こうか	“Kisetsu” Kouka	『きぜつ』こうか
+0	影のてきに大ダメージ	Great damage to shadows	影のてきに大ダメージ
+0	炎の追加ダメージ	additional fire damage	炎の追加ダメージ
+0	こうげきはんいが広い	The space is spacious	こうげきはんいが広い

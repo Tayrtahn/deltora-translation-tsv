@@ -71,7 +71,7 @@ Header	Japanese	Google Translate	Translated	Notes
 0	#f7ffOFF	#f7ffOFF	#f7ffOFF	
 0	BATTLE:#f6ff	BATTLE:#f6ff	BATTLE:#f6ff	
 0	EVENT:#f6ff	EVENT:#f6ff	EVENT:#f6ff	
-0	ぬのの服	Nuno's clothes	ぬのの服	
+0	ぬのの服	Nuno's clothes	Clothes	
 0	レザーアーマー	leather armor	レザーアーマー	
 0	うろこのよろい	armor of scales	うろこのよろい	
 0	チェインメイル	chain mail	チェインメイル	
@@ -103,23 +103,23 @@ Header	Japanese	Google Translate	Translated	Notes
 0	とんがりぼうし	Pointed hat	とんがりぼうし	
 0	かぼちゃのマスク	pumpkin mask	かぼちゃのマスク	
 0	デルのバッジ	dell badge	デルのバッジ	
-0	鉄	iron	鉄	
-0	銀	silver	銀	
-0	金	gold	金	
-0	水晶	crystal	水晶	
-0	小麦	wheat	小麦	
-0	かぼちゃ	pumpkin	かぼちゃ	
-0	ハイビスカス	hibiscus	ハイビスカス	
-0	きのこ	mushroom	きのこ	
-0	うろこ	Scales	うろこ	
+0	鉄	iron	Iron	
+0	銀	silver	Silver	
+0	金	gold	Gold	
+0	水晶	crystal	Crystal	
+0	小麦	wheat	Wheat	
+0	かぼちゃ	pumpkin	Pumpkin	
+0	ハイビスカス	hibiscus	Hibiscus	
+0	きのこ	mushroom	Mushroom	
+0	うろこ	Scales	Scales	
 0	虫のはね	insect splash	虫のはね	
-0	蜘蛛の糸	spider thread	蜘蛛の糸	
-0	ハチミツ	honey	ハチミツ	
-0	青リンゴ	green apple	青リンゴ	
-0	緑のコケ	green moss	緑のコケ	
-0	紫のコケ	purple moss	紫のコケ	
-0	炭	charcoal	炭	
-0	#0201アップルドリンク	#0201 Apple drink	#0201アップルドリンク	
+0	蜘蛛の糸	spider thread	Web	
+0	ハチミツ	honey	Honey	
+0	青リンゴ	green apple	Green apple	
+0	緑のコケ	green moss	Green moss	
+0	紫のコケ	purple moss	Purple moss	
+0	炭	charcoal	Coal	
+0	#0201アップルドリンク	#0201 Apple drink	#0201Apple cider	
 0	#0201パンプキンケーキ	#0201 Pumpkin cake	#0201パンプキンケーキ	
 0	#0201マジックブレッド	#0201 Magic Bread	#0201マジックブレッド	
 0	#0201かぼちゃスープ	#0201 Pumpkin soup	#0201かぼちゃスープ	
@@ -149,13 +149,13 @@ Header	Japanese	Google Translate	Translated	Notes
 0	キンのはね	Kin no Hane	キンのはね	
 0	厚底靴	platform shoes	厚底靴	
 0	ゴム長靴	rubber boots	ゴム長靴	
-0	カギ	key	カギ	
+0	カギ	key	Key	
 0	デルトラ全曲集	Deltora complete collection	デルトラ全曲集	
-0	アップルドリンク	apple drink	アップルドリンク	
-0	パンプキンケーキ	pumpkin cake	パンプキンケーキ	
+0	アップルドリンク	apple drink	Apple cider	
+0	パンプキンケーキ	pumpkin cake	Pumpkin cake	
 0	トロピカルジュース	tropical juice	トロピカルジュース	
-0	アップルパイ	apple pie	アップルパイ	
-0	健康ドリンク	health drinks	健康ドリンク	
+0	アップルパイ	apple pie	Apple pie	
+0	健康ドリンク	health drinks	Energy drink	
 0	マジックブレッド	magic bread	マジックブレッド	
 0	きのこのグリル	grilled mushrooms	きのこのグリル	
 0	かぼちゃスープ	pumpkin soup	かぼちゃスープ	
@@ -167,27 +167,27 @@ Header	Japanese	Google Translate	Translated	Notes
 0	むてき菜	Peeled greens	むてき菜	
 0	全快&どく菜	Full recovery & Dokuna	全快&どく菜	
 0	ラッキー菜	Lucky greens	ラッキー菜	
-0	リンゴ	apple	リンゴ	
-0	ぶどう	grapes	ぶどう	
-0	スイカ	watermelon	スイカ	
-0	さくらんぼ	cherry	さくらんぼ	
-0	バナナ	banana	バナナ	
-0	原始肉	raw meat	原始肉	
-0	ステーキ	steak	ステーキ	
-0	チキン	chicken	チキン	
-0	ハム	ham	ハム	
-0	シシカバブ	shish kebab	シシカバブ	
+0	リンゴ	apple	Apple	
+0	ぶどう	grapes	Grapes	
+0	スイカ	watermelon	Watermelon	
+0	さくらんぼ	cherry	Cherry	
+0	バナナ	banana	Banana	
+0	原始肉	raw meat	Raw meat	
+0	ステーキ	steak	Steak	
+0	チキン	chicken	Chicken	
+0	ハム	ham	Ham	
+0	シシカバブ	shish kebab	Kebab	
 0	火ぶくれ弹	fire blisters	火ぶくれ弹	
 0	火おこしビーズ	fire starting beads	火おこしビーズ	
 0	パープルボム	purple bomb	パープルボム	
 0	光の矢	arrow of light	光の矢	
 0	へんしんボム	Henshin Bomb	へんしんボム	
 0	スタンボム	stun bomb	スタンボム	
-0	『#f7ff#f6ff#fcff』に行きますか?	Would you like to go to “#f7ff#f6ff#fcff”?	"Go to⏎
+0	『#f7ff#f6ff#fcff』に行きますか?	Would you like to go to “#f7ff#f6ff#fcff”?	"Enter⏎
 #f7ff#f6ff#fcff?"	
 0	『#f7ff#f6ff#fcff』で買い物しますか?	Would you like to shop at “#f7ff#f6ff#fcff”?	"Shop at⏎
 #f7ff#f6ff#fcff?"	
-0	キャンプに入りますか?	Are you going to camp?	Set up camp?	
+0	キャンプに入りますか?	Are you going to camp?	Enter camp?	
 0	キャンプからでますか?	Are you leaving camp?	Leave camp?	
 0	セーブしますか?	Do you want to save?	Save?	
 0	セーブしています…⏎でんげんを切ったりカードのぬきさしを⏎しないで下さい	Saving...⏎Please do not cut the green beans or cut out the cards.	"Saving…⏎
@@ -196,7 +196,7 @@ system or remove⏎
 the game card"	Unused?
 0	セーブがおわりました	The save is finished	Saved	Unused?
 0	マドレットに乗って帰りますか?	Would you like to ride Madret home?	マドレットに乗って帰りますか?	
-0	かじをしますか?	Do you want to steer?	かじをしますか?	
+0	かじをしますか?	Do you want to steer?	Start smithing?	
 5810104	うわっ⏎まっくらだ	Wow⏎It's pitch black	うわっ⏎まっくらだ	
 5810104	これじゃ先にすすめないぞ⏸引きかえそう!	We can't move forward like this ⏸ Let's turn back!	これじゃ先にすすめないぞ⏸引きかえそう!	
 1810104	そうだ、これを使おう!	"Yes, use this!"	そうだ、これを使おう!	
