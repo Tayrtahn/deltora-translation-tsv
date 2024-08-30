@@ -1,7 +1,7 @@
 Header	Japanese	Google Translate	Translated	Notes
-"""00000001"""	#f9ff下画面をタッチしてください	#f9ffPlease touch the bottom screen	#f9ffTouch bottom screen	
-"""00000001"""	#f9ffぼうけんをはじめる	#f9ffStart the adventure	#f9ffStart Game	
-"""00000001"""	#f9ffワイヤレスつうしん	#f9ff wireless communication	#f9ffWireless Mode	
+"""00000001"""	#f9ff下画面をタッチしてください	#f9ffPlease touch the bottom screen	#f9ffTouch to start	
+"""00000001"""	#f9ffぼうけんをはじめる	#f9ffStart the adventure	#f9ffAdventure	
+"""00000001"""	#f9ffワイヤレスつうしん	#f9ff wireless communication	#f9ffWireless	
 """00000000"""	the#0f00original#0f00author⏎Emily#0f00Rodda	the#0f00original#0f00author⏎Emily#0f00Rodda	the#0f00original#0f00author⏎Emily#0f00Rodda	
 """00000000"""	"publisher⏎BANDAI#0f00CO．,LTD．⏎BEC#0f00CO．,LTD．⏎⏎developer⏎audio#0f00inc．"	"publisher⏎BANDAI#0f00CO．,LTD．⏎BEC#0f00CO．,LTD．⏎⏎developer⏎audio#0f00inc．"	"publisher⏎BANDAI#0f00CO．,LTD．⏎BEC#0f00CO．,LTD．⏎⏎developer⏎audio#0f00inc．"	
 """00000000"""	supervisor⏎Yuuri#0f00Shibamura	supervisor⏎Yuuri#0f00Shibamura	supervisor⏎Yuuri#0f00Shibamura	
@@ -18,8 +18,8 @@ Header	Japanese	Google Translate	Translated	Notes
 """00000000"""	『デルトラ王国 デルの町』	"""Deltora Kingdom Del Town"""	『デルトラ王国 デルの町』	
 """06030104"""	こんな町……早く出たいよ	A town like this...I want to leave as soon as possible	"Del… I need to get⏎
 out of this town…"	
-"""06030104"""	影の大王のしるしが ないところなら⏎どこだっていいや	"As long as there is no sign of the Great Shadow King, I don't care where."	"Life is impossible⏎
-under the Shadow King"	
+"""06030104"""	影の大王のしるしが ないところなら⏎どこだっていいや	"As long as there is no sign of the Great Shadow King, I don't care where."	"Life is miserable⏎
+under the Shadow Lord"	
 """06030104"""	まずいぞ……⏎影の憲兵団(けんぺいだん)だ……⏸見つからないようにしなくちゃ	That's bad...⏎It's the Shadow Military Police Corps...⏸We have to make sure they don't find us.	"Uh-oh!⏎
 Grey Guards!⏸
 Can’t let them find⏎
@@ -38,15 +38,15 @@ brat go?"
 """28010700"""	あれは かじ屋の息子だぞ	That's the blacksmith's son.	"I think that’s the⏎
 blacksmith’s kid"	
 """06810104"""	(ばれてる!?)	(Has it been found out!?)	(They recognized me!?)	
-"""28010600"""	それじゃあ、オヤジを⏎いためつけてやるか	"Well then, shall I torture the old man?"	"Then lets go make his⏎
+"""28010600"""	それじゃあ、オヤジを⏎いためつけてやるか	"Well then, shall I torture the old man?"	"Then let’s go make his⏎
 dad suffer for this!"	
-"""28010700"""	いや、やめとけ。⏎あのかじ屋、うではいいんだ⏸すばらしい剣を安く⏎つくらせる事ができる	"No, stop it. ⏎That swordsmith can make you a great sword cheaply⏎"	"Hey, not so fast!⏸
+"""28010700"""	いや、やめとけ。⏎あのかじ屋、うではいいんだ⏸すばらしい剣を安く⏎つくらせる事ができる	"No, stop it. ⏎That swordsmith can make you a great sword cheaply⏎"	"Hey、not so fast!⏸
 That codger can make a⏎
 great sword for cheap!"	
 """28010600"""	安い? いくらだ?	Cheap? How much?	Cheap? How cheap?	
 """28010700"""	そりゃおまえ、タダ!	"That's right, you're free!"	"For us? We’ll take it⏎
 for free!"	
-"""28010600"""	わははは、そりゃいい!⏸かじ屋のくやしそうな顔が⏎目にうかぶぜ!	"Hahahaha, that's good! ⏸The Kajiya's disgusted face ⏎appears in my eyes!"	"Hahaha、that’s great!⏸
+"""28010600"""	わははは、そりゃいい!⏸かじ屋のくやしそうな顔が⏎目にうかぶぜ!	"Hahahaha, that's good! ⏸The Kajiya's disgusted face ⏎appears in my eyes!"	"Grahahaha、yes!⏸
 I can’t wait to see⏎
 the fear in his eyes!"	
 """06810104"""	(ゆるせない……)	(I can't forgive...)	"Father…⏎
@@ -54,12 +54,12 @@ I can’t let them…"
 """28010600"""	見つけたぞ、こぞう!	"I found it, Kozo!"	There’s the brat!	
 """06810104"""	ゆるさない!	I won't forgive!	I won’t let you-!	
 """28010700"""	げひひひひ!	Gehihihihi!	Grahahaha!	
-"""06810104"""	(しまった……)	(It's gone...)	(Uh oh)	
-"""28010600"""	さっきの いきおいはどうした!	What happened to Ikioi earlier?	"Why don’t you pick on⏎
-someone your own size?"	
+"""06810104"""	(しまった……)	(It's gone...)	(Gulp!)	
+"""28010600"""	さっきの いきおいはどうした!	What happened to Ikioi earlier?	"Not so tough now、⏎
+huh、kid?"	
 """06810104"""	バルダ!?	Barda!?	Barda!?	
 """0e810208"""	さあ、にげるぞ!	"Come on, let's escape!"	Come on、let’s go!	
-"""28010600"""	うわっ!	Wow!	Wow!	Wow indeed. Apparently Barda is a rhinoceros
+"""28010600"""	うわっ!	Wow!	Waaugh!	Wow indeed. Apparently Barda is a rhinoceros
 """0e030208"""	まったく……⏸夕方までに帰って来いと⏎言われていただろうに⏸オレがいなかったら⏎どうなっていた事やら	At all... ⏸You would have told me to be back by evening⏸⏸If I hadn't been there⏎I wonder what would have happened.	"Harumph!⏸
 You know you can’t be⏎
 out after sunset!⏸
@@ -68,18 +68,19 @@ there to save you…"
 """06030104"""	だって……	Because...	But…	
 """0e030208"""	だってだってだってだって!⏎なさけないやつだ	"Because, because, because! ⏎I miss him so much!"	"But、but、but!⏎
 Always an excuse…"	
-"""06030104"""	なさけない!?⏸バルダだって同じだよ!⏎いそうろうのくせに!	Sorry!? ⏸ It's the same with Barda! ⏎ Even though he's so cute!	"Sorry!?⏸
-What were you doing⏎
-out there, Barda?⏸
+"""06030104"""	なさけない!?⏸バルダだって同じだよ!⏎いそうろうのくせに!	Sorry!? ⏸ It's the same with Barda! ⏎ Even though he's so cute!	"What were you doing⏎
+out there、Barda?⏸
 Even a beggar like⏎
 you can’t be out late!"	
-"""0e030208"""	たしかにオレは ジャードと⏎アンナの世話になっている⏸つまりおまえと同じだ	"It's true that I'm under the care of Jard and Anna, so I'm just like you."	"True… I rely on Jarred⏎
-and Ana like you do。⏸
-We’re not so different"	
+"""0e030208"""	たしかにオレは ジャードと⏎アンナの世話になっている⏸つまりおまえと同じだ	"It's true that I'm under the care of Jard and Anna, so I'm just like you."	"True… Jarred and Ana⏎
+watch over me too⏸
+You and I are not so⏎
+different"	
 """06030104"""	ふん!	Hmph!	Hmph!	
-"""06030104"""	まずいんだ⏸ぼくがここの家の子だって⏎憲兵団に知られてた	It's bad⏸I'm from this family⏎The military police knew it.	"Oh no! The Grey Guards⏎
-me。We’re in danger。"	
-"""0e030208"""	それは……いい きっかけだな	That's...a good opportunity.	"Hmm… this might be
+"""06030104"""	まずいんだ⏸ぼくがここの家の子だって⏎憲兵団に知られてた	It's bad⏸I'm from this family⏎The military police knew it.	"Ah… the Grey Guards⏎
+recognized me earlier⏸
+We’re all in danger!"	
+"""0e030208"""	それは……いい きっかけだな	That's...a good opportunity.	"Hmm… this might be⏎
 a good opportunity"	
 """06030104"""	どういう意味?	What does it mean?	What do you mean?	
 """0e030208"""	町を出たいんだろう?⏸さあ、中でジャードと話してこい。⏎旅の じゅんびは できているぞ	"You want to leave town, right?⏸Now, go inside and talk to Jard. ⏎He's ready for the trip."	"You want to get out⏎
@@ -99,12 +100,12 @@ times I’m sick of it!"
 """06030104"""	(よけいな事を言っちゃった。⏎これは 長いおせっきょうに なるぞ……)	(I said something stupid. ⏎This is going to be a long rant...)	"(Why did I say that?⏎
 I’m in for it now!)"	
 """1b030618"""	…………	…………	…………	
-"""06030104"""	(い、息がつまりそうだ。⏎なにかしゃべらないと……)	(I-I feel like I'm suffocating. ⏎I have to say something...)	"(I can’t breathe! I⏎
+"""06030104"""	(い、息がつまりそうだ。⏎なにかしゃべらないと……)	(I-I feel like I'm suffocating. ⏎I have to say something...)	"(I can’t breathe! I’ve⏎
 gotta say something!)"	
-"""06030104"""	バルダが へんな事を言うんだ。⏎ぼくが旅に出るとかさ	Barda says something strange. ⏎I'm going on a journey.	"Barda said something⏎
-strange!⏸
-I’m going on a⏎
-journey?"	
+"""06030104"""	バルダが へんな事を言うんだ。⏎ぼくが旅に出るとかさ	Barda says something strange. ⏎I'm going on a journey.	"Barda just said⏎
+something strange!⏸
+Something about me⏎
+going on a journey?"	
 """1b030618"""	ああ、それは本当だ。⏎しかも、とても きけんな旅だ	"Oh, that's true. ⏎Moreover, she is on a very dangerous journey."	"Yes、that’s right。A⏎
 very dangerous journey"	
 """1c03081c"""	ことわってもいいのよ、リーフ	"It's okay to say something, Leaf."	You can say no、Lief	
@@ -113,7 +114,7 @@ decide for yourself"
 """06030104"""	(な、なんだ!?)	(W-what!?)	(W-what!?)	
 """1b030618"""	これは……デルトラのベルトだ	This is...Deltora's belt.	"This… is the⏎
 Belt of Deltora"	
-"""06030104"""	え!? 王家に伝わるベルトだよね?⏎どうしてこれがうちに!?	"Huh!? It's a belt passed down through the royal family, right? ⏎Why do we have this!?"	"Huh!? The Belt is⏎
+"""06030104"""	え!? 王家に伝わるベルトだよね?⏎どうしてこれがうちに!?	"Huh!? It's a belt passed down through the royal family, right? ⏎Why do we have this!?"	"Huh!? The belt is⏎
 passed down through⏸
 The royal family、⏎
 isn’t it?⏸
@@ -122,7 +123,7 @@ Why do we have it!?"
 lived in the palace"	"I’m pretty sure Google translate is getting confused by pronouns or something. This is an unlikely change, so I’m sticking with the books."
 """06030104"""	本当に!?	Really!?	What!? Really!?	
 """1b030618"""	そして さいごのデルトラの王⏎エンドンの親友だった	And the final King of Deltora was Endon's best friend.	"I was close friends⏎
-with Endon, the last⏸
+with Endon、the last⏸
 King of Deltora"	
 """06030104"""	まぬけのエンドン王?	Stupid King Endon?	King Endon the Fool?	
 """1b030618"""	そう……彼は世間知らずの⏎おろか者だった⏸今はどこで何を⏎しているのか……	Yes...he was a naive idiot.Where is he and what is he doing now?	"Yes… he was a fool⏸
@@ -131,9 +132,9 @@ now…"	Mmhm
 """06030104"""	生きてるの?	Are you alive?	Is he still alive?	Google translate dropping spoilers
 """1b030618"""	さあな⏸しかし彼の子ども……王家の⏎あとつぎは 生きているはずだ⏸その あとつぎを おまえに⏎見つけだしてほしい⏸この国を影の大王から⏎すくうためだ	"Now, his child...the next member of the royal family should be alive, and I want you to find him in order to save this country from the shadow king."	"Who knows? But his⏎
 child、the next heir⏸
-should be alive. I⏎
+should be alive。I⏎
 want you to find him⏸
-to save Deltora from⏎
+and save Deltora from⏎
 the Shadow Lord"	
 """06030104"""	(すごい話だな。でも……)	(That's an amazing story. But...)	(Incredible! But…)	
 """06030104"""	あとつぎがいたって⏎無理じゃないのかな……⏸だって、おろかなエンドン王の⏎子どもでしょ?	"I guess it's impossible for there to be a successor... After all, he's the child of the stupid King Endon, right?"	"Even if the heir is⏎
@@ -150,7 +151,7 @@ story"
 """00000501"""	アディンは 七部族を せっとくして⏎宝石をあつめた⏎⏎七つの宝石を 自分でつくった⏎ベルトにつけて こしにまいた⏎⏎すると ベルトはたいようのように⏎光り かがやいた	Adin assisted the seven tribes and collected the precious stones.He made the seven jewels and put them on his belt and sprinkled them in a strainer.Then the belt shone like a star.	"Adin gathered the 7⏎
 Gems from the 7 tribes⏎
 and attached them to⏎
-the belt he made。⏎
+the belt he had made。⏎
 When he put it on、⏎
 it shone as bright⏎
 as the sun。"	
@@ -159,25 +160,25 @@ United behind him、and⏎
 Together they drove⏎
 The Enemy from their⏎
 land。"	I got this pretty close to the words in the book.
-"""1b030618"""	そう⏸そのベルトの力が昔と同じように⏎デルトラを すくってくれるはずだ	"Yes, the power of that belt will scoop up Deltora just like before."	"Indeed⏸
+"""1b030618"""	そう⏸そのベルトの力が昔と同じように⏎デルトラを すくってくれるはずだ	"Yes, the power of that belt will scoop up Deltora just like before."	"Good⏸
 The power of the Belt⏎
 can save Deltora again"	
 """06030104"""	でも、父さん⏸このベルトには宝石が⏎ついていない……	"But, Dad, there are no jewels on this belt..."	"But… there are no⏎
 Gems on the Belt…"	
 """06030104"""	……宝石もさがすんだね?	"...You also search for gems, right?"	"You want me to find⏎
-the Gems?"	
-"""1b030618"""	そのとおり	that's right	"Yes, Lief"	
-"""1c03081c"""	リーフ、ことわってもいいのよ⏸無理に旅立たせるような⏎事はしないから⏸あなたはまだ16才なんだし	"Leaf, it's okay to say something. I won't force you to go on a journey. You're only 16 years old."	"Lief, it’s okay。 We⏎
+the Gems too?"	
+"""1b030618"""	そのとおり	that's right	Yes、Lief	
+"""1c03081c"""	リーフ、ことわってもいいのよ⏸無理に旅立たせるような⏎事はしないから⏸あなたはまだ16才なんだし	"Leaf, it's okay to say something. I won't force you to go on a journey. You're only 16 years old."	"Lief、it’s okay。 We⏎
 won’t force you to go⏸
-You’re still a kid。"	
+You’re still a kid"	
 """06030104"""	母さん……⏸ぼくはもう16才だよ	Mom...⏸I'm already 16 years old	"Mother…⏎
 I’m already 16!"	
 """1c03081c"""	リーフ……	Leaf...	Lief…	
-"""1b030618"""	これは父さんからの⏎おくり物だ⏸父さんがつくった剣。⏎今までで さいこうのできばえだ	This is a ⏎gift from my father⏸ a sword made by my father. ⏎He's the best he's ever been.	"This sword is a gift⏎
-from me to you⏸
+"""1b030618"""	これは父さんからの⏎おくり物だ⏸父さんがつくった剣。⏎今までで さいこうのできばえだ	This is a ⏎gift from my father⏸ a sword made by my father. ⏎He's the best he's ever been.	"This sword is my gift⏎
+to you⏸
 It’s the finest one⏎
 I’ve ever made"	More pronoun weirdness?
-"""06030104"""	ありがとう	thank you	Thank you	
+"""06030104"""	ありがとう	thank you	"Thank you, father"	
 """1b030618"""	これは母さんからだ	this is from my mom	"And this cloak is⏎
 from your mother"	And some more pronoun confusion for good measure.
 """1c03081c"""	たくさんの思い出と⏎愛情をこめてつくったのよ	Made with lots of memories and love.	"The fabric is… special⏸
@@ -202,39 +203,39 @@ by Grey Guards"
 """03030104"""	うん、ごめん……	"Yeah, sorry..."	Uh、yeah… Sorry…	
 """1b030618"""	忘れろ、リーフ	"Forget it, Leaf."	Nevermind that、son	
 """0e030208"""	ジャード、おまえも きけんに⏎さらされるんだぞ	"Jard, you too are in danger."	"Jarred、you’re in⏎
-Danger too"	
+danger too"	
 """1b030618"""	わたしの事は⏎心配するな⏸息子は家から おい出したとでも⏎言っておくさ	"Don't worry about me, I'll tell you that my son has been taken out of the house."	"Don’t worry about me⏸
 I’ll tell them I⏎
 kicked Lief out"	
 """0e030208"""	うむ……	Hmm...	Hmm…	
 """1b030618"""	リーフ、おまえは 町を⏎にげ出すんじゃない⏸世界を影の大王から⏎すくうために旅立つのだ	"Leaf, you're not leaving the town, you're leaving to save the world from the Shadow King."	"Lief、this isn’t just⏎
-A chance to leave Del⏸
+a chance to leave Del⏸
 You’re saving Deltora⏎
-From the Shadow Lord。"	
-"""03030104"""	……はい	……yes	…I understand。	
-"""1b030618"""	気をつけてな	Be careful	Take care、son。	
+from the Shadow Lord"	
+"""03030104"""	……はい	……yes	…I understand	
+"""1b030618"""	気をつけてな	Be careful	Take care、son	
 """03810104"""	いってきます……	I'm going...	"I… I guess this is⏎
 goodbye…"	
-"""1b030618"""	たよりない返事だな。⏎旅に出すのは早かったのか?	That's an incredible answer. ⏎Was it too early to go on a trip?	"You seem… uncertain.⏸
+"""1b030618"""	たよりない返事だな。⏎旅に出すのは早かったのか?	That's an incredible answer. ⏎Was it too early to go on a trip?	"You seem… hesitant⏸
 Are you sure you can⏎
 handle this?"	
 """03810104"""	父さん……	Dad...	Father… I-	
 """1b030618"""	もう何も言うな。行け、リーフ	"Don't say anything anymore. Go, Leaf"	"No more words now。⏎
-Go、Lief。"	
+Go、Lief"	
 """03810104"""	(ぼくは にげ出すんじゃない……)	(I'm not going to run away...)	No turning back now…	
 """01810104"""	父さん、母さん、行ってきます!	"Mom and dad, let's go!"	"Mother… Father…⏎
 I’m going now!"	
 """28010274"""	おい、リーフ! 待て!	"Hey, Leaf! Wait!"	Hey、Lief! Wait!	
 """05810104"""	バルダ!?	Barda!?	Barda!?	
 """0e030208"""	オレも いっしょに行く。⏎ジャードとの約束だ	I'll go with you too. ⏎It's a promise with Jard.	"I’m coming with you。⏎
-I promised Jarred。"	
-"""05810104"""	(いっしょに?⏎なさけない いそうろうが!?)	(Together?⏎Isourouga!?)	"(What? A lowly⏎
-beggar?)"	
+I promised Jarred"	
+"""05810104"""	(いっしょに?⏎なさけない いそうろうが!?)	(Together?⏎Isourouga!?)	"(How is an old beggar⏎
+supposed to help me?)"	
 """0e030208"""	ここにいてくれ	stay here	Just… wait here	
-"""05810104"""	(バルダ!?⏎な、なんかかっこいい……)	"(Barda!?⏎Wow, that's kind of cool...)"	"(Barda!? Whoa, cool!)"	
+"""05810104"""	(バルダ!?⏎な、なんかかっこいい……)	"(Barda!?⏎Wow, that's kind of cool...)"	(Barda!? Whoa、cool!)	
 """09030208"""	元デル城の兵士バルダ。⏎よろしくな	"Barda, a former soldier of Del Castle. ⏎Nice to meet you"	"I’m Barda、former⏎
 palace guard⏸
-Nice to finally greet⏎
+Nice to finally meet⏎
 you properly"	
 """05810104"""	元城の兵士!?	Former castle soldier!?	Palace guard!?	
 """09030208"""	兵士といっても ただの兵士ではない⏸王の身を守る、とくべつな兵士だ	"Even though he's a soldier, he's not just a soldier ⏸ He's a special soldier who protects the king."	"Yes、we were elite⏎
@@ -244,8 +245,12 @@ protect the King"
 """09030208"""	さて、出発するか	"Well, shall we leave?"	Well、shall we go?	
 """01810104"""	う、うん……でも、どこへ?	U-Yeah...but where?	"Oh、um、yeah…⏎
 But where do we go?"	
-"""0b030208"""	デルトラのベルトについていた⏎宝石は影の大王がかくしてしまった⏸7つの宝石を7つのばしょにな	The Great King of Shadows hid the jewels that were on Deltora's belt.	"The Shadow Lord hid⏎
-the Belt’s Gems"	
+"""0b030208"""	デルトラのベルトについていた⏎宝石は影の大王がかくしてしまった⏸7つの宝石を7つのばしょにな	The Great King of Shadows hid the jewels that were on Deltora's belt.	"The Shadow Lord⏎
+scattered the gems⏸
+They are hidden in⏎
+places no one would⏸
+dare to find them
+"	
 """09030208"""	オレとジャードで⏎しらべたところによると……⏸宝石のひとつは⏎『ちんもくの森』にあるらしい	According to what I and Jard ⏎ researched... ⏸ one of the jewels is ⏎ in the ``Chinmoku Forest''.	"We’ve been listening⏎
 for clues as to where⏸
 We believe one is in⏎
@@ -260,16 +265,15 @@ stay away "
 """0c030208"""	おじけづいたか?	Are you scared?	Haha! Are you scared?	Barda turns and laughs dramatically
 """02810104"""	まさか!⏸憲兵団がいないなら⏎安心だと思ったんだ	"No way!⏸If there were no military police,⏎I thought it would be safe."	"What? No!⏸
 Without Grey Guards、⏎
-We should be safer!"	
+We should safer!"	
 """09030208"""	だといいが……	I hope so...	I hope you’re right…	
 """01810104"""	バルダは おじけづいたの?	Was Barda intimidated?	Are you worried、Barda?	
 """09030208"""	ああ、こわいさ	"Ah, the fear"	"There is much to fear⏎
-in the unknown"	Taking some creative license here
+out there"	Taking some creative license here
 """01810104"""	たよりないなあ	I can't believe it	I’m not afraid	
 """0c030208"""	ふん! おまえの無知が⏎うらやましいよ	Hmph! I'm jealous of your ignorance.	"Hah! I’m jealous of⏎
 your ignorance!"	Barda has another good laugh
-"""02810104"""	(やっぱりバルダは はらが立つな……)	"(As expected, Barda is upset...)"	"(Hey、this guy’s kind⏎
-of a pain!)"	Lief looks offended
+"""02810104"""	(やっぱりバルダは はらが立つな……)	"(As expected, Barda is upset...)"	(Hmph!)	Lief looks offended
 """0c030208"""	どうした? 怒ったか?	What happened? Are you angry?	"What’s wrong? Did I⏎
 hurt your feelings?"	Barda is still smiling
 """00000001"""	こうして少年リーフと⏎元デル城の兵士バルダの旅がはじまった。	"And so began the journey of the boy Leaf and Barda, a former soldier of Del Castle."	"And so began the⏎
