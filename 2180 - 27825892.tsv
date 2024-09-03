@@ -1,7 +1,7 @@
 Header	Japanese	Google Translate	Translated	Notes
 9810208	これを見ろ	look at this	Hm、look at this	
 1030104	『!いなぶあ !んけき』って書いてある	It says ``!Inabua !Nkeki''	"It says⏎
-『!Eraweb !Regnad』"	The text on the sign is written backwards. It says “Beware! Danger!” or something similar. I guess this is a puzzle?
+『!eraweB !regnaD』"	The text on the sign is written backwards. It says “Beware! Danger!” or something similar. I guess this is a puzzle?
 9810208	この先はおそらく⏎ウェン・デルの細道だ⏸ちんもくの森への⏎近道だが……	The path ahead is probably ⏎Wen Dell's narrow path⏎⏎shortcut to Chinmoku Forest...	"This must be the⏎
 Wenn Del path⏸
 This is the shortest⏎
@@ -72,7 +72,8 @@ stung us…"
 0b810208	やはり……この近道は⏎入るべきではなかった……⏸ああ、ジャード すまない……⏎もはや これまで……	"As expected... I shouldn't have taken this shortcut... ⏸ Ah, Jard, I'm sorry... ⏎ It's been this long..."	"Lief、I have led you⏎
 to your death!⏸
 Forgive me、Jarred!"	"Bringing in “I have led you to your death!” from the book, but keeping the apology to Jarred from the game."
-5810104	(なんてあきらめが早いんだ!?)	(How quickly do you give up!?)	(Giving up already?)	
+5810104	(なんてあきらめが早いんだ!?)	(How quickly do you give up!?)	"(Are you seriously⏎
+giving up already!?)"	
 0b810208	リーフ……無念だ。⏎オレが ついていながら……すまん	Leaf...I regret it. ⏎While I was following you...I'm sorry.	"Lief… I’m sorry. I⏎
 failed you…"	
 2810104	ちょっと待ってよ!⏸ここはもう ちんもくの森だよね?⏎ぼくたち、森へついたんだよね?	"Wait a minute!⏸This is already the Chinmoku Forest, right?⏎We’ve arrived at the forest, right?"	"We are not dead yet!⏸
@@ -81,8 +82,8 @@ Forests of Silence!"
 0b810208	だったらどうする……⏎からだが うごかんのだぞ?	"If so, what should I do... ⏎My body doesn't move, right?"	"Yes、but… Lief、we⏎
 cannot move"	
 2810104	そうだけど、ぼくは⏎あきらめないぞ!	"That's true, but I won't give up!"	I’m not giving up!	
-28010374	ムダムダ!⏎あきらめなさい!	No way! ⏎Give up!	"Oh will you just⏎
-give up already!?"	
+28010374	ムダムダ!⏎あきらめなさい!	No way! ⏎Give up!	"It’s no use、you⏎
+know - just give up!"	
 5810104	(!?)	(!?)	(!?)	
 14030374	あんたたちはウェンバーに⏎食べられちゃうのよ⏸憲兵団には⏎ふさわしいさいごだわ	You're all going to be eaten by Wember. It's a fitting end for the military police.	"You’ll make a decent⏎
 meal for the Wennbar⏸
@@ -100,12 +101,12 @@ and quiet!"
 14810374	今日は うんがいいわ!	"Yes, it's good today!"	"Look、Kree! A fine⏎
 blanket for the nest!"	
 6810104	待て……⏸母さんが……つくったマントは……	Wait...⏸The cloak that my mother made...	"W… wait…⏸
-M…my m…mother’s⏎
+M…m…mother’s⏎
 c…cloak!"	
 11810374	これ、あなたのお母さんが⏎つくったの?	Did your mother make this?	"Your… mother made⏎
 this?"	
 6810104	そ……う…だ	Yes...yeah...	Ye… yes…	
-13810374	ふーん……	Hmm...	But that means…	
+13810374	ふーん……	Hmm...	Hm… but that means…	
 2810104	(なんなんだ、あの子は!)	(What is that kid?)	"(What’s going on⏎
 here!?)"	
 0b810208	リーフ、本当に……⏎すまない……	"Leaf, I'm really... ⏎ I'm sorry..."	"Lief、I… I’m so⏎
@@ -150,12 +151,12 @@ Lief?"
 1030104	ねえ、きみはこの⏎ちんもくの森に住んでいるの?	"Hey, do you live in this ⏎Forest of Silence?"	"Do you live in the⏎
 Forests of Silence?"	
 1103030c	そう。ジャスミンよ	yes. It's Jasmine	"Yes⏸
-I’m Jasmine, by the⏎
-way"	
-1103030c	クリーとフィリよ	Cree and Fili	"These are Kree and⏎
-Filli"	
+My name is Jasmine"	
+1103030c	クリーとフィリよ	Cree and Fili	"Kree and Filli are⏎
+my family"	
 1030104	ぼくはリーフ	I'm Leaf	I’m Lief	
-9030208	オレはバルダだ	I'm Barda	Barda	
+9030208	オレはバルダだ	I'm Barda	"Pleased to meet you。⏎
+My name is Barda"	
 1103030c	ここは きけんだわ。⏎わたしの家へ来て	It's dangerous here. ⏎Come to my house	"It’s dangerous here。⏎
 Let’s go to my nest"	
 1181030c	ここよ。さあ、入って	Here it is. Come on in.	"Here we are。Come⏎
@@ -166,136 +167,302 @@ She must’ve stolen⏎
 them from Grey⏸
 Guards who were⏎
 trapped by the Wenn⏸
-How brutal…"	
+How savage…"	
 9030208	ひとりで住んでいるのか?	Do you live alone?	"You live here all⏎
 by yourself?"	
 1181030c	クリーとフィリがいっしょ⏸両親はわたしが7才の時に⏎つれて行かれたけどね	Kree and Fili were together⏸My parents took me away⏎when I was 7 years old.	"I live with Kree and⏎
 Filli⏸
 My parents were⏎
 taken away when I⏸
-was 7"	
-9030208	影の憲兵団か?	Shadow military police?	By the Grey Guards?	
+was 7 years old"	
+9030208	影の憲兵団か?	Shadow military police?	"I’m sorry. Did Grey⏎
+Guards take them?"	
 1181030c	うん	Yeah	Yeah	
 3030104	(そうか……ざんこくだなんて⏎悪かったな……)⏸(ひとりで生きて行くならぼくも……)	(I see... it's too bad that you're so stupid...)	"(I shouldn’t judge⏎
 her so quickly)⏸
 (I would do the same⏎
 in her position)"	
 9030208	ところでジャスミン⏸この森で宝石を見たことは⏎ないだろうか?	"By the way, Jasmine⏸have you ever⏎ seen any gemstones in this forest?"	"Say、Jasmine…⏸
-Have you ever seen⏎
-any gems in this⏸
-forest?"	
-1181030c	宝石? ちんもくの森にあるの?	A jewel? Is it in the Chinmoku Forest?	"A gem? Maybe in the⏎
-Mid Wood?"	
-9030208	ああ。ここは ちんもくの森だろう?	"ah. This is the forest of chimoku, right?"	ああ。ここは ちんもくの森だろう?	
-1481030c	そうだけど、ほんのはじっこよ	"Yes, but only at the edge"	そうだけど、ほんのはじっこよ	
-0d030208	なんと!!	Oh my God!!	なんと!!	
-2030104	バルダ、行こう	"Barda, let's go."	バルダ、行こう	
-1781030c	まさか、森のおくへ!?⏎そんなに宝石がほしいの?	"No way, it’s in the forest!?⏎Do you want the jewels that much?"	まさか、森のおくへ!?⏎そんなに宝石がほしいの?	
-1030104	そう⏸その宝石があれば⏎影の大王を……	"Yes, if I had that jewel, I would be the Great King of Shadows..."	そう⏸その宝石があれば⏎影の大王を……	
-3030104	(あれ?⏎言っちゃって良いのかな……)	(Huh?⏎Maybe I should say that...)	(あれ?⏎言っちゃって良いのかな……)	
-1181030c	大王を?	The Great King?	大王を?	
-9030208	たおせるんだ	Let it fall	たおせるんだ	
-3030104	(言っちゃった……)	(I said it...)	(言っちゃった……)	
-1181030c	あんないするわ	I'll do something like that	あんないするわ	
-0c030208	それはありがたい!	Thank you for that!	それはありがたい!	
-5030104	バルダ……ちょっと!	Barda...wait!	バルダ……ちょっと!	
+We’ll need to search⏎
+the Wennbar’s cave…⏸
+Can you show us the⏎
+way back there?"	"I’m taking some liberties with this part, since I’m finding it difficult to translate directly. So I’m going to make it a bit more like in the book."
+1181030c	宝石? ちんもくの森にあるの?	A jewel? Is it in the Chinmoku Forest?	"There is nothing in⏎
+the Wennbar’s cave⏸
+but bones and stink⏸
+What is it you are⏎
+looking for?"	
+9030208	ああ。ここは ちんもくの森だろう?	"ah. This is the forest of chimoku, right?"	"We seek… a special⏎
+Gemstone⏸
+We know it is hidden⏎
+in the most secret⏸
+place in the Forests⏎
+and that it has a⏸
+terrible Guardian⏎
+Where else could⏸
+that be but the⏎
+Wennbar’s cave?"	"In the book, Barda and Lief don’t tell Jasmine what they’re looking for. But Jasmine makes a quip about not caring about gems in the next scene of the game, so they need to mention it here."
+1481030c	そうだけど、ほんのはじっこよ	"Yes, but only at the edge"	"How little you know!⏸
+This is only a tiny⏎
+corner at the very⏸
+edge of one Forest⏎
+there are 3 forests⏸
+in all、and each has⏎
+a hundred places⏸
+more dangerous and⏎
+hidden than there!"	
+0d030208	なんと!!	Oh my God!!	What!?	
+2030104	バルダ、行こう	"Barda, let's go."	"Barda…⏸
+We will head deeper⏎
+into the Forests"	
+1781030c	まさか、森のおくへ!?⏎そんなに宝石がほしいの?	"No way, it’s in the forest!?⏎Do you want the jewels that much?"	"Deeper? You’d risk⏎
+your lives over⏸
+some shiny rock?"	
+1030104	そう⏸その宝石があれば⏎影の大王を……	"Yes, if I had that jewel, I would be the Great King of Shadows..."	"We need it to beat
+the Shadow Lord!"	"In the book, they let her know about wanting to defeat the Shadow Lord earlier, back when they were paralyzed."
+3030104	(あれ?⏎言っちゃって良いのかな……)	(Huh?⏎Maybe I should say that...)	"(Er… maybe I⏎
+shouldn’t say that…)"	
+1181030c	大王を?	The Great King?	The Shadow Lord?	
+9030208	たおせるんだ	Let it fall	Nevermind that	
+3030104	(言っちゃった……)	(I said it...)	(Too late…)	
+1181030c	あんないするわ	I'll do something like that	"Let me show you the⏎
+way!"	
+0c030208	それはありがたい!	Thank you for that!	Thanks!	
+5030104	バルダ……ちょっと!	Barda...wait!	Barda… wait!	
 1181030c	言っておくけど、わたしは⏎宝石なんてどうでもいいの	"Let me tell you, I don't care about jewelry."	言っておくけど、わたしは⏎宝石なんてどうでもいいの	
 1481030c	わたしが ほしいのは⏎そのマント⏸あなたに もしものことが⏎あったら その時は……	"What I want is that cloak.If something were to happen to you, then..."	わたしが ほしいのは⏎そのマント⏸あなたに もしものことが⏎あったら その時は……	
 3030104	(なんて子だ……)	(What a child...)	(なんて子だ……)	
 1181030c	ここからは木の上を⏎わたっていくのよ⏸地上を進むより⏎少しは安全だからね	"From here, we'll cross over the trees, which is a little safer than walking on the ground."	ここからは木の上を⏎わたっていくのよ⏸地上を進むより⏎少しは安全だからね	
-1103030c	ここ……だと思う	I think it's here...	ここ……だと思う	
-9030208	ここ?	here?	ここ?	
-1103030c	ここが森の中心。⏎やみの中のやみと言われるばしょ	This is the center of the forest. ⏎The darkness that is said to be the darkness of darkness	ここが森の中心。⏎やみの中のやみと言われるばしょ	
-9030208	だれが言ってるんだ?	Who's saying that?	だれが言ってるんだ?	
-1103030c	森の木たちよ	trees of the forest	森の木たちよ	
-0d810208	木が教えてくれただと!?	The tree told me!?	木が教えてくれただと!?	
-9030208	ジャスミンは……へんだな	Jasmine is... weird.	ジャスミンは……へんだな	
-3810104	今さら……	Now...	今さら……	
-1203030c	聞こえてるわよ!	I can hear you!	聞こえてるわよ!	
-0b810208	……悪かった	...It was bad	……悪かった	
-9810208	あとはオレたちで⏎なんとかする⏸もう家へ帰ってくれ。⏎とても助かったぞ	Now we'll do the rest. Go home now. ⏎It was very helpful.	あとはオレたちで⏎なんとかする⏸もう家へ帰ってくれ。⏎とても助かったぞ	
-1403030c	おいかえそうたって⏎そうはいかないわ⏸わたし、ここで待ってるから	"Even if you want to go back, it won't happen. I'll be waiting here."	おいかえそうたって⏎そうはいかないわ⏸わたし、ここで待ってるから	
-9810208	待つ?	wait?	待つ?	
-3030104	(ぼくに もしものことが⏎起こるのを待つ気なんだ……)	(I'm waiting for something to happen to me...)	(ぼくに もしものことが⏎起こるのを待つ気なんだ……)	
-5030104	(あれ? なんだ?⏎ベルトが あついぞ!?)	(Huh? What? ⏎Your belt is hot!?)	(あれ? なんだ?⏎ベルトが あついぞ!?)	
-9030208	どうした?	what up?	どうした?	
-2810104	ベルトが あつくなってる	belt is hot	ベルトが あつくなってる	
-0a030208	おお!	oh!	おお!	
-1810104	なに?	what?	なに?	
-9030208	宝石の近くに来ると⏎ベルトが あつくなる⏸そう聞いたことがある!	I've heard that the belt gets hot when you get close to the jewelry!	宝石の近くに来ると⏎ベルトが あつくなる⏸そう聞いたことがある!	
-1103030c	ベルトって何?	What is a belt?	ベルトって何?	
-9810208	こっちの話だ。⏎じゃあな、ジャスミン	"This is my story. ⏎See you then, Jasmine"	こっちの話だ。⏎じゃあな、ジャスミン	
-3810104	(宝石が近くにある……)	(There is a jewel nearby...)	(宝石が近くにある……)	
-9030208	さーて……	Now...	さーて……	
-9030208	おや?	Oh?	おや?	
-1810104	(何か書いてあるな)	(There's something written on it.)	(何か書いてあるな)	
-0	『るれからひはちみばけふ』	“Rule Karahi Hachimi Bakefu”	『るれからひはちみばけふ』	"Backwards text again. This one says “If you blow, the way will open”"
-0	『ぬけ穴を見つけた!!』	“I found a loophole!!”	『ぬけ穴を見つけた!!』	"I’m pretty sure this line is supposed to be Lief yelling in excitement, rather than another coded message. Unfortunately, reversing the kana actually produces a message that Google translate thinks makes some level of sense (“I can't see through the view”), but… ehhh, I’m reasonably sure this is just Lief talking."
-0c030208	やったな、リーフ	"Well done, Leaf."	やったな、リーフ	
-4810104	うん、行こう	"Yeah, let's go"	うん、行こう	
-0	ひみつのぬけ穴⏎⏎あんごうをといて⏎かくされた入り口をさがしだせ!	Secret hole⏎⏎Clean the anglerfish⏎Find the hidden entrance!	ひみつのぬけ穴⏎⏎あんごうをといて⏎かくされた入り口をさがしだせ!	
-28010b78	何者だ!	Who are you!	何者だ!	
-1030104	宝石を さがしに来たんだ	I came to look for jewels.	宝石を さがしに来たんだ	
-28010b78	ウソを言うな。⏎わたしには わかるぞ⏸おまえたちは このユリを⏎ぬすみに来たのだ!⏸ユリのミツをのんで 永遠の⏎命を手に入れるつもりだな!	Don't lie. ⏎I understand⏸You have come to steal this lily!⏸You intend to drink the lily's nectar and obtain eternal ⏎life!	ウソを言うな。⏎わたしには わかるぞ⏸おまえたちは このユリを⏎ぬすみに来たのだ!⏸ユリのミツをのんで 永遠の⏎命を手に入れるつもりだな!	
-9810208	何の話をしているのだ?	What are you talking about?	何の話をしているのだ?	
-1030104	ぼくたちは ユリのミツなんて⏎いらないよ	We don't need lily honey.	ぼくたちは ユリのミツなんて⏎いらないよ	
-28010b78	だまれ!	Damame!	だまれ!	
-0d810208	あぶない!	dangerous!	あぶない!	
-2030104	バルダ!	Barda!	バルダ!	
-28010b78	次はおまえだ!	You're next!	次はおまえだ!	
-1030104	(やった……)	(I did it...)	(やった……)	
-28010b78	ユリのミツは わたさんぞ……	The lily's honey is mine...	ユリのミツは わたさんぞ……	
-28010b78	ぐ……	ingredient……	ぐ……	
-0b030208	リーフ……無事……だったか?	Leaf...was it okay...?	リーフ……無事……だったか?	
-2030104	バルダ! バルダ!	Barda! Barda!	バルダ! バルダ!	
-0b030208	オレが死んでも⏎旅を続けるんだぞ……	"Even if I die, I will continue my journey..."	オレが死んでも⏎旅を続けるんだぞ……	
-2030104	死んじゃダメ!	Don't die!	死んじゃダメ!	
-3030104	バルダ、ぼく、あやまるよ⏸あなたのことを⏎じゃまだと思ってた⏸ひとりで旅をしたいと⏎思ってたんだ	"Barda, I'm sorry. I thought you were a hindrance. I wanted to travel alone."	バルダ、ぼく、あやまるよ⏸あなたのことを⏎じゃまだと思ってた⏸ひとりで旅をしたいと⏎思ってたんだ	
-3030104	でも、あなたがいなかったら⏎ぼくはここで死んでいた……⏸ぼくは まちがっていた。⏎バルダ、ぼくをゆるして	"But, if it weren't for you, ⏎I would have died here...⏸I was wrong. ⏎Barda, forgive me"	でも、あなたがいなかったら⏎ぼくはここで死んでいた……⏸ぼくは まちがっていた。⏎バルダ、ぼくをゆるして	
-1203030c	リーフ!⏸そんなことを⏎言ってるばあいじゃないでしょ!	Leaf!⏸This is not the time to say something like that!	リーフ!⏸そんなことを⏎言ってるばあいじゃないでしょ!	
-2030104	だってバルダが!	Because Barda!	だってバルダが!	
-1203030c	ほら、見て!	Look!	ほら、見て!	
-5030104	ミツだ!⏎永遠の命のミツ	It’s the Mitsu! ⏎The Mitsu of eternal life	ミツだ!⏎永遠の命のミツ	
-1103030c	のんで	Drink it	のんで	
-0	父さん。⏎ユリのミツはすごいです。⏎バルダは あっというまに⏎元気になりました。	Dad. ⏎Lily honey is amazing. ⏎Barda felt better in an instant.	父さん。⏎ユリのミツはすごいです。⏎バルダは あっというまに⏎元気になりました。	
-0b030208	まだフラフラするが……⏎なーに、これしき	"I'm still feeling lightheaded... ⏎What, this is so cool"	まだフラフラするが……⏎なーに、これしき	
-9030208	それよりもリーフ⏸あのかいぶつを どうやって⏎たおしたんだ?	"More importantly, how did you defeat that monster?"	それよりもリーフ⏸あのかいぶつを どうやって⏎たおしたんだ?	
-1030104	それが……木の枝が おちてきたんだ	That's...a tree branch fell down.	それが……木の枝が おちてきたんだ	
-1103030c	わたしが 木に おねがいしたのよ⏸あいつの上に 太い枝を⏎おとしてって	I asked the tree to lower its thick branch over you.	わたしが 木に おねがいしたのよ⏸あいつの上に 太い枝を⏎おとしてって	
-0b030208	……そうか	...I see.	……そうか	
-1203030c	信じなくたっていいけど	You don't have to believe it though	信じなくたっていいけど	
-9030208	いや、信じよう⏸ユリのミツで助かった命。⏎もう、どんなことでも信じるさ	"No, let's believe ⏸ A life saved by the lily's honey. ⏎I'll believe anything now"	いや、信じよう⏸ユリのミツで助かった命。⏎もう、どんなことでも信じるさ	
-9030208	ところでリーフ、宝石は?	"By the way, Leaf, what about the gem?"	ところでリーフ、宝石は?	
-3030104	ここには ないみたいだ	It doesn't seem to be here	ここには ないみたいだ	
-0a030208	そんなはずはないぞ。⏎ベルトが あつくなったんだ	That can't be true. ⏎The belt got hot.	そんなはずはないぞ。⏎ベルトが あつくなったんだ	
-1703030c	ねえ、あれ!	"Hey, there!"	ねえ、あれ!	
-1030104	トパーズ……⏎『せいじつ』をあらわす石	"Topaz...⏎A stone that represents ""Seijyutsu"""	トパーズ……⏎『せいじつ』をあらわす石	
-1103030c	それが さがしていた宝石?	Is that the jewel you were looking for?	それが さがしていた宝石?	
-1030104	うん、そうだよ⏸きみのおかげで⏎手に入ったんだ⏸ほら、さわってごらん	"Yes, that's right⏸Thanks to you⏎I got it⏸Here, touch it."	うん、そうだよ⏸きみのおかげで⏎手に入ったんだ⏸ほら、さわってごらん	
-9810208	せいれいだ。トパーズの力だ……	It's Seirei. It's the power of topaz...	せいれいだ。トパーズの力だ……	
-280108b4	ジャスミン……わたしのかわいい⏎ジャスミン……	Jasmine...my cute ⏎Jasmine...	ジャスミン……わたしのかわいい⏎ジャスミン……	
-1703030c	……!?⏎もしかしてあなたは……お母さん!?	……!?⏎Maybe you are… your mother!?	……!?⏎もしかしてあなたは……お母さん!?	
-280108b4	そうですよ。あなたは これまで⏎ひとりで本当によくやってきました⏸でも これからは もっと たいへんな⏎ことをしなくてはなりません	"That's right. You've done really well on your own so far, but now she's going to have to do a lot more work."	そうですよ。あなたは これまで⏎ひとりで本当によくやってきました⏸でも これからは もっと たいへんな⏎ことをしなくてはなりません	
-1103030c	お母さん、それはなに?	"Mom, what is that?"	お母さん、それはなに?	
-280108b4	リーフとバルダ。そのふたりと⏎いっしょに 旅に出るのです⏸それは この国を影の大王から⏎すくう旅です⏸さあ、ジャスミン。⏎森を出る時がやって来ました	"Leaf and Barda. I'm going on a journey with these two to save this country from the shadow king⏎ Come on, Jasmine. ⏎It's time to leave the forest"	リーフとバルダ。そのふたりと⏎いっしょに 旅に出るのです⏸それは この国を影の大王から⏎すくう旅です⏸さあ、ジャスミン。⏎森を出る時がやって来ました	
-1303030c	わかったわ。⏎でも お母さん……	I understand. ⏎But mom...	わかったわ。⏎でも お母さん……	
-280108b4	もう時間がありません⏸わたしのかわいいジャスミン。⏎いつも見守っていますよ	I don't have time anymore⏸My cute Jasmine. ⏎I'm always watching over you	もう時間がありません⏸わたしのかわいいジャスミン。⏎いつも見守っていますよ	
-1203030c	へんなまほうで わたしを⏎だまそうとしてるのね	You're trying to trick me with your strange magic.	へんなまほうで わたしを⏎だまそうとしてるのね	
-9810208	いや、トパーズの力だ⏸トパーズは この世界と あの世を⏎結ぶ力があるらしいんだ	"No, it's the power of topaz⏸Topaz seems to have the power to connect this world and the next world."	いや、トパーズの力だ⏸トパーズは この世界と あの世を⏎結ぶ力があるらしいんだ	
-1303030c	あの世……そうか……⏎やっぱりお母さんはもう……	"The afterlife... I see... ⏎ After all, my mother is already..."	あの世……そうか……⏎やっぱりお母さんはもう……	
-3810104	ジャスミン……	jasmine……	ジャスミン……	
-0b810208	(しばらく ほうっておけ)	(Leave it alone for a while)	(しばらく ほうっておけ)	
-1203030c	なに言ってるのよ!⏎さっさと行くわよ!	What are you talking about? ⏎Let's go quickly!	なに言ってるのよ!⏎さっさと行くわよ!	
-1403030c	クリーとフィリもいっしょだからね	Kree and Fili are together too.	クリーとフィリもいっしょだからね	
-5810104	う、うん	"Uh, yeah"	う、うん	
-1030104	ジャスミンと旅をしても⏎いいのかな?	Is it okay to travel with Jasmine?	ジャスミンと旅をしても⏎いいのかな?	
-0c810208	だいじょうぶさ	It's okay	だいじょうぶさ	
-1030104	どうして?	Why?	どうして?	
-0c810208	ジャスミンは母親の⏎やさしい言葉に うごかされた⏸つまり、悪い子じゃない	"Jasmine was moved by her mother's ⏎kind words⏸In other words, she is not a bad child."	ジャスミンは母親の⏎やさしい言葉に うごかされた⏸つまり、悪い子じゃない	
-4030104	うん、そうだね	"Yeah, that's right"	うん、そうだね	
-0b810208	性格には……不安はあるが	I have some concerns about my personality...	性格には……不安はあるが	
-1030104	(まだ旅は はじまったばかりなのに⏎いろんなことがあったな)⏸(これからも たいへんそうだ……)	(Even though the journey has only just begun⏎A lot has happened.)⏸(It seems like there will be a lot more to come...)	(まだ旅は はじまったばかりなのに⏎いろんなことがあったな)⏸(これからも たいへんそうだ……)	
+1103030c	ここ……だと思う	I think it's here...	"This should be the⏎
+place…"	
+9030208	ここ?	here?	Here?	
+1103030c	ここが森の中心。⏎やみの中のやみと言われるばしょ	This is the center of the forest. ⏎The darkness that is said to be the darkness of darkness	"This is the center⏎
+of the Forest⏸
+They call this place⏎
+『The Dark』⏸
+They’re say that⏎
+even they fear it"	
+9030208	だれが言ってるんだ?	Who's saying that?	Who?	
+1103030c	森の木たちよ	trees of the forest	The trees、of course	
+0d810208	木が教えてくれただと!?	The tree told me!?	"The trees talk to⏎
+you?"	
+9030208	ジャスミンは……へんだな	Jasmine is... weird.	"Jasmine might be a⏎
+bit… off"	
+3810104	今さら……	Now...	"Too late to turn⏎
+turn back now…"	
+1203030c	聞こえてるわよ!	I can hear you!	Hey! I can hear you!	
+0b810208	……悪かった	...It was bad	Sorry	
+9810208	あとはオレたちで⏎なんとかする⏸もう家へ帰ってくれ。⏎とても助かったぞ	Now we'll do the rest. Go home now. ⏎It was very helpful.	"We thank you for all⏎
+you have done for us⏸
+But you can do no⏎
+more。We must go on⏸
+alone。You can go⏎
+back home now"	
+1403030c	おいかえそうたって⏎そうはいかないわ⏸わたし、ここで待ってるから	"Even if you want to go back, it won't happen. I'll be waiting here."	"I’m not going home!⏎
+I’m waiting here!"	
+9810208	待つ?	wait?	Waiting?	
+3030104	(ぼくに もしものことが⏎起こるのを待つ気なんだ……)	(I'm waiting for something to happen to me...)	"(Waiting to loot my⏎
+body、no doubt…)"	
+5030104	(あれ? なんだ?⏎ベルトが あついぞ!?)	(Huh? What? ⏎Your belt is hot!?)	"(Whoa! The belt is⏎
+getting warm!)"	
+9030208	どうした?	what up?	What is it、Lief?	
+2810104	ベルトが あつくなってる	belt is hot	The belt feels warm!	
+0a030208	おお!	oh!	Aha!	
+1810104	なに?	what?	What?	
+9030208	宝石の近くに来ると⏎ベルトが あつくなる⏸そう聞いたことがある!	I've heard that the belt gets hot when you get close to the jewelry!	"The belt gets warm⏎
+when near a gem!⏸
+We must be close!"	
+1103030c	ベルトって何?	What is a belt?	"What’s all this⏎
+about a belt?"	
+9810208	こっちの話だ。⏎じゃあな、ジャスミン	"This is my story. ⏎See you then, Jasmine"	"Nothing important。⏎
+Farewell、Jasmine"	
+3810104	(宝石が近くにある……)	(There is a jewel nearby...)	(A gem is nearby…)	
+9030208	さーて……	Now...	Now then…	
+9030208	おや?	Oh?	Hm?	
+1810104	(何か書いてあるな)	(There's something written on it.)	"(There’s something⏎
+written here…)"	
+0	"『るれからひはちみばけふ』
+Reversed: ふけばみちはひらかれる"	"“Rule Karahi Hachimi Bakefu”
+“If you blow, the way will open”"	"『ezeerb a htiw yaw
+eht nepO』"	"Look, a puzzle! It’s backwards text again."
+0	『ぬけ穴を見つけた!!』	“I found a loophole!!”	"『Hey、look! An
+opening!』"	"I’m pretty sure this line is supposed to be Lief yelling in excitement, rather than another coded message. Unfortunately, reversing the kana actually produces a message that Google translate thinks makes some level of sense (“I can't see through the view”), but… ehhh, I’m reasonably sure this is just Lief talking."
+0c030208	やったな、リーフ	"Well done, Leaf."	Well done、Lief	
+4810104	うん、行こう	"Yeah, let's go"	Yeah、let’s go!	
+0	ひみつのぬけ穴⏎⏎あんごうをといて⏎かくされた入り口をさがしだせ!	Secret hole⏎⏎Clean the anglerfish⏎Find the hidden entrance!	"Secret Entrance⏎
+⏎
+Solve the riddle!⏎
+Find the entrance!"	
+28010b78	何者だ!	Who are you!	WHO GOES THERE?	Introducing: Gorl
+1030104	宝石を さがしに来たんだ	I came to look for jewels.	"We are travelers⏎
+from the city of Del⏸
+We’re looking for a⏎
+gem"	
+28010b78	ウソを言うな。⏎わたしには わかるぞ⏸おまえたちは このユリを⏎ぬすみに来たのだ!⏸ユリのミツをのんで 永遠の⏎命を手に入れるつもりだな!	Don't lie. ⏎I understand⏸You have come to steal this lily!⏸You intend to drink the lily's nectar and obtain eternal ⏎life!	"Liars! Thieves!⏸
+You come to steal⏎
+the Lilies of Life!"	
+9810208	何の話をしているのだ?	What are you talking about?	"What are you talking⏎
+about?"	
+1030104	ぼくたちは ユリのミツなんて⏎いらないよ	We don't need lily honey.	"We’re not looking⏎
+for any lilies"	
+28010b78	だまれ!	Damame!	Silence!	
+0d810208	あぶない!	dangerous!	Look out!	
+2030104	バルダ!	Barda!	Barda!	
+28010b78	次はおまえだ!	You're next!	You’re next!	
+1030104	(やった……)	(I did it...)	(I… I did it)	
+28010b78	ユリのミツは わたさんぞ……	The lily's honey is mine...	"No… the Lilies’⏎
+nectar is mine…"	
+28010b78	ぐ……	ingredient……	Urgh-	
+0b030208	リーフ……無事……だったか?	Leaf...was it okay...?	Lief…	
+2030104	バルダ! バルダ!	Barda! Barda!	Barda! Barda!	
+0b030208	オレが死んでも⏎旅を続けるんだぞ……	"Even if I die, I will continue my journey..."	"It’s okay、Lief。⏎
+Go on without me…"	
+2030104	死んじゃダメ!	Don't die!	No、don’t die!	
+3030104	バルダ、ぼく、あやまるよ⏸あなたのことを⏎じゃまだと思ってた⏸ひとりで旅をしたいと⏎思ってたんだ	"Barda, I'm sorry. I thought you were a hindrance. I wanted to travel alone."	"Barda… I’m sorry⏸
+At first I thought⏎
+you were just⏸
+slowing me down⏸
+I thought I would be⏎
+better off alone"	
+3030104	でも、あなたがいなかったら⏎ぼくはここで死んでいた……⏸ぼくは まちがっていた。⏎バルダ、ぼくをゆるして	"But, if it weren't for you, ⏎I would have died here...⏸I was wrong. ⏎Barda, forgive me"	"But if not for you、⏎
+I would be dead⏸
+I was wrong。Please⏎
+forgive me、Barda"	
+1203030c	リーフ!⏸そんなことを⏎言ってるばあいじゃないでしょ!	Leaf!⏸This is not the time to say something like that!	"Lief!⏸
+This isn’t the time⏎
+to say such things!"	
+2030104	だってバルダが!	Because Barda!	But Barda-!	
+1203030c	ほら、見て!	Look!	There、look!	
+5030104	ミツだ!⏎永遠の命のミツ	It’s the Mitsu! ⏎The Mitsu of eternal life	"The Lilies! The⏎
+Lilies of Life!"	
+1103030c	のんで	Drink it	Quickly、drink it!	
+0	父さん。⏎ユリのミツはすごいです。⏎バルダは あっというまに⏎元気になりました。	Dad. ⏎Lily honey is amazing. ⏎Barda felt better in an instant.	"The Lilies’ nectar⏎
+was incredible⏎
+Barda felt better⏎
+in an instant"	
+0b030208	まだフラフラするが……⏎なーに、これしき	"I'm still feeling lightheaded... ⏎What, this is so cool"	"What happened? Did⏎
+I faint?"	
+9030208	それよりもリーフ⏸あのかいぶつを どうやって⏎たおしたんだ?	"More importantly, how did you defeat that monster?"	"More importantly…⏸
+How did you defeat⏎
+that monster?"	
+1030104	それが……木の枝が おちてきたんだ	That's...a tree branch fell down.	"A… a tree branch⏎
+fell on him"	
+1103030c	わたしが 木に おねがいしたのよ⏸あいつの上に 太い枝を⏎おとしてって	I asked the tree to lower its thick branch over you.	"I told the tallest⏎
+tree what must be⏸
+done and at last it⏎
+listened"	
+0b030208	……そうか	...I see.	…I see	
+1203030c	信じなくたっていいけど	You don't have to believe it though	"Hmph、you don’t have⏎
+to believe it"	
+9030208	いや、信じよう⏸ユリのミツで助かった命。⏎もう、どんなことでも信じるさ	"No, let's believe ⏸ A life saved by the lily's honey. ⏎I'll believe anything now"	"No、I believe it⏸
+My life was just⏎
+saved by nectar⏸
+I’ll believe just⏎
+about anything now"	
+9030208	ところでリーフ、宝石は?	"By the way, Leaf, what about the gem?"	"Lief、what about the⏎
+gem?"	
+3030104	ここには ないみたいだ	It doesn't seem to be here	"It… doesn’t seem to⏎
+be here…"	
+0a030208	そんなはずはないぞ。⏎ベルトが あつくなったんだ	That can't be true. ⏎The belt got hot.	"That can’t be right。⏎
+The belt was warm"	
+1703030c	ねえ、あれ!	"Hey, there!"	Hey、look!	
+1030104	トパーズ……⏎『せいじつ』をあらわす石	"Topaz...⏎A stone that represents ""Seijyutsu"""	"Topaz… the gem of⏎
+faithfulness"	
+1103030c	それが さがしていた宝石?	Is that the jewel you were looking for?	"Is that the gem you⏎
+were looking for?"	
+1030104	うん、そうだよ⏸きみのおかげで⏎手に入ったんだ⏸ほら、さわってごらん	"Yes, that's right⏸Thanks to you⏎I got it⏸Here, touch it."	"Yeah、that’s it!⏸
+Thanks for the help!⏸
+Go ahead、grab it!"	
+9810208	せいれいだ。トパーズの力だ……	It's Seirei. It's the power of topaz...	"This spirit… the⏎
+power of the topaz…"	
+280108b4	ジャスミン……わたしのかわいい⏎ジャスミン……	Jasmine...my cute ⏎Jasmine...	"Jasmine! Jasmine,⏎
+my dearest!"	This whole section is remarkably close to the text in the book
+1703030c	……!?⏎もしかしてあなたは……お母さん!?	……!?⏎Maybe you are… your mother!?	"Mama!⏸
+Is- is it you? Can⏎
+it be you?"	
+280108b4	そうですよ。あなたは これまで⏎ひとりで本当によくやってきました⏸でも これからは もっと たいへんな⏎ことをしなくてはなりません	"That's right. You've done really well on your own so far, but now she's going to have to do a lot more work."	"Yes、Jasmine。How⏎ wonderful to be able⏸
+to speak to you at⏎
+last⏸
+You have done well、⏎
+very well、since⏸
+your father and I⏎
+were taken from you⏸
+But now you must do⏎
+more"	
+1103030c	お母さん、それはなに?	"Mom, what is that?"	What? What、Mama?	
+280108b4	リーフとバルダ。そのふたりと⏎いっしょに 旅に出るのです⏸それは この国を影の大王から⏎すくう旅です⏸さあ、ジャスミン。⏎森を出る時がやって来ました	"Leaf and Barda. I'm going on a journey with these two to save this country from the shadow king⏎ Come on, Jasmine. ⏎It's time to leave the forest"	"The boy Lief and the⏎
+man Barda are⏸
+friends、and their⏎
+quest is just⏸
+It is a quest that⏎
+will free our land⏸
+from the Shadow Lord⏸
+You must join them -⏎
+leave the Forests⏸
+and go with them -⏎
+and help them as⏸
+much as you are able⏸
+It is your destiny。⏎
+Do you understand?"	
+1303030c	わかったわ。⏎でも お母さん……	I understand. ⏎But mom...	Yes、but Mama-	
+280108b4	もう時間がありません⏸わたしのかわいいジャスミン。⏎いつも見守っていますよ	I don't have time anymore⏸My cute Jasmine. ⏎I'm always watching over you	"I must leave you now⏸
+But I will be⏎
+watching over you、as⏸
+I always have、⏎
+Jasmine⏸
+And I love you、as I⏎
+have always done⏸
+Be of good heart、⏎
+my dearest"	
+1203030c	へんなまほうで わたしを⏎だまそうとしてるのね	You're trying to trick me with your strange magic.	"What is this magic?⏸
+What is this stone、⏎
+that it can show my⏸
+mother to me?"	
+9810208	いや、トパーズの力だ⏸トパーズは この世界と あの世を⏎結ぶ力があるらしいんだ	"No, it's the power of topaz⏸Topaz seems to have the power to connect this world and the next world."	"It is said that the⏎
+topaz has the power⏸
+to bring the living⏎
+into contact with⏸
+the spirit world"	
+1303030c	あの世……そうか……⏎やっぱりお母さんはもう……	"The afterlife... I see... ⏎ After all, my mother is already..."	"So、my mother is dead⏸
+I thought it was so-⏎
+I felt it⏸
+But still I hoped…"	
+3810104	ジャスミン……	jasmine……	Jasmine…	
+0b810208	(しばらく ほうっておけ)	(Leave it alone for a while)	(Not now、Lief)	
+1203030c	なに言ってるのよ!⏎さっさと行くわよ!	What are you talking about? ⏎Let's go quickly!	"It seems I am to go⏎
+with you!⏸
+If you will have me"	
+1403030c	クリーとフィリもいっしょだからね	Kree and Fili are together too.	"But I could not⏎
+leave Filli behind⏸
+And Kree goes every-⏎
+where I go⏸
+That would have to⏎
+be understood"	
+5810104	う、うん	"Uh, yeah"	Of course!	
+1030104	ジャスミンと旅をしても⏎いいのかな?	Is it okay to travel with Jasmine?	"Oh、uh… what do you⏎
+think、Barda?"	
+0c810208	だいじょうぶさ	It's okay	"If Fate has decreed⏸
+that we are to be⏎
+three、so be it!"	
+1030104	どうして?	Why?	You’re sure?	
+0c810208	ジャスミンは母親の⏎やさしい言葉に うごかされた⏸つまり、悪い子じゃない	"Jasmine was moved by her mother's ⏎kind words⏸In other words, she is not a bad child."	"After seeing Jasmine⏎
+talk to her mother、⏸
+I can tell that she⏎
+has a good heart!"	
+4030104	うん、そうだね	"Yeah, that's right"	Yeah、that’s right!	
+0b810208	性格には……不安はあるが	I have some concerns about my personality...	"I must be getting⏎
+old…"	"This sure feels like it’s meant to be funny, but I’m not sure how to translate it effectively"
+1030104	(まだ旅は はじまったばかりなのに⏎いろんなことがあったな)⏸(これからも たいへんそうだ……)	(Even though the journey has only just begun⏎A lot has happened.)⏸(It seems like there will be a lot more to come...)	"(The quest has only⏎
+just begun、and so)⏸
+(much has happened⏎
+already!)⏸
+(What waits for us⏎
+ahead?)"	
 12030374	頭をねらって! そこが弱点よ!	Aim for the head! That's your weak point!	"Aim for the head!⏎
 It’s weak there!"	
-1203030c	ふたりとも、ちょっと待って!⏸この辺りだけ足場がすべりやすいの⏎気をつけて進むのよ⏸枝から足をすべらせたら⏎まっさかさまにおちるわよ	"Wait a minute, both of you! ⏸ The footing is slippery around here ⏎ Proceed carefully ⏸ If your foot slips from the branch ⏎ You'll fall head over heels."	ふたりとも、ちょっと待って!⏸この辺りだけ足場がすべりやすいの⏎気をつけて進むのよ⏸枝から足をすべらせたら⏎まっさかさまにおちるわよ	
+1203030c	ふたりとも、ちょっと待って!⏸この辺りだけ足場がすべりやすいの⏎気をつけて進むのよ⏸枝から足をすべらせたら⏎まっさかさまにおちるわよ	"Wait a minute, both of you! ⏸ The footing is slippery around here ⏎ Proceed carefully ⏸ If your foot slips from the branch ⏎ You'll fall head over heels."	"Hold on, you two!⏸
+These branches are⏎
+slippery⏸
+Be careful not to⏎
+fall off!"	
 0	『!いなぶあ !んけき』	『!Inabua!Nkeki』	『!Eraweb !regnad』	Reading the sign at the beginning

@@ -1,65 +1,92 @@
 Header	Japanese	Google Translate	Translated
-00000000	あたらしいぼうけんをはじめます	Starting a new adventure	
-00000000	右の紙にタッチペンを使い⏎あなたの名前をサインしてください⏎⏎⏎とびら:けってい⏎けしゴム:サインをけす	Use the touch pen on the paper on the right ⏎Please sign your name ⏎⏎⏎ Door: Sign ⏎ Poppy rubber: Sign your name	
-00000000	ぼうけんをさいかいしますか?⏎⏎⏎とびら:ぼうけんのさいかい⏎ごみばこ:ファイルをけす	Would you like to explore the adventure? ⏎⏎⏎ Door: Explore the adventure ⏎ Garbage box: Close the file	
-00000000	このファイルではじめますか?	Would you like to start with this file?	
-00000000	けすファイルをえらんでください	Please select a file.	
-00000000	このファイルをけしますか?	Do you want to delete this file?	
-00000000	本当にけしますか?	Do you really want to kick me?	
-00000000	#f7ffセーブデータをけしています	#f7ff I'm deleting my save data	
-00000000	セーブしています……⏎でんげんを切ったり⏎カードのぬきさしをしないでください	Saving... ⏎Please do not cut the green beans or ⏎cut the card.	
-00000000	でんげんを切ったり⏎カードのぬきさしをしないでください	Do not turn off the power or insert or remove the card.	
-00000000	セーブがおわりました	The save is finished	
-00000000	#f7ffセーブにしっぱいしました⏎#f7ffでんげんを切りカードをさし直してください	#f7ff Saved a lot ⏎ #f7ff Please cut the string and reinsert the card.	
-00000000	#f7ffセーブデータをよめませんでした⏎#f7ffでんげんを切りカードをさし直してください	#f7ff Save data could not be read ⏎ #f7ff Please cut the string and reinsert the card.	
-00000000	#f7ffセーブにしっぱいしました⏎#f7ffでんげんを切り⏎#f7ffカードをさし直してください	#f7ff I saved a lot ⏎ #f7ff cut off the data ⏎ #f7ff Please reinsert the card	
-00000000	はじめから	from the beginning	
-00000000	#f8ffワールドマップ	#f8ff world map	
-00000000	#f8ff第1章⏎#f8ff#0f00木の上	#f8ffChapter 1⏎#f8ff#0f00On the tree	
-00000000	#f8ff第2章⏎#f8ff#0f00草地	#f8ffChapter 2⏎#f8ff#0f00Grass	
-00000000	#f8ff第2章⏎#f8ff#0f00湿地(しっち)	#f8ff Chapter 2 ⏎ #f8ff #0f00 Wetlands (Shicchi)	
-00000000	#f8ff第3章⏎#f8ff#0f00荒地(あれち)	#f8ff Chapter 3 ⏎ #f8ff #0f00 Wasteland (Arechi)	
-00000000	#f8ff第3章⏎#f8ff#0f00はばひろ川へ	#f8ffChapter 3⏎#f8ff#0f00To the Habahiro River	
-00000000	#f8ff第1章⏎#f8ff#0f00ちんもくの森	#f8ff Chapter 1 ⏎ #f8ff #0f00 Chinmoku Forest	
-00000000	#f8ff第2章⏎#f8ff#0f00川	#f8ffChapter 2⏎#f8ff#0f00River	
-00000000	#f8ff第3章⏎#f8ff#0f00チュルナイ	#f8ff Chapter 3⏎#f8ff#0f00Churnai	
-00000000	#f8ff第3章⏎#f8ff#0f00ラット・シティ⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f00入口	#f8ff Chapter 3⏎#f8ff#0f00Rat City⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f00Entrance	
-00000000	#f8ff第3章⏎#f8ff#0f00ラット・シティ⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f002F	#f8ff Chapter 3⏎#f8ff#0f00Rat City⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f002F	
-00000000	#f8ff第4章⏎#f8ff#0f00リンゴえん	#f8ffChapter 4⏎#f8ff#0f00Ringoen	
-00000000	#f8ff第4章⏎#f8ff#0f00リスメアへ	#f8ffChapter 4⏎#f8ff#0f00To Rismea	
-00000000	#f8ff第4章⏎#f8ff#0f00リスメア	#f8ff Chapter 4 ⏎ #f8ff #0f00 Rismea	
-00000000	#f8ff第4章⏎#f8ff#0f00石ころ平原	#f8ff Chapter 4 ⏎ #f8ff #0f00 Stone Plains	
-00000000	#f8ff第4章⏎#f8ff#0f00岩壁(がんぺき)	#f8ff Chapter 4 ⏎ #f8ff #0f00 Rock wall (ganpeki)	
-00000000	#f8ff第4章⏎#f8ff#0f00砂漠(さばく)	#f8ffChapter 4⏎#f8ff#0f00Desert (Sabaku)	
-00000000	#f8ff第4章⏎#f8ff#0f00砂漠2	#f8ff Chapter 4 ⏎ #f8ff #0f00 Desert 2	
-00000000	#f8ff第5章⏎#f8ff#0f00荒野(こうや)	#f8ff Chapter 5 ⏎ #f8ff #0f00 Wilderness (Koya)	
-00000000	#f8ff第5章⏎#f8ff#0f00泉	#f8ff Chapter 5⏎#f8ff#0f00Izumi	
-00000000	#f8ff第5章⏎#f8ff#0f00???	#f8ffChapter 5⏎#f8ff#0f00???	
-00000000	#f8ff第5章⏎#f8ff#0f00山道	#f8ffChapter 5⏎#f8ff#0f00Mountain road	
-00000000	#f8ff第5章⏎#f8ff グノメ族のとりで	#f8ffChapter 5⏎#f8ff In the Gnomes' Fortress	
-00000000	#f8ff第5章⏎#f8ff ようしょくじょう	#f8ffChapter 5⏎#f8ff Farm	
-00000000	#f8ffスペシャルステージ⏎#f8ff モキートのやかた	#f8ff special stage ⏎ #f8ff Mokito's story	
-00000000	#f8ff第6章⏎#f8ff#0f00トル川ぞい	#f8ffChapter 6⏎#f8ff#0f00 Along the Tor River	
-00000000	#f8ff第6章⏎#f8ff#0f00トル川ぞい2	#f8ff Chapter 6⏎#f8ff#0f00Toru River View 2	
-00000000	#f8ff第6章⏎#f8ff#0f00リバー・⏎#f8ff#0f00クイーン号	#f8ff Chapter 6 ⏎ #f8ff #0f00 River ⏎ #f8ff #0f00 Queen	
-00000000	#f8ff第6章⏎#f8ff#0f00砂浜	#f8ffChapter 6⏎#f8ff#0f00Sandy beach	
-00000000	#f8ff第6章⏎#f8ff#0f00洞窟(どうくつ)	#f8ff Chapter 6 ⏎ #f8ff #0f00 Cave (Double)	
-00000000	#f8ff第7章⏎#f8ff#0f00トーラへ	#f8ffChapter 7⏎#f8ff#0f00 To Thora	
-00000000	#f8ff第7章⏎#f8ff#0f00谷への道	#f8ffChapter 7⏎#f8ff#0f00Road to the valley	
-00000000	#f8ff第7章⏎#f8ff#0f00リーフのしれん	#f8ff Chapter 7⏎#f8ff#0f00Leaf Shiren	
-00000000	#f8ff最終章⏎#f8ff#0f00小川のほとり	#f8ff final chapter⏎#f8ff#0f00By the stream	
-00000000	#f8ff最終章⏎#f8ff#0f00ガブリ草原入口	#f8ff final chapter ⏎ #f8ff #0f00 Entrance of Gabri Grassland	
-00000000	#f8ff最終章⏎#f8ff#0f00ガブリ草原	#f8ff final chapter ⏎ #f8ff #0f00 Gabri Grassland	
-00000000	#f8ff最終章⏎#f8ff#0f00デルへの道	#f8ff final chapter⏎#f8ff#0f00 Road to Dell	
-00000000	#f8ff最終章⏎#f8ff#0f00デルの町	#f8ff final chapter ⏎ #f8ff #0f00 Del town	
-00000000	#f8ff最終章⏎#f8ff#0f00下水道⏎#f8ff(げすいどう)	#f8ff final chapter⏎#f8ff#0f00 sewer⏎#f8ff(Gesuido)	
-00000000	#f8ff最終章⏎#f8ff#0f00下水道2	#f8ffFinal Chapter⏎#f8ff#0f00Sewer 2	
-00000000	#f8ff最終章⏎#f8ff#0f00デル城內⏎#f8ff(じょうない)	#f8ff final chapter⏎#f8ff#0f00 Del Castle⏎#f8ff (jonai)	
-00000000	#f8ff最終章⏎#f8ff#0f00デル城內2	#f8ff final chapter⏎#f8ff#0f00 Dell castle interior 2	
-00000000	#f8ff最終章⏎#f8ff#0f00デル城內まどべ	#f8ff final chapter⏎#f8ff#0f00 Madobe inside Del Castle	
-00000000	#f8ffセーブデータ43	#f8ff save data 43	
-00000000	#f8ffセーブデータ44	#f8ff save data 44	
-00000000	#f8ffセーブデータ45	#f8ff save data 45	
-00000000	#f8ffオープニングから	#f8ffFrom the opening	
-00000000	#f8ff最終章⏎#f8ff#0f00デル城內まどべ	#f8ff final chapter⏎#f8ff#0f00 Madobe inside Del Castle	
-00000000	このデータでつうしんを行いますか?	Do you want to use this data for training?	
+0	あたらしいぼうけんをはじめます	Starting a new adventure	Start a new adventure?
+0	右の紙にタッチペンを使い⏎あなたの名前をサインしてください⏎⏎⏎とびら:けってい⏎けしゴム:サインをけす	Use the touch pen on the paper on the right ⏎Please sign your name ⏎⏎⏎ Door: Sign ⏎ Poppy rubber: Sign your name	"Sign your name on the⏎
+entry card⏎
+⏎
+⏎
+Door:Okay⏎
+Eraser:Clear"
+0	ぼうけんをさいかいしますか?⏎⏎⏎とびら:ぼうけんのさいかい⏎ごみばこ:ファイルをけす	Would you like to explore the adventure? ⏎⏎⏎ Door: Explore the adventure ⏎ Garbage box: Close the file	"Continue adventure?⏎
+⏎
+⏎
+Door:Load⏎
+Trash:Erase"
+0	このファイルではじめますか?	Would you like to start with this file?	Load this file?
+0	けすファイルをえらんでください	Please select a file.	Select a file
+0	このファイルをけしますか?	Do you want to delete this file?	Erase this file?
+0	本当にけしますか?	Do you really want to kick me?	Really erase?
+0	#f7ffセーブデータをけしています	#f7ff I'm deleting my save data	#f7ffErasing file
+0	セーブしています……⏎でんげんを切ったり⏎カードのぬきさしをしないでください	Saving... ⏎Please do not cut the green beans or ⏎cut the card.	"Saving…⏎
+Do not turn off the⏎
+system or remove⏎
+the game card"
+0	でんげんを切ったり⏎カードのぬきさしをしないでください	Do not turn off the power or insert or remove the card.	"Do not turn off the⏎
+system or remove⏎
+the game card"
+0	セーブがおわりました	The save is finished	Saved
+0	#f7ffセーブにしっぱいしました⏎#f7ffでんげんを切りカードをさし直してください	#f7ff Saved a lot ⏎ #f7ff Please cut the string and reinsert the card.	"#f7ffFailed to save. Please⏎
+turn off the system and⏎
+reinsert the game card"
+0	#f7ffセーブデータをよめませんでした⏎#f7ffでんげんを切りカードをさし直してください	#f7ff Save data could not be read ⏎ #f7ff Please cut the string and reinsert the card.	"#f7ffLoading failed. Please⏎
+turn off the system and⏎
+reinsert the game card  "
+0	#f7ffセーブにしっぱいしました⏎#f7ffでんげんを切り⏎#f7ffカードをさし直してください	#f7ff I saved a lot ⏎ #f7ff cut off the data ⏎ #f7ff Please reinsert the card	"#f7ffFailed to save. Please⏎
+turn off the system and⏎
+reinsert the game card"
+0	はじめから	from the beginning	Intro
+0	#f8ffワールドマップ	#f8ff world map	#f8ffWorld Map
+0	#f8ff第1章⏎#f8ff#0f00木の上	#f8ffChapter 1⏎#f8ff#0f00On the tree	"#f8ffChapter1⏎
+#f8ff#0f00Treetops"
+0	#f8ff第2章⏎#f8ff#0f00草地	#f8ffChapter 2⏎#f8ff#0f00Grass	"#f8ffChapter 2⏎
+#f8ff#0f00Grassland"
+0	#f8ff第2章⏎#f8ff#0f00湿地(しっち)	#f8ff Chapter 2 ⏎ #f8ff #0f00 Wetlands (Shicchi)	"#f8ffChapter 2⏎
+#f8ff#0f00Wetlands"
+0	#f8ff第3章⏎#f8ff#0f00荒地(あれち)	#f8ff Chapter 3 ⏎ #f8ff #0f00 Wasteland (Arechi)	"#f8ffChapter 3⏎
+#f8ff#0f00Wasteland"
+0	#f8ff第3章⏎#f8ff#0f00はばひろ川へ	#f8ffChapter 3⏎#f8ff#0f00To the Habahiro River	#f8ff第3章⏎#f8ff#0f00はばひろ川へ
+0	#f8ff第1章⏎#f8ff#0f00ちんもくの森	#f8ff Chapter 1 ⏎ #f8ff #0f00 Chinmoku Forest	"#f8ffChapter 1⏎
+#f8ff#0f00The Forests of Silence"
+0	#f8ff第2章⏎#f8ff#0f00川	#f8ffChapter 2⏎#f8ff#0f00River	"#f8ffChapter 2⏎
+#f8ff#0f00River"
+0	#f8ff第3章⏎#f8ff#0f00チュルナイ	#f8ff Chapter 3⏎#f8ff#0f00Churnai	#f8ff第3章⏎#f8ff#0f00チュルナイ
+0	#f8ff第3章⏎#f8ff#0f00ラット・シティ⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f00入口	#f8ff Chapter 3⏎#f8ff#0f00Rat City⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f00Entrance	#f8ff第3章⏎#f8ff#0f00ラット・シティ⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f00入口
+0	#f8ff第3章⏎#f8ff#0f00ラット・シティ⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f002F	#f8ff Chapter 3⏎#f8ff#0f00Rat City⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f002F	#f8ff第3章⏎#f8ff#0f00ラット・シティ⏎#f8ff#0f00#0f00#0f00#0f00#0f00#0f002F
+0	#f8ff第4章⏎#f8ff#0f00リンゴえん	#f8ffChapter 4⏎#f8ff#0f00Ringoen	#f8ff第4章⏎#f8ff#0f00リンゴえん
+0	#f8ff第4章⏎#f8ff#0f00リスメアへ	#f8ffChapter 4⏎#f8ff#0f00To Rismea	#f8ff第4章⏎#f8ff#0f00リスメアへ
+0	#f8ff第4章⏎#f8ff#0f00リスメア	#f8ff Chapter 4 ⏎ #f8ff #0f00 Rismea	#f8ff第4章⏎#f8ff#0f00リスメア
+0	#f8ff第4章⏎#f8ff#0f00石ころ平原	#f8ff Chapter 4 ⏎ #f8ff #0f00 Stone Plains	#f8ff第4章⏎#f8ff#0f00石ころ平原
+0	#f8ff第4章⏎#f8ff#0f00岩壁(がんぺき)	#f8ff Chapter 4 ⏎ #f8ff #0f00 Rock wall (ganpeki)	#f8ff第4章⏎#f8ff#0f00岩壁(がんぺき)
+0	#f8ff第4章⏎#f8ff#0f00砂漠(さばく)	#f8ffChapter 4⏎#f8ff#0f00Desert (Sabaku)	#f8ff第4章⏎#f8ff#0f00砂漠(さばく)
+0	#f8ff第4章⏎#f8ff#0f00砂漠2	#f8ff Chapter 4 ⏎ #f8ff #0f00 Desert 2	#f8ff第4章⏎#f8ff#0f00砂漠2
+0	#f8ff第5章⏎#f8ff#0f00荒野(こうや)	#f8ff Chapter 5 ⏎ #f8ff #0f00 Wilderness (Koya)	#f8ff第5章⏎#f8ff#0f00荒野(こうや)
+0	#f8ff第5章⏎#f8ff#0f00泉	#f8ff Chapter 5⏎#f8ff#0f00Izumi	#f8ff第5章⏎#f8ff#0f00泉
+0	#f8ff第5章⏎#f8ff#0f00???	#f8ffChapter 5⏎#f8ff#0f00???	"#f8ffChapter 5⏎
+#f8ff#0f00???"
+0	#f8ff第5章⏎#f8ff#0f00山道	#f8ffChapter 5⏎#f8ff#0f00Mountain road	#f8ff第5章⏎#f8ff#0f00山道
+0	#f8ff第5章⏎#f8ff グノメ族のとりで	#f8ffChapter 5⏎#f8ff In the Gnomes' Fortress	#f8ff第5章⏎#f8ff グノメ族のとりで
+0	#f8ff第5章⏎#f8ff ようしょくじょう	#f8ffChapter 5⏎#f8ff Farm	#f8ff第5章⏎#f8ff ようしょくじょう
+0	#f8ffスペシャルステージ⏎#f8ff モキートのやかた	#f8ff special stage ⏎ #f8ff Mokito's story	#f8ffスペシャルステージ⏎#f8ff モキートのやかた
+0	#f8ff第6章⏎#f8ff#0f00トル川ぞい	#f8ffChapter 6⏎#f8ff#0f00 Along the Tor River	#f8ff第6章⏎#f8ff#0f00トル川ぞい
+0	#f8ff第6章⏎#f8ff#0f00トル川ぞい2	#f8ff Chapter 6⏎#f8ff#0f00Toru River View 2	#f8ff第6章⏎#f8ff#0f00トル川ぞい2
+0	#f8ff第6章⏎#f8ff#0f00リバー・⏎#f8ff#0f00クイーン号	#f8ff Chapter 6 ⏎ #f8ff #0f00 River ⏎ #f8ff #0f00 Queen	#f8ff第6章⏎#f8ff#0f00リバー・⏎#f8ff#0f00クイーン号
+0	#f8ff第6章⏎#f8ff#0f00砂浜	#f8ffChapter 6⏎#f8ff#0f00Sandy beach	#f8ff第6章⏎#f8ff#0f00砂浜
+0	#f8ff第6章⏎#f8ff#0f00洞窟(どうくつ)	#f8ff Chapter 6 ⏎ #f8ff #0f00 Cave (Double)	#f8ff第6章⏎#f8ff#0f00洞窟(どうくつ)
+0	#f8ff第7章⏎#f8ff#0f00トーラへ	#f8ffChapter 7⏎#f8ff#0f00 To Thora	#f8ff第7章⏎#f8ff#0f00トーラへ
+0	#f8ff第7章⏎#f8ff#0f00谷への道	#f8ffChapter 7⏎#f8ff#0f00Road to the valley	#f8ff第7章⏎#f8ff#0f00谷への道
+0	#f8ff第7章⏎#f8ff#0f00リーフのしれん	#f8ff Chapter 7⏎#f8ff#0f00Leaf Shiren	#f8ff第7章⏎#f8ff#0f00リーフのしれん
+0	#f8ff最終章⏎#f8ff#0f00小川のほとり	#f8ff final chapter⏎#f8ff#0f00By the stream	#f8ff最終章⏎#f8ff#0f00小川のほとり
+0	#f8ff最終章⏎#f8ff#0f00ガブリ草原入口	#f8ff final chapter ⏎ #f8ff #0f00 Entrance of Gabri Grassland	#f8ff最終章⏎#f8ff#0f00ガブリ草原入口
+0	#f8ff最終章⏎#f8ff#0f00ガブリ草原	#f8ff final chapter ⏎ #f8ff #0f00 Gabri Grassland	#f8ff最終章⏎#f8ff#0f00ガブリ草原
+0	#f8ff最終章⏎#f8ff#0f00デルへの道	#f8ff final chapter⏎#f8ff#0f00 Road to Dell	#f8ff最終章⏎#f8ff#0f00デルへの道
+0	#f8ff最終章⏎#f8ff#0f00デルの町	#f8ff final chapter ⏎ #f8ff #0f00 Del town	#f8ff最終章⏎#f8ff#0f00デルの町
+0	#f8ff最終章⏎#f8ff#0f00下水道⏎#f8ff(げすいどう)	#f8ff final chapter⏎#f8ff#0f00 sewer⏎#f8ff(Gesuido)	#f8ff最終章⏎#f8ff#0f00下水道⏎#f8ff(げすいどう)
+0	#f8ff最終章⏎#f8ff#0f00下水道2	#f8ffFinal Chapter⏎#f8ff#0f00Sewer 2	#f8ff最終章⏎#f8ff#0f00下水道2
+0	#f8ff最終章⏎#f8ff#0f00デル城內⏎#f8ff(じょうない)	#f8ff final chapter⏎#f8ff#0f00 Del Castle⏎#f8ff (jonai)	#f8ff最終章⏎#f8ff#0f00デル城內⏎#f8ff(じょうない)
+0	#f8ff最終章⏎#f8ff#0f00デル城內2	#f8ff final chapter⏎#f8ff#0f00 Dell castle interior 2	#f8ff最終章⏎#f8ff#0f00デル城內2
+0	#f8ff最終章⏎#f8ff#0f00デル城內まどべ	#f8ff final chapter⏎#f8ff#0f00 Madobe inside Del Castle	#f8ff最終章⏎#f8ff#0f00デル城內まどべ
+0	#f8ffセーブデータ43	#f8ff save data 43	#f8ffセーブデータ43
+0	#f8ffセーブデータ44	#f8ff save data 44	#f8ffセーブデータ44
+0	#f8ffセーブデータ45	#f8ff save data 45	#f8ffセーブデータ45
+0	#f8ffオープニングから	#f8ffFrom the opening	#f8ffPrologue
+0	#f8ff最終章⏎#f8ff#0f00デル城內まどべ	#f8ff final chapter⏎#f8ff#0f00 Madobe inside Del Castle	#f8ff最終章⏎#f8ff#0f00デル城內まどべ
+0	このデータでつうしんを行いますか?	Do you want to use this data for training?	このデータでつうしんを行いますか?
