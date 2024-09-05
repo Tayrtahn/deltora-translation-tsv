@@ -240,8 +240,8 @@ place…"
 of the Forest⏸
 They call this place⏎
 『The Dark』⏸
-They’re say that⏎
-even they fear it"	
+They say that even⏎
+they fear it"	
 9030208	だれが言ってるんだ?	Who's saying that?	Who?	
 1103030c	森の木たちよ	trees of the forest	The trees、of course	
 0d810208	木が教えてくれただと!?	The tree told me!?	"The trees talk to⏎
@@ -251,7 +251,7 @@ bit… off"
 3810104	今さら……	Now...	"Too late to turn⏎
 turn back now…"	
 1203030c	聞こえてるわよ!	I can hear you!	Hey! I can hear you!	
-0b810208	……悪かった	...It was bad	Sorry	
+0b810208	……悪かった	...It was bad	Ahem… Sorry	
 9810208	あとはオレたちで⏎なんとかする⏸もう家へ帰ってくれ。⏎とても助かったぞ	Now we'll do the rest. Go home now. ⏎It was very helpful.	"We thank you for all⏎
 you have done for us⏸
 But you can do no⏎
@@ -283,9 +283,9 @@ Farewell、Jasmine"
 written here…)"	
 0	"『るれからひはちみばけふ』
 Reversed: ふけばみちはひらかれる"	"“Rule Karahi Hachimi Bakefu”
-“If you blow, the way will open”"	"『ezeerb a htiw yaw
+“If you blow, the way will open”"	"『ezeerb a htiw yaw⏎
 eht nepO』"	"Look, a puzzle! It’s backwards text again."
-0	『ぬけ穴を見つけた!!』	“I found a loophole!!”	"『Hey、look! An
+0	『ぬけ穴を見つけた!!』	“I found a loophole!!”	"『Hey、look! An⏎
 opening!』"	"I’m pretty sure this line is supposed to be Lief yelling in excitement, rather than another coded message. Unfortunately, reversing the kana actually produces a message that Google translate thinks makes some level of sense (“I can't see through the view”), but… ehhh, I’m reasonably sure this is just Lief talking."
 0c030208	やったな、リーフ	"Well done, Leaf."	Well done、Lief	
 4810104	うん、行こう	"Yeah, let's go"	Yeah、let’s go!	
@@ -314,10 +314,10 @@ for any lilies"
 nectar is mine…"	
 28010b78	ぐ……	ingredient……	Urgh-	
 0b030208	リーフ……無事……だったか?	Leaf...was it okay...?	Lief…	
-2030104	バルダ! バルダ!	Barda! Barda!	Barda! Barda!	
+2030104	バルダ! バルダ!	Barda! Barda!	Barda!	
 0b030208	オレが死んでも⏎旅を続けるんだぞ……	"Even if I die, I will continue my journey..."	"It’s okay、Lief。⏎
 Go on without me…"	
-2030104	死んじゃダメ!	Don't die!	No、don’t die!	
+2030104	死んじゃダメ!	Don't die!	No、you can’t die!	
 3030104	バルダ、ぼく、あやまるよ⏸あなたのことを⏎じゃまだと思ってた⏸ひとりで旅をしたいと⏎思ってたんだ	"Barda, I'm sorry. I thought you were a hindrance. I wanted to travel alone."	"Barda… I’m sorry⏸
 At first I thought⏎
 you were just⏸
@@ -337,7 +337,7 @@ to say such things!"
 Lilies of Life!"	
 1103030c	のんで	Drink it	Quickly、drink it!	
 0	父さん。⏎ユリのミツはすごいです。⏎バルダは あっというまに⏎元気になりました。	Dad. ⏎Lily honey is amazing. ⏎Barda felt better in an instant.	"The Lilies’ nectar⏎
-was incredible⏎
+was incredible!⏎
 Barda felt better⏎
 in an instant"	
 0b030208	まだフラフラするが……⏎なーに、これしき	"I'm still feeling lightheaded... ⏎What, this is so cool"	"What happened? Did⏎
@@ -351,9 +351,9 @@ fell on him"
 tree what must be⏸
 done and at last it⏎
 listened"	
-0b030208	……そうか	...I see.	…I see	
+0b030208	……そうか	...I see.	…	
 1203030c	信じなくたっていいけど	You don't have to believe it though	"Hmph、you don’t have⏎
-to believe it"	
+to believe it!"	
 9030208	いや、信じよう⏸ユリのミツで助かった命。⏎もう、どんなことでも信じるさ	"No, let's believe ⏸ A life saved by the lily's honey. ⏎I'll believe anything now"	"No、I believe it⏸
 My life was just⏎
 saved by nectar⏸
@@ -375,7 +375,7 @@ Thanks for the help!⏸
 Go ahead、grab it!"	
 9810208	せいれいだ。トパーズの力だ……	It's Seirei. It's the power of topaz...	"This spirit… the⏎
 power of the topaz…"	
-280108b4	ジャスミン……わたしのかわいい⏎ジャスミン……	Jasmine...my cute ⏎Jasmine...	"Jasmine! Jasmine,⏎
+280108b4	ジャスミン……わたしのかわいい⏎ジャスミン……	Jasmine...my cute ⏎Jasmine...	"Jasmine! Jasmine、⏎
 my dearest!"	This whole section is remarkably close to the text in the book
 1703030c	……!?⏎もしかしてあなたは……お母さん!?	……!?⏎Maybe you are… your mother!?	"Mama!⏸
 Is- is it you? Can⏎
@@ -423,15 +423,16 @@ topaz has the power⏸
 to bring the living⏎
 into contact with⏸
 the spirit world"	
-1303030c	あの世……そうか……⏎やっぱりお母さんはもう……	"The afterlife... I see... ⏎ After all, my mother is already..."	"So、my mother is dead⏸
+1303030c	あの世……そうか……⏎やっぱりお母さんはもう……	"The afterlife... I see... ⏎ After all, my mother is already..."	"Spirit world…?⏎
+So、my mother is dead⏸
 I thought it was so-⏎
 I felt it⏸
 But still I hoped…"	
 3810104	ジャスミン……	jasmine……	Jasmine…	
 0b810208	(しばらく ほうっておけ)	(Leave it alone for a while)	(Not now、Lief)	
 1203030c	なに言ってるのよ!⏎さっさと行くわよ!	What are you talking about? ⏎Let's go quickly!	"It seems I am to go⏎
-with you!⏸
-If you will have me"	
+with you if you will⏸
+have me!"	
 1403030c	クリーとフィリもいっしょだからね	Kree and Fili are together too.	"But I could not⏎
 leave Filli behind⏸
 And Kree goes every-⏎
@@ -453,7 +454,7 @@ has a good heart!"
 0b810208	性格には……不安はあるが	I have some concerns about my personality...	"I must be getting⏎
 old…"	"This sure feels like it’s meant to be funny, but I’m not sure how to translate it effectively"
 1030104	(まだ旅は はじまったばかりなのに⏎いろんなことがあったな)⏸(これからも たいへんそうだ……)	(Even though the journey has only just begun⏎A lot has happened.)⏸(It seems like there will be a lot more to come...)	"(The quest has only⏎
-just begun、and so)⏸
+just begun、and so-)⏸
 (much has happened⏎
 already!)⏸
 (What waits for us⏎
