@@ -5,10 +5,14 @@ Great job!"
 0	リーフの剣LVが#f5ffになった!!	Leaf's sword LV has become #f5ff!!	Lief’s sword hit LV #f5ff!
 0	バルダの剣LVが#f5ffになった!!	Barda's sword LV has become #f5ff!!	Barda’s sword hit LV #f5ff!
 0	ジャスミンの剣LVが#f5ffになった!!	Jasmine's sword LV has become #f5ff!!	Jasmine’s sword hit LV #f5ff!
-0	鉄の合成により⏎一定時間『きぜつ』こうかをえた!	"By synthesizing iron, ⏎ gained a “kisetsu” shape for a certain period of time!"	鉄の合成により⏎一定時間『きぜつ』こうかをえた!
-0	銀の合成により⏎一定時間影のてきに大ダメージ!	"By synthesizing silver, ⏎Great damage to shadows for a certain period of time!"	銀の合成により⏎一定時間影のてきに大ダメージ!
-0	金の合成により⏎一定時間炎の追加ダメージ!	"By combining gold, ⏎additional fire damage for a certain period of time!"	金の合成により⏎一定時間炎の追加ダメージ!
-0	水晶の合成により⏎一定時間こうげきはんいが広がる!	"By synthesizing crystals, ⏎Kougekihani spreads for a certain period of time!"	水晶の合成により⏎一定時間こうげきはんいが広がる!
+0	鉄の合成により⏎一定時間『きぜつ』こうかをえた!	"By synthesizing iron, ⏎ gained a “kisetsu” shape for a certain period of time!"	"Iron added a stun⏎
+effect for a bit!"
+0	銀の合成により⏎一定時間影のてきに大ダメージ!	"By synthesizing silver, ⏎Great damage to shadows for a certain period of time!"	"Silver added damage⏎
+to shadows for a bit!"
+0	金の合成により⏎一定時間炎の追加ダメージ!	"By combining gold, ⏎additional fire damage for a certain period of time!"	"Gold added fire⏎
+damage for a bit!"
+0	水晶の合成により⏎一定時間こうげきはんいが広がる!	"By synthesizing crystals, ⏎Kougekihani spreads for a certain period of time!"	"Quartz raised attack⏎
+width for a bit!"
 0	ジャードは少し⏎かじのコツをつかんだようだ	Jard seems to have gotten the hang of ⏎Kazi a little bit.	"Jarred seems to have⏎
 gotten the hang of it!"
 0	かじのこころえ⏎⏎下画面をれんぞくタッチすると⏎リーフが剣をきたえます⏎メーターがたまると剣のLVがあがります	"Kaji no Kokoro⏎⏎Touch the bottom screen to make Leaf raise a sword⏎As the meter fills up, the sword's level will increase"	"Blacksmithing⏎
@@ -25,13 +29,21 @@ to make Jarred hit⏎
 ⏎
 Fill the meter to⏎
 level up the sword!"
-0	リーフは『そざい』をもっています⏎⏎合成したい『そざい』をえらんでください⏎まる:けってい⏎やじるし:ごうせいしない	"Leaf has ""Sozai"" ⏎⏎ Please select the ""Sozai"" you want to combine ⏎ Maru: Kite ⏎ Yajirushi: Do not go"	リーフは『そざい』をもっています⏎⏎合成したい『そざい』をえらんでください⏎まる:けってい⏎やじるし:ごうせいしない
-0	#0f00#0f00#0f00『#f8ff鉄#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間『きぜつ』こうかをえる#0f00	#0f00#0f00#0f00 『#f8ff Iron#fcff』 ``Kizetsu'' for a certain period of time #0f00	#0f00#0f00#0f00『#f8ff鉄#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間『きぜつ』こうかをえる#0f00
-0	#0f00#0f00#0f00『#f8ff銀#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間影のてきに大ダメージ#0f00#0f00	#0f00#0f00#0f00 『#f8ffsilver#fcff』 Great damage when shadowed for a certain period of time #0f00#0f00	#0f00#0f00#0f00『#f8ff銀#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間影のてきに大ダメージ#0f00#0f00
-0	#0f00#0f00#0f00『#f8ff金#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間炎の追加ダメージをえる#0f00	#0f00#0f00#0f00 『#f8ff金#fcff』 Gain additional flame damage for a certain period of time #0f00	#0f00#0f00#0f00『#f8ff金#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間炎の追加ダメージをえる#0f00
-0	#0f00#0f00#0f00『#f8ff水晶(すいしょう)#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間こうげきはんいが広がる#0f00	#0f00#0f00#0f00『#f8ffCrystal#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00The fire spreads for a certain period of time#0f00	#0f00#0f00#0f00『#f8ff水晶(すいしょう)#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間こうげきはんいが広がる#0f00
+0	リーフは『そざい』をもっています⏎⏎合成したい『そざい』をえらんでください⏎まる:けってい⏎やじるし:ごうせいしない	"Leaf has ""Sozai"" ⏎⏎ Please select the ""Sozai"" you want to combine ⏎ Maru: Kite ⏎ Yajirushi: Do not go"	"You have materials!⏎
+⏎
+Choose a material⏎
+to use:⏎
+Circle: Select⏎
+Arrow: Don’t use"
+0	#0f00#0f00#0f00『#f8ff鉄#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間『きぜつ』こうかをえる#0f00	#0f00#0f00#0f00 『#f8ff Iron#fcff』 ``Kizetsu'' for a certain period of time #0f00	"#0f00#0f00#0f00『#f8ffIron#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎
+#0f00#0f00#0f00#0f00Stun effect for a while#0f00"
+0	#0f00#0f00#0f00『#f8ff銀#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間影のてきに大ダメージ#0f00#0f00	#0f00#0f00#0f00 『#f8ffsilver#fcff』 Great damage when shadowed for a certain period of time #0f00#0f00	"#0f00#0f00#0f00『#f8ffSilver#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎
+#0f00#0f00#0f00#0f00Extra damage vs shadows#0f00#0f00"
+0	#0f00#0f00#0f00『#f8ff金#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間炎の追加ダメージをえる#0f00	#0f00#0f00#0f00 『#f8ff金#fcff』 Gain additional flame damage for a certain period of time #0f00	"#0f00#0f00#0f00『#f8ffGold#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎
+#0f00#0f00#0f00#0f00Fire damage for a while#0f00"
+0	#0f00#0f00#0f00『#f8ff水晶(すいしょう)#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間こうげきはんいが広がる#0f00	#0f00#0f00#0f00『#f8ffCrystal#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00The fire spreads for a certain period of time#0f00	#0f00#0f00#0f00『#f8ffQuartz#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00Wide attack for a while#0f00
 0	『#f8ffデルのバッジ#fcff』がかがやいた!	“#f8ff Dell badge #fcff” shines!	『#f8ffデルのバッジ#fcff』がかがやいた!
-0	『きぜつ』こうか	“Kisetsu” Kouka	『きぜつ』こうか
-0	影のてきに大ダメージ	Great damage to shadows	影のてきに大ダメージ
-0	炎の追加ダメージ	additional fire damage	炎の追加ダメージ
-0	こうげきはんいが広い	The space is spacious	こうげきはんいが広い
+0	『きぜつ』こうか	“Kisetsu” Kouka	Stun effect
+0	影のてきに大ダメージ	Great damage to shadows	Damage vs shadows
+0	炎の追加ダメージ	additional fire damage	Fire damage
+0	こうげきはんいが広い	The space is spacious	Wide attack
