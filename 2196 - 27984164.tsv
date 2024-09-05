@@ -36,12 +36,12 @@ to use:⏎
 Circle: Select⏎
 Arrow: Don’t use"
 0	#0f00#0f00#0f00『#f8ff鉄#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間『きぜつ』こうかをえる#0f00	#0f00#0f00#0f00 『#f8ff Iron#fcff』 ``Kizetsu'' for a certain period of time #0f00	"#0f00#0f00#0f00『#f8ffIron#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎
-#0f00#0f00#0f00#0f00Stun effect for a while#0f00"
+#0f00#0f00#0f00#0f00Stun effect#0f00"
 0	#0f00#0f00#0f00『#f8ff銀#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間影のてきに大ダメージ#0f00#0f00	#0f00#0f00#0f00 『#f8ffsilver#fcff』 Great damage when shadowed for a certain period of time #0f00#0f00	"#0f00#0f00#0f00『#f8ffSilver#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎
-#0f00#0f00#0f00#0f00Extra damage vs shadows#0f00#0f00"
+#0f00#0f00#0f00#0f00Shadow DMG#0f00#0f00"
 0	#0f00#0f00#0f00『#f8ff金#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間炎の追加ダメージをえる#0f00	#0f00#0f00#0f00 『#f8ff金#fcff』 Gain additional flame damage for a certain period of time #0f00	"#0f00#0f00#0f00『#f8ffGold#fcff』#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00#0f00⏎
-#0f00#0f00#0f00#0f00Fire damage for a while#0f00"
-0	#0f00#0f00#0f00『#f8ff水晶(すいしょう)#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間こうげきはんいが広がる#0f00	#0f00#0f00#0f00『#f8ffCrystal#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00The fire spreads for a certain period of time#0f00	#0f00#0f00#0f00『#f8ffQuartz#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00Wide attack for a while#0f00
+#0f00#0f00#0f00#0f00Fire DMG#0f00"
+0	#0f00#0f00#0f00『#f8ff水晶(すいしょう)#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00一定時間こうげきはんいが広がる#0f00	#0f00#0f00#0f00『#f8ffCrystal#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00The fire spreads for a certain period of time#0f00	#0f00#0f00#0f00『#f8ffQuartz#fcff』#0f00#0f00#0f00#0f00#0f00#0f00⏎#0f00#0f00#0f00#0f00Wide attack#0f00
 0	『#f8ffデルのバッジ#fcff』がかがやいた!	“#f8ff Dell badge #fcff” shines!	『#f8ffデルのバッジ#fcff』がかがやいた!
 0	『きぜつ』こうか	“Kisetsu” Kouka	Stun effect
 0	影のてきに大ダメージ	Great damage to shadows	Damage vs shadows
