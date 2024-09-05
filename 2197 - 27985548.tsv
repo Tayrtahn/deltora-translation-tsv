@@ -196,7 +196,7 @@ system or remove⏎
 the game card"	Unused?
 0	セーブがおわりました	The save is finished	Saved	Unused?
 0	マドレットに乗って帰りますか?	Would you like to ride Madret home?	マドレットに乗って帰りますか?	
-0	かじをしますか?	Do you want to steer?	Start smithing?	
+0	かじをしますか?	Do you want to steer?	Use the anvil?	
 5810104	うわっ⏎まっくらだ	Wow⏎It's pitch black	うわっ⏎まっくらだ	
 5810104	これじゃ先にすすめないぞ⏸引きかえそう!	We can't move forward like this ⏸ Let's turn back!	これじゃ先にすすめないぞ⏸引きかえそう!	
 1810104	そうだ、これを使おう!	"Yes, use this!"	そうだ、これを使おう!	
@@ -230,97 +230,104 @@ to find out"
 0b810208	オレは、おまえたちが すこしは⏎休めるようにと……	I want you all to get some rest...	オレは、おまえたちが すこしは⏎休めるようにと……	
 1181030c	ねえ、リーフ⏸こんな事 言い出しましたけど	"Hey, Leaf⏸I started saying this."	ねえ、リーフ⏸こんな事 言い出しましたけど	
 1810104	3人そろってから行こう!	Let's go after all three of us are together!	3人そろってから行こう!	
-1	#f9ff手にいれたデルトラカードは⏎#f9ffメニューの『カード』でみる事ができます⏎⏎#f9ff『デルトラカードこうかん』をおこなうと⏎#f9ffおたがいのカードがミックスされます⏎#f9ff友だちときょうりょくして⏎#f9ffすべてのデルトラカードをゲットしよう!	"#f9ffYou can see the Deltora cards you have obtained in ⏎#f9ff's ""Cards"" menu. Get excited and get all the #f9ff Deltora cards!"	#f9ff手にいれたデルトラカードは⏎#f9ffメニューの『カード』でみる事ができます⏎⏎#f9ff『デルトラカードこうかん』をおこなうと⏎#f9ffおたがいのカードがミックスされます⏎#f9ff友だちときょうりょくして⏎#f9ffすべてのデルトラカードをゲットしよう!	
-0	#f9ffデルトラカード⏎#f9ff『#f6ff』をゲット!	#f9ff Deltora Card ⏎ Get #f9ff “#f6ff”!	#f9ffデルトラカード⏎#f9ff『#f6ff』をゲット!	
-0	#f9ff影の憲兵	#f9ff Shadow Military Police	#f9ff影の憲兵	
-0	#f9ffウェン	#f9ffwen	#f9ffウェン	
-0	#f9ffグリーンキャタピラ	#f9ff green caterpillar	#f9ffグリーンキャタピラ	
-0	#f9ffパープルキャタピラ	#f9ff purple caterpillar	#f9ffパープルキャタピラ	
-0	#f9ffハチ	#f9ff Hachi	#f9ffハチ	
-0	#f9ffくも	#f9ff spider	#f9ffくも	
+1	#f9ff手にいれたデルトラカードは⏎#f9ffメニューの『カード』でみる事ができます⏎⏎#f9ff『デルトラカードこうかん』をおこなうと⏎#f9ffおたがいのカードがミックスされます⏎#f9ff友だちときょうりょくして⏎#f9ffすべてのデルトラカードをゲットしよう!	"#f9ffYou can see the Deltora cards you have obtained in ⏎#f9ff's ""Cards"" menu. Get excited and get all the #f9ff Deltora cards!"	"#f9ffYou can check your⏎
+#f9ffcard collection from⏎
+#f9ffthe『Cards』menu⏎
+⏎
+#f9ffTrade with your⏎
+#f9fffriends and try to⏎
+#f9ffcollect them all!⏎"	
+0	#f9ffデルトラカード⏎#f9ff『#f6ff』をゲット!	#f9ff Deltora Card ⏎ Get #f9ff “#f6ff”!	"#f9ffGot a card:⏎
+#f9ff『#f6ff』!"	
+0	#f9ff影の憲兵	#f9ff Shadow Military Police	#f9ffGrey Guard	
+0	#f9ffウェン	#f9ffwen	#f9ffWenn	
+0	#f9ffグリーンキャタピラ	#f9ff green caterpillar	#f9ffGreen Caterpillar	
+0	#f9ffパープルキャタピラ	#f9ff purple caterpillar	#f9ffPurple Caterpillar	
+0	#f9ffハチ	#f9ff Hachi	#f9ffBee	
+0	#f9ffくも	#f9ff spider	#f9ffSpider	
 0	#f9ff影のたて憲兵	#f9ffKage no Tate Military Police	#f9ff影のたて憲兵	
 0	#f9ff影のパワー憲兵	#f9ff shadow power military police	#f9ff影のパワー憲兵	
-0	#f9ff影のエリート憲兵	#f9ff Shadow Elite Military Police	#f9ff影のエリート憲兵	
-0	#f9ffワニ	#f9ffcrocodile	#f9ffワニ	
-0	#f9ff水ヘビ	#f9ff water snake	#f9ff水ヘビ	
-0	#f9ffきゅうけつ虫	#f9ffkyuketsumushi	#f9ffきゅうけつ虫	
-0	#f9ffフロッグフィッシュ	#f9fffrogfish	#f9ffフロッグフィッシュ	
-0	#f9ffネズミ	#f9ff mouse	#f9ffネズミ	
-0	#f9ffオオカミもどき	#f9ff wolf imitation	#f9ffオオカミもどき	
-0	#f9ff大さそり	#f9ff great scorpion	#f9ff大さそり	
-0	#f9ffサンドキャタピラ	#f9ff sand caterpillar	#f9ffサンドキャタピラ	
-0	#f9ffタランチュラ	#f9fftarantula	#f9ffタランチュラ	
-0	#f9ffウスバカゲロウ	#f9ff Usbaka Gero	#f9ffウスバカゲロウ	
-0	#f9ff赤いはね虫	#f9ff red fly bug	#f9ff赤いはね虫	
-0	#f9ff青じた赤トカゲ	#f9ffBlue red lizard	#f9ff青じた赤トカゲ	
-0	#f9ffパイソン	#f9ff python	#f9ffパイソン	
-0	#f9ffくまんばち	#f9ffKumambachi	#f9ffくまんばち	
+0	#f9ff影のエリート憲兵	#f9ff Shadow Elite Military Police	#f9ffElite Grey Guard	
+0	#f9ffワニ	#f9ffcrocodile	#f9ffCrocodile	
+0	#f9ff水ヘビ	#f9ff water snake	#f9ffWater Snake	
+0	#f9ffきゅうけつ虫	#f9ffkyuketsumushi	#f9ff??? Bug	
+0	#f9ffフロッグフィッシュ	#f9fffrogfish	#f9ffFrogfish	
+0	#f9ffネズミ	#f9ff mouse	#f9ffRat	
+0	#f9ffオオカミもどき	#f9ff wolf imitation	#f9ffWolflike	
+0	#f9ff大さそり	#f9ff great scorpion	#f9ffGiant Scorpion	
+0	#f9ffサンドキャタピラ	#f9ff sand caterpillar	#f9ffSand Caterpillar	
+0	#f9ffタランチュラ	#f9fftarantula	#f9ffTarantula	
+0	#f9ffウスバカゲロウ	#f9ff Usbaka Gero	#f9ffAntlion	
+0	#f9ff赤いはね虫	#f9ff red fly bug	#f9ffRed Fly	
+0	#f9ff青じた赤トカゲ	#f9ffBlue red lizard	#f9ffSkink	
+0	#f9ffパイソン	#f9ff python	#f9ffPython	
+0	#f9ffくまんばち	#f9ffKumambachi	#f9ffBumblebee	
 0	#f9ff山ぞく	#f9ff mountain view	#f9ff山ぞく	
 0	#f9ffグノメ族	#f9ff Gnome tribe	#f9ffグノメ族	
-0	#f9ffデススコーピオン	#f9ff death scorpion	#f9ffデススコーピオン	
-0	#f9ffハエ	#f9fffly	#f9ffハエ	
-0	#f9ffトカゲ	#f9ff lizard	#f9ffトカゲ	
-0	#f9ffロックダイル	#f9ff Rockdile	#f9ffロックダイル	
-0	#f9ffワーム	#f9ff worm	#f9ffワーム	
-0	#f9ffキネズミ	#f9ff Kinezu	#f9ffキネズミ	
+0	#f9ffデススコーピオン	#f9ff death scorpion	#f9ffDeath Scorpion	
+0	#f9ffハエ	#f9fffly	#f9ffFly	
+0	#f9ffトカゲ	#f9ff lizard	#f9ffLizard	
+0	#f9ffロックダイル	#f9ff Rockdile	#f9ffRockodile	
+0	#f9ffワーム	#f9ff worm	#f9ffWorm	
+0	#f9ffキネズミ	#f9ff Kinezu	#f9ffSquirrel	
 0	#f9ffきゅうけつどく虫	#f9ff	#f9ffきゅうけつどく虫	
 0	#f9ff川とびバチ	#f9ff River Jumping Bee	#f9ff川とびバチ	
 0	#f9ffリバーフィッシュ	#f9ff riverfish	#f9ffリバーフィッシュ	
-0	#f9ffとうぞく	#f9fftouzoku	#f9ffとうぞく	
-0	#f9ffオル	#f9ffol	#f9ffオル	
-0	#f9ffマリーとアイダ	#f9ff Marie and Ida	#f9ffマリーとアイダ	
+0	#f9ffとうぞく	#f9fftouzoku	#f9ffThief	
+0	#f9ffオル	#f9ffol	#f9ffOl	
+0	#f9ffマリーとアイダ	#f9ff Marie and Ida	#f9ffMarie & Ida	
 0	#f9ffピンクドレスの女	#f9ff woman in pink dress	#f9ffピンクドレスの女	
-0	#f9ffヤギ	#f9ff goat	#f9ffヤギ	
+0	#f9ffヤギ	#f9ff goat	#f9ffGoat	
 0	#f9ffぬまもうどくヘビ	#f9ff Numa Mood Snake	#f9ffぬまもうどくヘビ	
-0	#f9ff山あらしオオカミ	#f9ff mountain storm wolf	#f9ff山あらしオオカミ	
-0	#f9ffグリーンワーム	#f9ff green worm	#f9ffグリーンワーム	
-0	#f9ff谷タランチュラ	#f9ff valley tarantula	#f9ff谷タランチュラ	
-0	#f9ffおばけキノコ	#f9ff ghost mushroom	#f9ffおばけキノコ	
-0	#f9ffガブリ草	#f9ffGabrigusa	#f9ffガブリ草	
+0	#f9ff山あらしオオカミ	#f9ff mountain storm wolf	#f9ffDire Wolf	
+0	#f9ffグリーンワーム	#f9ff green worm	#f9ffGreen Worm	
+0	#f9ff谷タランチュラ	#f9ff valley tarantula	#f9ffValley Tarantula	
+0	#f9ffおばけキノコ	#f9ff ghost mushroom	#f9ffGhost Mushroom	
+0	#f9ffガブリ草	#f9ffGabrigusa	#f9ffGrabber	
 0	#f9ffダークモス	#f9ff dark moss	#f9ffダークモス	
-0	#f9ffウェンバー	#f9ffwember	#f9ffウェンバー	
-0	#f9ffゴール	#f9ff goal	#f9ffゴール	
-0	#f9ffソルディーン	#f9ffSoldeen	#f9ffソルディーン	
-0	#f9ffだいじゃリア	#f9ffdaijaria	#f9ffだいじゃリア	
+0	#f9ffウェンバー	#f9ffwember	#f9ffWennbar	
+0	#f9ffゴール	#f9ff goal	#f9ffGorl	
+0	#f9ffソルディーン	#f9ffSoldeen	#f9ffSoldeen	
+0	#f9ffだいじゃリア	#f9ffdaijaria	#f9ffReeah	
 0	#f9ffさきゅうのかいぶつ	#f9ffSakyuu no Kaibutsu	#f9ffさきゅうのかいぶつ	
-0	#f9ffブラール	#f9ffbrar	#f9ffブラール	
-0	#f9ffゲリック	#f9ffgerik	#f9ffゲリック	
-0	#f9ffグルー	#f9ff glue	#f9ffグルー	
-0	#f9ffテーガン	#f9ff tegan	#f9ffテーガン	
-0	#f9ff番人とかいぶつたち	#f9ffkeeper and others	#f9ff番人とかいぶつたち	
-0	#f9ffイカボッド	#f9ff Ichabod	#f9ffイカボッド	
-0	#f9ffファロー	#f9ffFarrow	#f9ffファロー	
-0	#f9ffマナス	#f9ffManas	#f9ffマナス	
-0	#f9ffララド族	#f9ff Larado tribe	#f9ffララド族	
-0	#f9ffジニ&ジッド	#f9ff Ginny&Jid	#f9ffジニ&ジッド	
+0	#f9ffブラール	#f9ffbrar	#f9ffVraal	
+0	#f9ffゲリック	#f9ffgerik	#f9ffGellick	
+0	#f9ffグルー	#f9ff glue	#f9ffGlus	
+0	#f9ffテーガン	#f9ff tegan	#f9ffThaegan	
+0	#f9ff番人とかいぶつたち	#f9ffkeeper and others	#f9ffGuardian	
+0	#f9ffイカボッド	#f9ff Ichabod	#f9ffIchabod	
+0	#f9ffファロー	#f9ffFarrow	#f9ffFallow	
+0	#f9ffマナス	#f9ffManas	#f9ffManus	
+0	#f9ffララド族	#f9ff Larado tribe	#f9ffRalid Tribe	
+0	#f9ffジニ&ジッド	#f9ff Ginny&Jid	#f9ffJin & Jod	
 0	#f9ffネズヌク	#f9ff Nezunuku	#f9ffネズヌク	
-0	#f9ffティラ	#f9ff Tira	#f9ffティラ	
+0	#f9ffティラ	#f9ff Tira	#f9ffTira	
 0	#f9ffチュルナイの人々	#f9ffChurnai people	#f9ffチュルナイの人々	
 0	#f9ffリンゴえんのろうば	#f9ffRingoen no Roba	#f9ffリンゴえんのろうば	
-0	#f9ffマザーブライトリー	#f9ff mother brightly	#f9ffマザーブライトリー	
-0	#f9ffジョーカー	#f9ff joker	#f9ffジョーカー	
-0	#f9ffフェルディナンド	#f9ffferdinand	#f9ffフェルディナンド	
-0	#f9ffプリン	#f9ff pudding	#f9ffプリン	
-0	#f9ffキン	#f9ffkin	#f9ffキン	
-0	#f9ffグラ・ソン	#f9ff Gura Son	#f9ffグラ・ソン	
-0	#f9ffファ・グリン	#f9ff Fa Grin	#f9ffファ・グリン	
-0	#f9ffデイン	#f9ff Dane	#f9ffデイン	
+0	#f9ffマザーブライトリー	#f9ff mother brightly	#f9ffMother Brightly	
+0	#f9ffジョーカー	#f9ff joker	#f9ffJinks	
+0	#f9ffフェルディナンド	#f9ffferdinand	#f9ffFerdinand	
+0	#f9ffプリン	#f9ff pudding	#f9ffPrin	
+0	#f9ffキン	#f9ffkin	#f9ffKin	
+0	#f9ffグラ・ソン	#f9ff Gura Son	#f9ffGla-Thon	
+0	#f9ffファ・グリン	#f9ff Fa Grin	#f9ffFa-Glin	
+0	#f9ffデイン	#f9ff Dane	#f9ffDain	
 0	#f9ffルーカス	#f9fflukas	#f9ffルーカス	
-0	#f9ff船長とポリパン	#f9ff captain and polypan	#f9ff船長とポリパン	
+0	#f9ff船長とポリパン	#f9ff captain and polypan	#f9ffCaptain & Chett	
 0	#f9ffむらさきマントのこ	#f9ffpurple cloak saw	#f9ffむらさきマントのこ	
-0	#f9ffグロック	#f9ff glock	#f9ffグロック	
-0	#f9ffゼアン	#f9ff Zean	#f9ffゼアン	
-0	#f9ffトーラ族の人々	#f9ffThora people	#f9ffトーラ族の人々	
-0	#f9ffジャード	#f9ff jard	#f9ffジャード	
-0	#f9ffアンナ	#f9ffanna	#f9ffアンナ	
-0	#f9ffトム	#f9fftom	#f9ffトム	
-0	#f9ffリーフとなかまたち	#f9ffleaf and friends	#f9ffリーフとなかまたち	
+0	#f9ffグロック	#f9ff glock	#f9ffGlock	
+0	#f9ffゼアン	#f9ff Zean	#f9ffZeean	
+0	#f9ffトーラ族の人々	#f9ffThora people	#f9ffTorans	
+0	#f9ffジャード	#f9ff jard	#f9ffJarred	
+0	#f9ffアンナ	#f9ffanna	#f9ffAna	
+0	#f9ffトム	#f9fftom	#f9ffTom	
+0	#f9ffリーフとなかまたち	#f9ffleaf and friends	#f9ffLief & Friends	
 0	#f9ff火ぶくれマン	#f9ff blister man	#f9ff火ぶくれマン	
 0	#f9ffジンジャークッキー	#f9ff ginger cookie	#f9ffジンジャークッキー	
 0	#f9ffタートルキャノン	#f9ff turtle cannon	#f9ffタートルキャノン	
 0	#f9ffヘビーキャノン	#f9ff heavy cannon	#f9ffヘビーキャノン	
 0	#f9ffフレイムホース	#f9ff Flame Horse	#f9ffフレイムホース	
-0	#f9ffナイトメア	#f9ffnightmare	#f9ffナイトメア	
+0	#f9ffナイトメア	#f9ffnightmare	#f9ffNightmare	
 0	#f9ff影の馬憲兵	#f9ff Shadow horse military police	#f9ff影の馬憲兵	
 0	#f9ff影の合体憲兵	#f9ff Shadow Combined Military Police	#f9ff影の合体憲兵	
 0	#f9ffローパー	#f9ff roper	#f9ffローパー	
@@ -332,18 +339,18 @@ to find out"
 0	#f9ffダークドラゴン	#f9ff dark dragon	#f9ffダークドラゴン	
 0	#f9ffグリーンドラゴン	#f9ff green dragon	#f9ffグリーンドラゴン	
 0	#f9ffブルードラゴン	#f9ff blue dragon	#f9ffブルードラゴン	
-0	#f9ffミミック	#f9ff mimic	#f9ffミミック	
+0	#f9ffミミック	#f9ff mimic	#f9ffMimic	
 0	#f9ffジェリー	#f9ffjerry	#f9ffジェリー	
 0	#f9ffグランドサーペント	#f9ff Grand Serpent	#f9ffグランドサーペント	
 0	#f9ffジャック	#f9ffjack	#f9ffジャック	
 0	#f9ffモキート	#f9ff moquito	#f9ffモキート	
 0	#f9ffミキータ	#f9ffmikita	#f9ffミキータ	
-0	#f9ff若き日のジャード	#f9ff Young Jard	#f9ff若き日のジャード	
-0	#f9ff若き日のエンドン	#f9ff young Endon	#f9ff若き日のエンドン	
-0	#f9ff若き日のアンナ	#f9ff young Anna	#f9ff若き日のアンナ	
-0	#f9ff若き日のシャーン	#f9ff young Shaan	#f9ff若き日のシャーン	
-0	#f9ffクリアン	#f9ff clear	#f9ffクリアン	
-0	#f9ffプランディン	#f9ffprandin	#f9ffプランディン	
+0	#f9ff若き日のジャード	#f9ff Young Jard	#f9ffYoung Jarred	
+0	#f9ff若き日のエンドン	#f9ff young Endon	#f9ffYoung Endon	
+0	#f9ff若き日のアンナ	#f9ff young Anna	#f9ffYoung Anna	
+0	#f9ff若き日のシャーン	#f9ff young Shaan	#f9ffYoung Sharn	
+0	#f9ffクリアン	#f9ff clear	#f9ffKrian	
+0	#f9ffプランディン	#f9ffprandin	#f9ffPrandine	
 0				
 1				
 0	Ver．#0f00#f7ff#f6ff	See．#0f00#f7ff#f6ff	Ver．#0f00#f7ff#f6ff	
