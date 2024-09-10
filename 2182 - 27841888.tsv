@@ -31,9 +31,9 @@ of them too"
 the trees!"	
 0a030208	(真下で休んでいやがる……)	(He is reluctant to rest right below...)	"They stopped to rest⏎
 right below us"	
-1203030c	(もう!)	(already!)	"(Ugh! Now we’re
+1203030c	(もう!)	(already!)	"(Ugh! Now we’re⏎
 stuck here!)"	
-5030104	(ねえ、見て。あれは だれ?)	"(Hey, look. Who is that?)"	"(Hey、look! Who’s
+5030104	(ねえ、見て。あれは だれ?)	"(Hey, look. Who is that?)"	"(Hey、look! Who’s⏎
 that?)"	
 9030208	(ララド族だ)⏸(むかしのデルトラ王家が⏎大切にしていた大工の種族)⏸(デル城をつくったのはララド族だ)	(The Larado tribe)⏸(A race of carpenters cherished by the ancient Deltora royal family)⏸(The Larado tribe built Del Castle)	"(They have captured⏎
 a Ralad…)⏸
@@ -45,7 +45,7 @@ queens of Deltora’s)⏸
 (It was the Ralads⏎
 who built the)⏸
 (palace of Del)"	
-2030104	(助けよう)	(Let's help)	(We should help him)	
+2030104	(助けよう)	(Let's help)	(We should help him!)	
 1103030c	(そうね!)	(That's right!)	(Yeah!)	
 9030208	(いや……めんどうはさけたい)	(No...I want to avoid the trouble)	"(Be still… there⏎
 are too many guards)"	
@@ -64,30 +64,48 @@ a blind eye?)"
 2810104	またきた	I'm here again	More!?	
 0a810208	キリがない、にげろ!	"There's no limit, Nigero!"	"They keep coming!⏎
 Run away!"	
-0b030208	ここまで来れば安全だろう	It's safe to come this far	ここまで来れば安全だろう	
-1810104	あのララド族、どうなったかな	What happened to that Larado tribe?	あのララド族、どうなったかな	
-9030208	気にはなるが……⏎オレたちが できる事はやった	"I'm worried, but...⏎We did what we could."	気にはなるが……⏎オレたちが できる事はやった	
-3810104	(そうだろうか……)	(I wonder...)	(そうだろうか……)	
-1103030c	もどって様子を見てくる?	Will you come back and check on me?	もどって様子を見てくる?	
-0a810208	だめだ!⏸もう、影の憲兵団が大王に⏎知らせたかもしれない⏸それに このあたりは⏎まじょテーガンが支配しているはずだ	"No! ⏸The Shadow Military Police Corps may have already ⏎informed the Great King⏎And besides, ⏎Tegan should be in control of this area."	だめだ!⏸もう、影の憲兵団が大王に⏎知らせたかもしれない⏸それに このあたりは⏎まじょテーガンが支配しているはずだ	
-1103030c	それもそうね……	That's true too...	それもそうね……	
-5810104	(ジャスミンまで!?)	(Even Jasmine!?)	(ジャスミンまで!?)	
-1303030c	あのまじょにだけは⏎見つかりたくないわ	I don't want to be found just like that.	あのまじょにだけは⏎見つかりたくないわ	
-0a810208	そういう事だ⏎さあ、行くぞ!	That's it⏎Let's go!	そういう事だ⏎さあ、行くぞ!	
-2810104	ちょっと待ってよ!	Wait a minute!	ちょっと待ってよ!	
-0d030208	うわ!	Wow!	うわ!	
-0a030208	来るな!⏎ここは底なしぬまだ!	Don't come!⏎This place is bottomless!	来るな!⏎ここは底なしぬまだ!	
-0a030208	オレの事は ほうっておけ!	Leave me alone!	オレの事は ほうっておけ!	
-2810104	なに言ってるんだ!	What are you talking about?	なに言ってるんだ!	
-1703030c	あ!	a!	あ!	
-2810104	ダメだ!	No!	ダメだ!	
-0b030208	リーフ、にげ……	"Leaf, nige..."	リーフ、にげ……	
-1203030c	クリー! フィリ!	Cree! Fili!	クリー! フィリ!	
-3810104	ああ……父さん! 母さん!	Ah... Dad! Mom!	ああ……父さん! 母さん!	
-3810104	(……ここはどこだ?)	(...Where is this?)	(……ここはどこだ?)	
-0b810208	すまん……⏎オレが もっと気をつけていれば……	Sorry...⏎If only I had been more careful...	すまん……⏎オレが もっと気をつけていれば……	
-1103030c	この家の人が助けて⏎くれたのかしら?	Did someone in this household help you?	この家の人が助けて⏎くれたのかしら?	
-280109a4	オカソロラシア!	Okasororasia!	オカソロラシア!	
+0b030208	ここまで来れば安全だろう	It's safe to come this far	"I think we finally⏎
+lost them"	
+1810104	あのララド族、どうなったかな	What happened to that Larado tribe?	"What happened to⏎
+that Ralad?"	
+9030208	気にはなるが……⏎オレたちが できる事はやった	"I'm worried, but...⏎We did what we could."	"We did all we could⏎
+to help him"	
+3810104	(そうだろうか……)	(I wonder...)	(I wonder…)	
+1103030c	もどって様子を見てくる?	Will you come back and check on me?	"Should we go back⏎
+and look for him?"	
+0a810208	だめだ!⏸もう、影の憲兵団が大王に⏎知らせたかもしれない⏸それに このあたりは⏎まじょテーガンが支配しているはずだ	"No! ⏸The Shadow Military Police Corps may have already ⏎informed the Great King⏎And besides, ⏎Tegan should be in control of this area."	"No!⏸
+The Grey Guards may⏎
+have alerted the⏸
+Shadow Lord by now!⏸
+And remember that⏎
+this is the realm⏸
+of the sorceress⏎
+Thaegan!"	
+1103030c	それもそうね……	That's true too...	"Ah… yes we should⏎
+be careful"	
+5810104	(ジャスミンまで!?)	(Even Jasmine!?)	"(Even Jasmine is⏎
+scared of her!?)"	
+1303030c	あのまじょにだけは⏎見つかりたくないわ	I don't want to be found just like that.	"I… I don’t want that⏎
+witch to find me"	
+0a810208	そういう事だ⏎さあ、行くぞ!	That's it⏎Let's go!	"Alright! Let’s keep⏎
+moving!"	
+2810104	ちょっと待ってよ!	Wait a minute!	Hey! Hold on!	
+0d030208	うわ!	Wow!	Gah!	
+0a030208	来るな!⏎ここは底なしぬまだ!	Don't come!⏎This place is bottomless!	"Stay back! This must⏎
+be quicksand!"	
+0a030208	オレの事は ほうっておけ!	Leave me alone!	Go on without me!	
+2810104	なに言ってるんだ!	What are you talking about?	Are you crazy!?	
+1703030c	あ!	a!	Ah!	
+2810104	ダメだ!	No!	No!	
+0b030208	リーフ、にげ……	"Leaf, nige..."	Lief、I’m sorry…	Are we going to make Barda apologizing for dooming Lief into a running joke? I certainly hope so.
+1203030c	クリー! フィリ!	Cree! Fili!	Kree! Filli!	
+3810104	ああ……父さん! 母さん!	Ah... Dad! Mom!	No… Father! Mother!	
+3810104	(……ここはどこだ?)	(...Where is this?)	(…Where are we?)	
+0b810208	すまん……⏎オレが もっと気をつけていれば……	Sorry...⏎If only I had been more careful...	"Lief… I should have⏎
+been more careful…"	
+1103030c	この家の人が助けて⏎くれたのかしら?	Did someone in this household help you?	"Did the people who⏎
+live here help us?"	
+280109a4	オカソロラシア!	Okasororasia!	オカソロラシア!	"In the English books, these characters speak in reversed text (siht ekil). I’m not quite sure how it’s handled in Japanese"
 280106a8	カナメキロワ!	Kaname Kilowa!	カナメキロワ!	
 1810104	なんて言ってるんだろう	What are you saying?	なんて言ってるんだろう	
 9810208	さあ……聞いた事のない⏎言葉だな⏸しかし これは オレたちのために⏎用意してくれたようだぞ	"Now...that's a word I've never heard before, but it looks like it was prepared for us."	さあ……聞いた事のない⏎言葉だな⏸しかし これは オレたちのために⏎用意してくれたようだぞ	
