@@ -12,8 +12,8 @@ cursed it"
 there and find the⏎
 next gem to restore⏎
 the Belt of Deltora!"	
-0b810208	このあたりでちょっと休むか	Shall we take a little break around here?	"Shall we take a⏎
-short break here?"	
+0b810208	このあたりでちょっと休むか	Shall we take a little break around here?	"Let’s take a short⏎
+break here"	
 2810104	(もう……おじさんはすぐこれだ)	(Already...my uncle will be here soon)	(Already!? Come on!)	
 0a030208	何か言ったか?	Did you say something?	"Hm? Did you say⏎
 something?"	
@@ -22,15 +22,15 @@ keep moving…"
 1203030c	シーッ!	Shhh!	Shh!	
 3810104	(なんだよ、もう……)	"(What, already...)"	(Now what…?)	
 1203030c	てきが近づいてくる!⏎木たちが さわいでいるでしょ?	"The weather is approaching!⏎The trees are happy, aren't they?"	"Don’t you hear the⏎
-trees rustling?⏸
+trees?⏸
 Enemies approach!"	
-0b810208	……わからん	...I don't know	I don’t hear them…	
+0b810208	……わからん	...I don't know	I hear… nothing	
 1303030c	てきは影の憲兵団。それもおおぜい	This is the shadow military police. That's a lot too	"Grey Guards。Lots⏎
 of them too"	
-1203030c	ほら、早く!⏎木の上へ!	Come on! ⏎Go up the tree!	"Come on! Get up in⏎
-the trees!"	
+1203030c	ほら、早く!⏎木の上へ!	Come on! ⏎Go up the tree!	"Come on! Up the⏎
+tree!"	
 0a030208	(真下で休んでいやがる……)	(He is reluctant to rest right below...)	"They stopped to rest⏎
-right below us"	
+right below us…"	
 1203030c	(もう!)	(already!)	"(Ugh! Now we’re⏎
 stuck here!)"	
 5030104	(ねえ、見て。あれは だれ?)	"(Hey, look. Who is that?)"	"(Hey、look! Who’s⏎
@@ -51,7 +51,9 @@ who built the)⏸
 are too many guards)"	
 1203030c	(つめたい おじさん)	(Uncle Tsumetai)	(How heartless…)	
 0a030208	(なんとでも言え。⏎オレたちの もくてきは……)	(Say whatever you like. ⏎Our efforts are...)	"(Say what you will。⏎
-Our quest is-)"	
+Our quest is too)⏸
+(important to risk⏎
+our lives here)"	
 3030104	(あの人、困っているよ)	(That person is in trouble)	(He’s in trouble)	
 1203030c	(見て見ぬふり?)	(Turn a blind eye?)	"(How can you turn⏎
 a blind eye?)"	
@@ -105,58 +107,127 @@ be quicksand!"
 been more careful…"	
 1103030c	この家の人が助けて⏎くれたのかしら?	Did someone in this household help you?	"Did the people who⏎
 live here help us?"	
-280109a4	オカソロラシア!	Okasororasia!	オカソロラシア!	"In the English books, these characters speak in reversed text (siht ekil). I’m not quite sure how it’s handled in Japanese"
-280106a8	カナメキロワ!	Kaname Kilowa!	カナメキロワ!	
-1810104	なんて言ってるんだろう	What are you saying?	なんて言ってるんだろう	
-9810208	さあ……聞いた事のない⏎言葉だな⏸しかし これは オレたちのために⏎用意してくれたようだぞ	"Now...that's a word I've never heard before, but it looks like it was prepared for us."	さあ……聞いた事のない⏎言葉だな⏸しかし これは オレたちのために⏎用意してくれたようだぞ	
-1810104	なんて しんせつな人たちなんだろう	What pitiful people!	なんて しんせつな人たちなんだろう	
-1381030c	(……いやな予感がする)	(...I have a bad feeling)	(……いやな予感がする)	
-9810208	ジャスミン、しつれいだぞ	"Jasmine, I'm so tired."	ジャスミン、しつれいだぞ	
-4810104	助けてくれた上に⏎こんなごちそうまで……⏸本当にありがとうございます	Thank you so much for helping me and for giving me such a feast...	助けてくれた上に⏎こんなごちそうまで……⏸本当にありがとうございます	
-9810208	さあ、ジャスミンも	"Come on, Jasmine too."	さあ、ジャスミンも	
-1181030c	あら、おいしい	"Oh, it's delicious"	あら、おいしい	
-1381030c	でも、やっぱりなんだか へん	But it's still kind of weird	でも、やっぱりなんだか へん	
-9810208	おまえってむすめは……	You are my daughter...	おまえってむすめは……	
-1281030c	森の生活できたえられた⏎わたしのカンをバカにしないで	Trained by life in the forest⏎Don't make fun of my abilities	森の生活できたえられた⏎わたしのカンをバカにしないで	
-1181030c	リーフ、何か⏎かわった事は?	"Leaf, has anything changed?"	リーフ、何か⏎かわった事は?	
-3810104	べつに……	Except...	べつに……	
-1281030c	ベルトは?	What about the belt?	ベルトは?	
-3810104	だいじょうぶ、ベルトもあるし⏎トパーズも無事に……	"It's okay, I have the belt and Topaz is safe..."	だいじょうぶ、ベルトもあるし⏎トパーズも無事に……	
-5810104	(こ、これは!?)	(T-this is it!?)	(こ、これは!?)	
-9810208	リーフ、どうした?	"Leaf, what's wrong?"	リーフ、どうした?	
-2810104	そうか!!	I see!!	そうか!!	
-501	トパーズは それを身につける者の⏎精神を強め やみから守る⏎⏎心の目をきよめ しんじつを見せる石	Topaz is a stone that strengthens the spirit and protects the wearer from darkness.It cleanses the eyes of the heart and shows one's true sense.	トパーズは それを身につける者の⏎精神を強め やみから守る⏎⏎心の目をきよめ しんじつを見せる石	
-2810104	ぼくたちが見ていたのは⏎まぼろしだったんだ!⏸トパーズが しんじつを⏎見せてくれたんだ!⏸ジャスミン、きみのカンは⏎正しかった!	"What we saw was an illusion! Topaz showed us the truth! Jasmine, you were right!"	ぼくたちが見ていたのは⏎まぼろしだったんだ!⏸トパーズが しんじつを⏎見せてくれたんだ!⏸ジャスミン、きみのカンは⏎正しかった!	
-0d810208	トパーズが何を見せただと?	What did Topaz show you?	トパーズが何を見せただと?	
-2810104	ここは いごこちのいい部屋⏎なんかじゃない⏸気味の悪い かいぶつのすみかだ	This is not a cozy room⏎This is the home of a creepy creature	ここは いごこちのいい部屋⏎なんかじゃない⏸気味の悪い かいぶつのすみかだ	
-0b810208	なんと……	What...	なんと……	
-1281030c	にげましょう!	Let's escape!	にげましょう!	
-2030104	待って! トパーズの力を!	Wait! The power of Topaz!	待って! トパーズの力を!	
-0a030208	どうすりゃいいんだ!	What should I do!	どうすりゃいいんだ!	
-0	『しんじつにむかってとびたて』	"""Flying towards the sky"""	『しんじつにむかってとびたて』	
-0	とび石⏎⏎近くの石をタッチすると⏎ジャンプするぞ⏎『しんじつにむかってとびたて』	Jumping stone⏎⏎Touch a nearby stone⏎⏎It will jump⏎``Jumping towards the ground''	とび石⏎⏎近くの石をタッチすると⏎ジャンプするぞ⏎『しんじつにむかってとびたて』	
-2801099c	くっそう! にげる気だ!	Damn it! I'm going to run away!	くっそう! にげる気だ!	
-280106a0	せっかく生肉が食えると⏎思ったのに	I thought I could eat raw meat.	せっかく生肉が食えると⏎思ったのに	
-2801099c	まだ おそくはないさ。⏎つかまえて食っちまおう!	It's not too late yet. ⏎Catch it and eat it!	まだ おそくはないさ。⏎つかまえて食っちまおう!	
-9810208	なんだ、あのかいぶつは……	What is that creature...	なんだ、あのかいぶつは……	
-2810104	あれが しんせつなふたりの正体!⏸あいつら、ぼくたちを⏎食べる気だったんだ!	That's the true identity of these two sinister people!⏸They wanted to ⏎eat us!	あれが しんせつなふたりの正体!⏸あいつら、ぼくたちを⏎食べる気だったんだ!	
-1302030c	うっ!	Ugh!	うっ!	
-2810104	ジャスミン!!	jasmine!!	ジャスミン!!	
-280106a0	ヒャッヒャッヒャッヒャッ!	Heyyyyyyyyyy!	ヒャッヒャッヒャッヒャッ!	
-0a810208	来るぞ!	It's coming!	来るぞ!	
-2810104	あいつらは まかせて!⏎バルダはジャスミンを!	Leave them alone! ⏎ Barda takes Jasmine!	あいつらは まかせて!⏎バルダはジャスミンを!	
-2801099c	なんってこった!	Oh my god!	なんってこった!	
-280106a0	もうすこしで肉が食えたのに!	I could have eaten some more meat!	もうすこしで肉が食えたのに!	
-1810104	いいぞ、クリー!	"Great, Cree!"	いいぞ、クリー!	
-0a030208	くっ、ぬまのドロが重くてかなわん	"Damn, the mud from the numa is so heavy I can't beat it."	くっ、ぬまのドロが重くてかなわん	
-5030104	きみは!?	you are!?	きみは!?	
-1381030c	ふぅ……あぶなかった	Phew...that was dangerous.	ふぅ……あぶなかった	
-4810104	ありがとう、助かったよ。⏎ねえ、きみの名前は?	"Thank you, that was helpful. ⏎Hey, what's your name?"	ありがとう、助かったよ。⏎ねえ、きみの名前は?	
-0b810208	リーフ……⏎ララド族はしゃべれないんだ	Leaf...⏎The Larado tribe can't speak.	リーフ……⏎ララド族はしゃべれないんだ	
-500	ぼくは知りませんでした。⏎ララド族は まじょテーガンに声を⏎うばわれてしまったんですね。	I didn't know. ⏎The Larado tribe lost their voice ⏎to their girlfriend Majyo Tegan.	ぼくは知りませんでした。⏎ララド族は まじょテーガンに声を⏎うばわれてしまったんですね。	
-500	でも、そのララド族は地面に⏎文字を書いて教えてくれました。⏎彼の名前はマナス。	But the Larado tribe taught me by writing ⏎ letters on the ground. ⏎His name is Manas.	でも、そのララド族は地面に⏎文字を書いて教えてくれました。⏎彼の名前はマナス。	
-500	マナスは5年もの長いあいだ⏎まじょテーガンの手下⏎『ジニとジッド』に ドレイとして⏎こきつかわれていたそうです。⏎⏎やっとの思いで にげ出したのに⏎今度は 影の憲兵団に⏎つかまってしまったそうで……	"It is said that Manas was ⏎Major Tegan's underling ⏎as a Drey in ``Jini and Gide'' and was being harassed by him for 5 long years. ⏎⏎Even though he finally managed to escape, ⏎this time he was caught by the shadow military police..."	マナスは5年もの長いあいだ⏎まじょテーガンの手下⏎『ジニとジッド』に ドレイとして⏎こきつかわれていたそうです。⏎⏎やっとの思いで にげ出したのに⏎今度は 影の憲兵団に⏎つかまってしまったそうで……	
-500	だから、助けたぼくたちに 大げさなくらい⏎おれいをしてくれました。⏎⏎そして、ララド族のこきょう ララディンに⏎しょうたいしてくれたんです。	"That's why he took great care of those of us who helped him. ⏎⏎And he gave a gift to Laradin, the Kokyo of the Larado tribe."	だから、助けたぼくたちに 大げさなくらい⏎おれいをしてくれました。⏎⏎そして、ララド族のこきょう ララディンに⏎しょうたいしてくれたんです。	
+280109a4	オカソロラシア!	Okasororasia!	Taem hserf! 	"In the English books, these characters speak in reversed text (siht ekil). I’m not quite sure how it’s handled in Japanese.
+Their text is written in katakana, which makes sense since that’s used for transcribing other languages. But reversing the katakana characters just produces more gibberish.
+For now, I’m just going to pick some of there reversed lines from the book. “Fresh meat!” if you’re lazy."
+280106a8	カナメキロワ!	Kaname Kilowa!	Yrgnuh era ew!	“We are hungry!”
+1810104	なんて言ってるんだろう	What are you saying?	"What are they⏎
+saying?"	
+9810208	さあ……聞いた事のない⏎言葉だな⏸しかし これは オレたちのために⏎用意してくれたようだぞ	"Now...that's a word I've never heard before, but it looks like it was prepared for us."	"Uh… I have no idea!⏸
+But look at all this⏎
+meal they made us!"	
+1810104	なんて しんせつな人たちなんだろう	What pitiful people!	"Wow! They are very⏎
+kind people!"	
+1381030c	(……いやな予感がする)	(...I have a bad feeling)	"(Something seems…⏎
+wrong here…)"	
+9810208	ジャスミン、しつれいだぞ	"Jasmine, I'm so tired."	"You worry too much、⏎
+Jasmine"	
+4810104	助けてくれた上に⏎こんなごちそうまで……⏸本当にありがとうございます	Thank you so much for helping me and for giving me such a feast...	"Thank you so much⏎
+for saving us! And⏸
+for giving us this⏎
+incredible feast!"	
+9810208	さあ、ジャスミンも	"Come on, Jasmine too."	"Come and join us、⏎
+Jasmine"	
+1181030c	あら、おいしい	"Oh, it's delicious"	Mmmm… it’s amazing!	
+1381030c	でも、やっぱりなんだか へん	But it's still kind of weird	"But something still⏎
+seems off…"	
+9810208	おまえってむすめは……	You are my daughter...	"Such a scared little⏎
+girl…"	
+1281030c	森の生活できたえられた⏎わたしのカンをバカにしないで	Trained by life in the forest⏎Don't make fun of my abilities	"Hey! I lived in the⏎
+wild all my life!⏸
+Don’t question my⏎
+survival skills!"	
+1181030c	リーフ、何か⏎かわった事は?	"Leaf, has anything changed?"	"Lief、doesn’t some-⏎
+thing seem off here?"	
+3810104	べつに……	Except...	Uh… not really…	
+1281030c	ベルトは?	What about the belt?	"What about the belt?⏎
+Is it still safe?"	
+3810104	だいじょうぶ、ベルトもあるし⏎トパーズも無事に……	"It's okay, I have the belt and Topaz is safe..."	"Yeah… I’m still⏎
+wearing the belt、⏸
+and the topaz is-"	
+5810104	(こ、これは!?)	(T-this is it!?)	(W-what!?)	
+9810208	リーフ、どうした?	"Leaf, what's wrong?"	Lief? What’s wrong?	
+2810104	そうか!!	I see!!	Of course!	
+501	トパーズは それを身につける者の⏎精神を強め やみから守る⏎⏎心の目をきよめ しんじつを見せる石	Topaz is a stone that strengthens the spirit and protects the wearer from darkness.It cleanses the eyes of the heart and shows one's true sense.	"The topaz has the⏎
+power to open doors⏎
+to the spirit world.⏎
+It strengthens and⏎
+clears the mind…"	
+2810104	ぼくたちが見ていたのは⏎まぼろしだったんだ!⏸トパーズが しんじつを⏎見せてくれたんだ!⏸ジャスミン、きみのカンは⏎正しかった!	"What we saw was an illusion! Topaz showed us the truth! Jasmine, you were right!"	"This was all an⏎
+illusion! The topaz⏸
+showed me the truth!⏎
+Jasmine was right!"	
+0d810208	トパーズが何を見せただと?	What did Topaz show you?	"And what did it⏎
+show you!?"	
+2810104	ここは いごこちのいい部屋⏎なんかじゃない⏸気味の悪い かいぶつのすみかだ	This is not a cozy room⏎This is the home of a creepy creature	"This cozy house…⏸
+It’s actually a⏎
+monster’s lair!"	
+0b810208	なんと……	What...	Dark magic…	
+1281030c	にげましょう!	Let's escape!	"Well then、let’s get⏎
+out of here!"	
+2030104	待って! トパーズの力を!	Wait! The power of Topaz!	"Wait! Let me use the⏎
+topaz again!"	
+0a030208	どうすりゃいいんだ!	What should I do!	Lead the way、Lief!	
+0	『しんじつにむかってとびたて』	"""Flying towards the sky"""	『Fly away!』	The puzzle here seems to be that the player has to jump on the panels that have pictures of flying animals in order to cross.
+0	とび石⏎⏎近くの石をタッチすると⏎ジャンプするぞ⏎『しんじつにむかってとびたて』	Jumping stone⏎⏎Touch a nearby stone⏎⏎It will jump⏎``Jumping towards the ground''	"Stepping Stones⏎
+⏎
+Tap a nearby stone⏎
+to jump to it! Pick⏎
+the right stones!⏎
+『Fly away!』"	
+2801099c	くっそう! にげる気だ!	Damn it! I'm going to run away!	"No! They’re getting⏎
+away!"	
+280106a0	せっかく生肉が食えると⏎思ったのに	I thought I could eat raw meat.	"But I’m so hungry⏎
+for some fresh meat!"	
+2801099c	まだ おそくはないさ。⏎つかまえて食っちまおう!	It's not too late yet. ⏎Catch it and eat it!	"It’s not too late!⏎
+Catch them!"	
+9810208	なんだ、あのかいぶつは……	What is that creature...	"What… what are those⏎
+horrible monsters?"	
+2810104	あれが しんせつなふたりの正体!⏸あいつら、ぼくたちを⏎食べる気だったんだ!	That's the true identity of these two sinister people!⏸They wanted to ⏎eat us!	"The nice people back⏎
+at the house! That’s⏸
+what they really⏎
+look like! They were⏸
+going to eat us!"	
+1302030c	うっ!	Ugh!	Ah!	
+2810104	ジャスミン!!	jasmine!!	Jasmine!	
+280106a0	ヒャッヒャッヒャッヒャッ!	Heyyyyyyyyyy!	Gyahahahaha!	
+0a810208	来るぞ!	It's coming!	Here they come!	
+2810104	あいつらは まかせて!⏎バルダはジャスミンを!	Leave them alone! ⏎ Barda takes Jasmine!	"Leave them to me!⏎
+Barda、save Jasmine!"	
+2801099c	なんってこった!	Oh my god!	What the-!	
+280106a0	もうすこしで肉が食えたのに!	I could have eaten some more meat!	Arg! I was so close!	
+1810104	いいぞ、クリー!	"Great, Cree!"	Great job、Kree!	
+0a030208	くっ、ぬまのドロが重くてかなわん	"Damn, the mud from the numa is so heavy I can't beat it."	"Urg… this mud is too⏎
+heavy… I can’t…"	
+5030104	きみは!?	you are!?	Huh? The Ralad!	
+1381030c	ふぅ……あぶなかった	Phew...that was dangerous.	Phew… that was close	
+4810104	ありがとう、助かったよ。⏎ねえ、きみの名前は?	"Thank you, that was helpful. ⏎Hey, what's your name?"	"Thanks for giving us⏎
+a hand!⏸
+Say、what’s your⏎
+name?"	
+0b810208	リーフ……⏎ララド族はしゃべれないんだ	Leaf...⏎The Larado tribe can't speak.	"Lief… the Ralads⏎
+cannot speak"	
+500	ぼくは知りませんでした。⏎ララド族は まじょテーガンに声を⏎うばわれてしまったんですね。	I didn't know. ⏎The Larado tribe lost their voice ⏎to their girlfriend Majyo Tegan.	"I had no idea!⏎
+The Ralads had their⏎
+voices stolen by the⏎
+sorceress Thaegan⏎"	
+500	でも、そのララド族は地面に⏎文字を書いて教えてくれました。⏎彼の名前はマナス。	But the Larado tribe taught me by writing ⏎ letters on the ground. ⏎His name is Manas.	"They communicate by⏎
+writing。Our new⏎
+friend wrote that⏎
+his name is Manus"	
+500	マナスは5年もの長いあいだ⏎まじょテーガンの手下⏎『ジニとジッド』に ドレイとして⏎こきつかわれていたそうです。⏎⏎やっとの思いで にげ出したのに⏎今度は 影の憲兵団に⏎つかまってしまったそうで……	"It is said that Manas was ⏎Major Tegan's underling ⏎as a Drey in ``Jini and Gide'' and was being harassed by him for 5 long years. ⏎⏎Even though he finally managed to escape, ⏎this time he was caught by the shadow military police..."	"For 5 long years he⏎
+was held captive by⏎
+Thaegan’s children、⏎
+Jin and Jod⏎
+⏎
+He finally escaped、⏎
+only to be captured⏎
+by the Grey Guards…⏎"	
+500	だから、助けたぼくたちに 大げさなくらい⏎おれいをしてくれました。⏎⏎そして、ララド族のこきょう ララディンに⏎しょうたいしてくれたんです。	"That's why he took great care of those of us who helped him. ⏎⏎And he gave a gift to Laradin, the Kokyo of the Larado tribe."	"He thanked us for⏎
+rescuing him and⏎
+offered to lead us⏎
+to Raladin、the home⏎
+of the Ralads"	
 1030104	ここが……ララディン?	This is... Laladin?	ここが……ララディン?	
 1103030c	だれも住んでいないの?	No one lives there?	だれも住んでいないの?	
 9030208	見ろ……あの家のとびらを	Look...at the door of that house.	見ろ……あの家のとびらを	
