@@ -205,15 +205,30 @@ the game card"	Unused?
 0	#f7ffカギがかかっている	#f7ff is locked	#f7ffカギがかかっている	
 0	『#f8ffカギ#fcff』を使った	Used “#f8ff key #fcff”	『#f8ffカギ#fcff』を使った	
 0	『#f7ffグランドファーム#fcff』に⏎行けるようになった!!	You can now go to “#f7ff Grand Farm #fcff”!!	『#f7ffグランドファーム#fcff』に⏎行けるようになった!!	
-0	ぼうけんの こころえ⏎⏎セーブアイコン:ぼうけんをきろくする⏎リーフたち:キャラクターをえらぶ⏎マドレット:ワールドマップへもどる	Brain's heart ⏎⏎Save icon: Sharpen the brain ⏎Leafs: Select a character ⏎Madlet: Return to world map	ぼうけんの こころえ⏎⏎セーブアイコン:ぼうけんをきろくする⏎リーフたち:キャラクターをえらぶ⏎マドレット:ワールドマップへもどる	
+0	ぼうけんの こころえ⏎⏎セーブアイコン:ぼうけんをきろくする⏎リーフたち:キャラクターをえらぶ⏎マドレット:ワールドマップへもどる	Brain's heart ⏎⏎Save icon: Sharpen the brain ⏎Leafs: Select a character ⏎Madlet: Return to world map	"Campsite⏎
+⏎
+Tap the paper to⏎
+save the game⏎
+Tap a character to⏎
+select them⏎
+Tap the muddlet to⏎
+go to the World Map⏎ "	
 0	ぼうけんの こころえ⏎⏎セーブアイコン:ぼうけんをきろくする⏎リーフたち:キャラクターをえらぶ	Brain's heart ⏎⏎Save icon: Sharpen the mind ⏎Leafs: Select character	"Campsite⏎
 ⏎
-Touch the paper⏎
-to save the game⏎
-Touch a character⏎
-to select them"	
-0	ぼうけんの こころえ⏎⏎リーフたち:キャラクターをえらぶ	Adventure Heart⏎⏎Leafs: Choose a character	ぼうけんの こころえ⏎⏎リーフたち:キャラクターをえらぶ	
-0	ぼうけんの こころえ⏎⏎リーフたち:キャラクターをえらぶ⏎マドレット:ワールドマップへもどる	Adventure Mind ⏎⏎Leafs: Select a character ⏎Madlet: Return to the world map	ぼうけんの こころえ⏎⏎リーフたち:キャラクターをえらぶ⏎マドレット:ワールドマップへもどる	
+Tap the paper to⏎
+save the game⏎
+Tap a character to⏎
+select them⏎"	
+0	ぼうけんの こころえ⏎⏎リーフたち:キャラクターをえらぶ	Adventure Heart⏎⏎Leafs: Choose a character	"Campsite⏎
+⏎
+Tap a character to⏎
+select them⏎"	
+0	ぼうけんの こころえ⏎⏎リーフたち:キャラクターをえらぶ⏎マドレット:ワールドマップへもどる	Adventure Mind ⏎⏎Leafs: Select a character ⏎Madlet: Return to the world map	"Campsite⏎
+⏎
+Tap a character to⏎
+select them⏎
+Tap the muddlet to⏎
+go to the World Map⏎ "	
 9810208	リーフ、あれを見ろ	"Leaf, look at that."	"Lief、look over⏎
 there"	
 1810104	TOM(トム)って書いてあるね⏎何のお店だろう	It says TOM (Tom) ⏎ I wonder what kind of shop it is.	"It says『TOM』…⏎
