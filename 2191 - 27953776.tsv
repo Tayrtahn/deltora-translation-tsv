@@ -3,11 +3,34 @@ Header	Japanese	Google Translate	Translated	Notes
 ⏎
 Simple clothing made⏎
 from cotton linen"		
-0	♥+3⏎⏎皮をなめして つくられているよろい。⏎かるくてじょうぶなのだ。	♥+3⏎⏎Armor made from tanned leather. ⏎It's lightweight and durable.	♥+3⏎⏎皮をなめして つくられているよろい。⏎かるくてじょうぶなのだ。		
-0	♥+4#0f00はちゅうるいに大ダメージ⏎⏎はちゅうるいからうろこをはがし⏎じょうぶな糸でぬいあわせたよろい。	♥+4#0f00 causes great damage to Chuurui⏎⏎Removes scales from Chuurui⏎Armor sewn together with durable thread.	♥+4#0f00はちゅうるいに大ダメージ⏎⏎はちゅうるいからうろこをはがし⏎じょうぶな糸でぬいあわせたよろい。		
-0	♥+5⏎⏎クサリをつないで つくったよろい。⏎服のように着られて うごきやすい。	♥+5⏎⏎Armor made by connecting chains. ⏎It's like clothes and he moves around easily.	♥+5⏎⏎クサリをつないで つくったよろい。⏎服のように着られて うごきやすい。		
-0	♥+6#0f00こうげき力アップ、足がおそくなる⏎⏎鉄で出来ている 憲兵がきているよろい。⏎おもいがひじょうに⏎ぼうぎょ力がたかいのだ。	"♥+6#0f00 Increases fighting power, slows down ⏎⏎Armor made of iron, used by military police. ⏎My mind is very strong.⏎I have a lot of strength."	♥+6#0f00こうげき力アップ、足がおそくなる⏎⏎鉄で出来ている 憲兵がきているよろい。⏎おもいがひじょうに⏎ぼうぎょ力がたかいのだ。		
-0	♥+7⏎⏎鉄をたたいて つくったよろい。⏎とてもがんじょうにできている。	♥+7⏎⏎Armor made by hammering iron. ⏎It's very sturdy.	♥+7⏎⏎鉄をたたいて つくったよろい。⏎とてもがんじょうにできている。		
+0	♥+3⏎⏎皮をなめして つくられているよろい。⏎かるくてじょうぶなのだ。	♥+3⏎⏎Armor made from tanned leather. ⏎It's lightweight and durable.	"♥+3⏎
+⏎
+Armor made from⏎
+tanned leather。It’s⏎
+lightweight and⏎
+durable"		
+0	♥+4#0f00はちゅうるいに大ダメージ⏎⏎はちゅうるいからうろこをはがし⏎じょうぶな糸でぬいあわせたよろい。	♥+4#0f00 causes great damage to Chuurui⏎⏎Removes scales from Chuurui⏎Armor sewn together with durable thread.	"♥+4#0f00+DMG to bugs⏎
+⏎
+Armor made from bug⏎
+scales sewn together⏎
+with sturdy thread"		
+0	♥+5⏎⏎クサリをつないで つくったよろい。⏎服のように着られて うごきやすい。	♥+5⏎⏎Armor made by connecting chains. ⏎It's like clothes and he moves around easily.	"♥+5⏎
+⏎
+Armor made of linked⏎
+metal chains。Strong⏎
+while still easy to⏎
+move in"		
+0	♥+6#0f00こうげき力アップ、足がおそくなる⏎⏎鉄で出来ている 憲兵がきているよろい。⏎おもいがひじょうに⏎ぼうぎょ力がたかいのだ。	"♥+6#0f00 Increases fighting power, slows down ⏎⏎Armor made of iron, used by military police. ⏎My mind is very strong.⏎I have a lot of strength."	"♥+6#0f00+ATK、-MOV⏎
+⏎
+Iron armor worn by⏎
+Grey Guards。It’s⏎
+very strong、but⏎
+also quite heavy"		
+0	♥+7⏎⏎鉄をたたいて つくったよろい。⏎とてもがんじょうにできている。	♥+7⏎⏎Armor made by hammering iron. ⏎It's very sturdy.	"♥+7⏎
+⏎
+Armor made out of⏎
+worked iron。Very⏎
+sturdy"		
 0	♥+4#0f00たまにこうげきをかわす⏎⏎むらさき色のきれいなマント。⏎あるときジャスミンが着てあらわれた。⏎どこかでぬすんできたのだろうか?	"♥+4#0f00Dodges attacks sometimes⏎⏎A beautiful purple cloak. ⏎One day, Jasmine appeared wearing it. ⏎Did he steal it somewhere?"	♥+4#0f00たまにこうげきをかわす⏎⏎むらさき色のきれいなマント。⏎あるときジャスミンが着てあらわれた。⏎どこかでぬすんできたのだろうか?		
 0	♥+8#0f00足がおそくなる⏎てきからお金が出やすい⏎⏎金でできているよろい。⏎まぶしいほどにかがやいている。	♥+8#0f00It makes you slow ⏎It's easy to earn money ⏎⏎Armor made of gold. ⏎It's so bright that it's dazzling.	♥+8#0f00足がおそくなる⏎てきからお金が出やすい⏎⏎金でできているよろい。⏎まぶしいほどにかがやいている。		
 0	♥+5#0f00てきがアイテムをおとしやすくなる⏎⏎かぼちゃのぱんつはいいぱんつ。⏎ジャスミンのおきにいり。	♥+5#0f00It will be easier for you to drop items⏎⏎Pumpkin pants are good pants. ⏎Come to Jasmine.	♥+5#0f00てきがアイテムをおとしやすくなる⏎⏎かぼちゃのぱんつはいいぱんつ。⏎ジャスミンのおきにいり。		
@@ -20,7 +43,7 @@ from cotton linen"
 0	♥+8#0f00かいふくアイテムのこうかがあがる⏎⏎モキートさんとおそろいのガウン。⏎マジックハウス ちょうせんのきねんに⏎プレゼントされた(かってにもらった)。⏎まあ、これくらいはとうぜんだよね!	"♥+8#0f00Kokaifuku items are coming up⏎⏎A matching gown with Moquito. ⏎Magic House It was given to me as a gift (once I received it). ⏎Well, that's pretty impressive!"	♥+8#0f00かいふくアイテムのこうかがあがる⏎⏎モキートさんとおそろいのガウン。⏎マジックハウス ちょうせんのきねんに⏎プレゼントされた(かってにもらった)。⏎まあ、これくらいはとうぜんだよね!		
 0	♥+1⏎⏎足をつつみこむように⏎あついわたがたっぷりと入ったくつ下。⏎もうくつずれになやまされる事はないな。	♥+1⏎⏎Socks with plenty of warm cotton to wrap around your feet. ⏎I won't have to worry about my shoes anymore.	"♥+1⏎
 ⏎
-Thick、cottony socks⏎
+Thick、padded socks⏎
 to protect your feet"		
 0	たまにてきをきぜつさせる⏎⏎ジャスミンが ジョーカーから⏎もらったぼうし。⏎手あみのようだが⏎ジョーカーがあんだのだろうか?	"A hat that Jasmine received from the Joker. ⏎It looks like it's handmade, but ⏎I wonder if the Joker is like that?"	たまにてきをきぜつさせる⏎⏎ジャスミンが ジョーカーから⏎もらったぼうし。⏎手あみのようだが⏎ジョーカーがあんだのだろうか?		
 0	矢のこうげきをむこうかするときがある⏎⏎ブーロンの皮で出来ている小屋のやねを⏎ひっぺがして つくったたて。⏎矢をはねかえす力があるという。	Sometimes it has to be hit by an arrow ⏎⏎It's freshly made by peeling off a hut made from boron skin. ⏎It is said to have the power to repel arrows.	矢のこうげきをむこうかするときがある⏎⏎ブーロンの皮で出来ている小屋のやねを⏎ひっぺがして つくったたて。⏎矢をはねかえす力があるという。		
