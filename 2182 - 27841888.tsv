@@ -162,7 +162,7 @@ show you!?"
 2810104	ここは いごこちのいい部屋⏎なんかじゃない⏸気味の悪い かいぶつのすみかだ	This is not a cozy room⏎This is the home of a creepy creature	"This cozy house…⏸
 It’s actually a⏎
 monster’s lair!"	
-0b810208	なんと……	What...	Dark magic…	
+0b810208	なんと……	What...	No…	
 1281030c	にげましょう!	Let's escape!	"Well then、let’s get⏎
 out of here!"	
 2030104	待って! トパーズの力を!	Wait! The power of Topaz!	"Wait! Let me use the⏎
@@ -228,81 +228,213 @@ rescuing him and⏎
 offered to lead us⏎
 to Raladin、the home⏎
 of the Ralads"	
-1030104	ここが……ララディン?	This is... Laladin?	ここが……ララディン?	
-1103030c	だれも住んでいないの?	No one lives there?	だれも住んでいないの?	
-9030208	見ろ……あの家のとびらを	Look...at the door of that house.	見ろ……あの家のとびらを	
-1703030c	影の大王のしるしよ	The sign of the shadow king	影の大王のしるしよ	
-0b030208	どうやらここは影の大王に⏎ほろぼされてしまったようだな	It looks like this place has been destroyed by the Great Shadow King.	どうやらここは影の大王に⏎ほろぼされてしまったようだな	
-3030104	そんな……	Like that...	そんな……	
-1303030c	マナスが ふいているんだわ……	Manas is flowing...	マナスが ふいているんだわ……	
-3810104	(なんて悲しい音色なんだ……)	(What a sad tone...)	(なんて悲しい音色なんだ……)	
-1403030c	見て! ララド族が⏎おおぜい出てきた!	Look! The Larado tribe has come out in droves!	見て! ララド族が⏎おおぜい出てきた!	
-0c030208	そうか!! わははは!⏸ララド族は地下にかくれていたんだ⏸さすが大工のしゅぞく!⏸おそらく地下に りっぱな町を⏎つくったんだろうよ	That's right!! Hahahaha! ⏸ The Larado tribe was hiding underground ⏸ As expected of a carpenter! ⏸ They probably built a fine town underground ⏎	そうか!! わははは!⏸ララド族は地下にかくれていたんだ⏸さすが大工のしゅぞく!⏸おそらく地下に りっぱな町を⏎つくったんだろうよ	
+1030104	ここが……ララディン?	This is... Laladin?	Is this… Raladin?	
+1103030c	だれも住んでいないの?	No one lives there?	It looks deserted	
+9030208	見ろ……あの家のとびらを	Look...at the door of that house.	"Look… on the door of⏎
+that house"	
+1703030c	影の大王のしるしよ	The sign of the shadow king	"The Shadow Lord’s⏎
+brand!"	
+0b030208	どうやらここは影の大王に⏎ほろぼされてしまったようだな	It looks like this place has been destroyed by the Great Shadow King.	"It seems that the
+Shadow Lord has⏎
+destroyed Raladin…"	
+3030104	そんな……	Like that...	No…	
+1303030c	マナスが ふいているんだわ……	Manas is flowing...	"Manus is playing a⏎
+flute…"	
+3810104	(なんて悲しい音色なんだ……)	(What a sad tone...)	(What a sad tune…)	
+1403030c	見て! ララド族が⏎おおぜい出てきた!	Look! The Larado tribe has come out in droves!	"Look! Ralads! Lots⏎
+of them!"	
+0c030208	そうか!! わははは!⏸ララド族は地下にかくれていたんだ⏸さすが大工のしゅぞく!⏸おそらく地下に りっぱな町を⏎つくったんだろうよ	That's right!! Hahahaha! ⏸ The Larado tribe was hiding underground ⏸ As expected of a carpenter! ⏸ They probably built a fine town underground ⏎	"Haha! I see!⏸
+The Ralads hid under-⏎
+ground! They are⏸
+tireless workers and⏎
+clever builders!⏸
+They built a whole
+town underground!"	
 500	マナスの命のおんじんという事で⏎ぼくたちは とても かんげいされました。⏎⏎バルダが よそうしたとおりの 町が⏎地下にありました。⏎⏎おいしい料理をたくさん食べて⏎ひさしぶりに ぐっすり ねむりました。	"⏎We were very excited because we were the guardians of Manas's life. ⏎⏎There was a town underground, just as Barda had seen. ⏎⏎She ate a lot of delicious food and fell asleep for the first time in a while."	マナスの命のおんじんという事で⏎ぼくたちは とても かんげいされました。⏎⏎バルダが よそうしたとおりの 町が⏎地下にありました。⏎⏎おいしい料理をたくさん食べて⏎ひさしぶりに ぐっすり ねむりました。	
 500	あまり いごこちがいいので⏎ぼくたちは 何日ものあいだ⏎ララディンですごしました。⏎⏎バルダが怒りださなかったら⏎もっといたかもしれません。⏎父さん。⏎バルダをぼくにつけたのは せいかいです。	"It was so cozy that we spent many days at Laladin. ⏎⏎If Barda hadn't gotten angry, there might have been more. ⏎Dad. ⏎Seikai is the one who put Barda on me."	あまり いごこちがいいので⏎ぼくたちは 何日ものあいだ⏎ララディンですごしました。⏎⏎バルダが怒りださなかったら⏎もっといたかもしれません。⏎父さん。⏎バルダをぼくにつけたのは せいかいです。	
-9810208	さあ、マナス。⏎もう帰っていいぞ	"Come on, Manas. ⏎You can go home now."	さあ、マナス。⏎もう帰っていいぞ	
-0d810208	わたしの命はあなたの物、だと?	My life is yours?	わたしの命はあなたの物、だと?	
-1810104	ありがとう。⏎でも、もうじゅうぶんだよ	thank you. ⏎But I've had enough.	ありがとう。⏎でも、もうじゅうぶんだよ	
-9810208	ソルディーン?	Soldeen?	ソルディーン?	
-1810104	それはなに?	What is that?	それはなに?	
-1281030c	何か来るわよ!	Something is coming!	何か来るわよ!	
-5810104	(これがソルディーンなんだな……)	(This is Soldeen...)	(これがソルディーンなんだな……)	
-1281030c	こんな相手じゃ わたしたちの⏎こうげきなんて通用しないわ!	Our ⏎attacks won't work against someone like this!	こんな相手じゃ わたしたちの⏎こうげきなんて通用しないわ!	
-0a810208	しかし、戦うしかない!	But we have no choice but to fight!	しかし、戦うしかない!	
-2810104	バルダ!	Barda!	バルダ!	
-28010b7c	ははははは……	Hahahahaha...	ははははは……	
-3810104	(わ、わらってるのか!?)	"(Wow, are you laughing!?)"	(わ、わらってるのか!?)	
-28010b7c	これは良い剣だな。⏎もらっておこう	This is a good sword. ⏎Let's get it	これは良い剣だな。⏎もらっておこう	
-2810104	だめだ! これは父さんが!	No! This is my father!	だめだ! これは父さんが!	
-2810104	やめろ!	Stop it!	やめろ!	
-0b810208	今はあきらめろ、リーフ	"Give up now, Leaf."	今はあきらめろ、リーフ	
-0b810208	いったいどうしたものかな……	I wonder what happened...	いったいどうしたものかな……	
-1810104	宝石は近くにあるんだ⏸ベルトがあたたかくなって⏎いるからね	The jewel is nearby ⏸ The belt is warm ⏎	宝石は近くにあるんだ⏸ベルトがあたたかくなって⏎いるからね	
-1281030c	わたしは ぬれて寒いけど	I'm wet and cold	わたしは ぬれて寒いけど	
-2810104	からむなよ、ジャスミン	"Don't mess with me, Jasmine."	からむなよ、ジャスミン	
-1281030c	だって!	Because!	だって!	
-3810104	(楽しい曲だな……)⏸(デルの町にいたころは⏎楽しかったなあ……)⏸(あの町はキライだと思ってたけど⏎それでも今よりは楽しかった……)	"(That's a fun song...)⏸(When I was in Del's town ⏎It was fun...)⏸(I thought that town was disgusting, but ⏎It was still more fun than it is now...)"	(楽しい曲だな……)⏸(デルの町にいたころは⏎楽しかったなあ……)⏸(あの町はキライだと思ってたけど⏎それでも今よりは楽しかった……)	
-9810208	リーフ	leaf	リーフ	
-1810104	なに?	what?	なに?	
-0b810208	この旅のはてに⏎この曲のような楽しい……	At the end of this journey⏎It's fun like this song...	この旅のはてに⏎この曲のような楽しい……	
-1481030c	うん、楽しい世界を⏎つくれるといいね	"Yeah, I hope we can create a fun world⏎"	うん、楽しい世界を⏎つくれるといいね	
-3810104	……うん	……Yeah	……うん	
-1810104	(そのとおりだ)⏸(前は良かったなんて⏎思っちゃいけない)⏸(この旅は未来を切り開く⏎旅なんだ)	(That's right)⏸(Don't think that things were good before)⏸(This journey is a journey that opens up the future)	(そのとおりだ)⏸(前は良かったなんて⏎思っちゃいけない)⏸(この旅は未来を切り開く⏎旅なんだ)	
-28010b7c	笛をやめるな!	Don't stop playing the whistle!	笛をやめるな!	
-28010b7c	おまえらは、なぜ⏎この きんだんの地へきた?	Why did you guys come to this kindan land?	おまえらは、なぜ⏎この きんだんの地へきた?	
-3810104	(何て言ったらいいんだ?)	(What should I say?)	(何て言ったらいいんだ?)	
-28010b7c	しんじつか、さもなくば死	Do it or die	しんじつか、さもなくば死	
-1810104	ぼくたちは、ある宝石を⏎さがしにきた	We came to look for a certain jewel.	ぼくたちは、ある宝石を⏎さがしにきた	
-28010b7c	なるほど。⏎それなら わたしが持っている⏸さて、どうしたものかな	"I see. ⏎Then I have it⏸Now, what should I do with it?"	なるほど。⏎それなら わたしが持っている⏸さて、どうしたものかな	
-9030208	宝石の代わりに何がほしい?⏎言ってみろ!⏸なんでも、さがしてきてやるぞ	"What do you want instead of jewelry?⏎Tell me!⏸I'll find it for you, whatever it is."	宝石の代わりに何がほしい?⏎言ってみろ!⏸なんでも、さがしてきてやるぞ	
-28010b7c	ギィキィキィキィー⏸石はくれてやる⏸かわりに、笛をふく⏎そいつをよこせ	"Squeaky squeaky⏸Give me the stone⏸Instead, blow the flute⏎Give me that one"	ギィキィキィキィー⏸石はくれてやる⏸かわりに、笛をふく⏎そいつをよこせ	
-2810104	マナスを?⏎そんな事はできない!	Manas?⏎You can't do that!	マナスを?⏎そんな事はできない!	
-28010b7c	マナスと言うのか⏸おまえは生きているかぎり……⏸いっときも休まず その笛をふいて⏎わたしの心を なぐさめるのだ	"Do you mean Manas?As long as you are alive...⏸never rest, you will blow that flute⏎to soothe my heart."	マナスと言うのか⏸おまえは生きているかぎり……⏸いっときも休まず その笛をふいて⏎わたしの心を なぐさめるのだ	
-1281030c	だめよ!	No!	だめよ!	
-0a810208	いかん! マナス!	No! Manas!	いかん! マナス!	
-28010b7c	こちらへ来たがって⏎いるではないか!	There are people who want to come here!	こちらへ来たがって⏎いるではないか!	
-1281030c	じょうだんじゃない!⏎わたすものですか!	This is not a joke! ⏎Is this something you should give away?	じょうだんじゃない!⏎わたすものですか!	
-2801077c	その男をよこせ!⏸さもないと おまえらを⏎みな殺しにするぞ!	Give me that man!⏸or I'll kill you all!	その男をよこせ!⏸さもないと おまえらを⏎みな殺しにするぞ!	
-2810104	やるなら、やってみろ!	"If you want to do it, do it!"	やるなら、やってみろ!	
-28010b7c	おろかなやつらめ!	You idiots!	おろかなやつらめ!	
-28010b7c	おまえは――マナスのために――⏎命を投げ出すと言うのか⏸マナスは……おまえたちのために⏎命を投げ出そうとした⏸むかし――ずっとむかし⏎わたしにも、そんな事が――	"Are you saying that you would give up your life for Manas? Manas was willing to give up his life for you. Once upon a time, a long time ago, it happened to me too. ―"	おまえは――マナスのために――⏎命を投げ出すと言うのか⏸マナスは……おまえたちのために⏎命を投げ出そうとした⏸むかし――ずっとむかし⏎わたしにも、そんな事が――	
-28010b7c	何かが――わたしに――⏎おこりかけている――⏸心が――きよめられている――	Something is happening to me. My heart is being purified.	何かが――わたしに――⏎おこりかけている――⏸心が――きよめられている――	
-1030104	(そうか、トパーズに こいつの⏎心が反応しているんだ!)	"(I see, this guy's ⏎heart is reacting to Topaz!)"	(そうか、トパーズに こいつの⏎心が反応しているんだ!)	
-28010b7c	さあ、もっていくがいい!	"Now, take it!"	さあ、もっていくがいい!	
-1030104	(ベルトが あつい)⏸(だからこれは⏎さがしている宝石だ)⏸(でも、ピンク色の⏎宝石なんてあったかな……)	(The belt is hot)⏸(So this is the jewel I'm looking for)⏸(But I wonder if there was a pink jewel...)	(ベルトが あつい)⏸(だからこれは⏎さがしている宝石だ)⏸(でも、ピンク色の⏎宝石なんてあったかな……)	
-28010b7c	どうした? 何がふまんだ?	What's wrong? What's wrong?	どうした? 何がふまんだ?	
-1030104	いや、何でもない	"No, it's nothing"	いや、何でもない	
-3030104	(おちついて考えるんだ)⏸(そうだ、デルトラの書を思い出せ)	"(Calm down and think)⏸(Yes, remember the Book of Deltora)"	(おちついて考えるんだ)⏸(そうだ、デルトラの書を思い出せ)	
-501	いだいなるルビーは⏎こうふくのシンボル⏎⏎しかし じゃあくが近い時⏎その赤は 色あせる	"The main ruby ​​is ⏎the symbol of Koufuku⏎⏎However, when the calf is near⏎ its red color fades."	いだいなるルビーは⏎こうふくのシンボル⏎⏎しかし じゃあくが近い時⏎その赤は 色あせる	
-2030104	(赤が色あせたらピンクになる!)⏸(つまりルビーは じゃあくな存在を⏎感じているんだ!)	"(When the red fades, it becomes pink!)⏸(In other words, Ruby feels a dangerous presence!)"	(赤が色あせたらピンクになる!)⏸(つまりルビーは じゃあくな存在を⏎感じているんだ!)	
-2030104	みんな! 気をつけろ!	Everyone! Be careful!	みんな! 気をつけろ!	
-2030104	かくれるんだ!	Hide it!	かくれるんだ!	
-0	ぼくたちが 岩のうしろに かくれた時⏎そのまじょは あらわれました。	"When we hid behind a rock, the magic appeared."	ぼくたちが 岩のうしろに かくれた時⏎そのまじょは あらわれました。	
-0	まじょテーガン。	Really Tegan.	まじょテーガン。	
-0	テーガンは にくしみに みちた目で⏎あたりを見わたすと、⏎やがて すがたを消しました。	"Tegan looked around with sad eyes, and then disappeared."	テーガンは にくしみに みちた目で⏎あたりを見わたすと、⏎やがて すがたを消しました。	
-0	テーガンは ぼくたちを⏎さがしていました。⏎⏎きっといつか、ぼくたちを⏎見つけだして……そして命を⏎うばおうとするのでしょう。	Tegan was looking for us. ⏎⏎I'm sure someday they'll find us...and try to take our lives.	テーガンは ぼくたちを⏎さがしていました。⏎⏎きっといつか、ぼくたちを⏎見つけだして……そして命を⏎うばおうとするのでしょう。	
-500	父さん。母さん。⏎宝石は2こになりました。⏎残りは5こです。⏎⏎ぼくたちのために……⏎デルトラの未来のために⏎いのってください。	Dad. Mother. ⏎There are now 2 jewels. ⏎There are 5 pieces left. ⏎⏎For us...⏎For the future of Deltora⏎Please pray.	父さん。母さん。⏎宝石は2こになりました。⏎残りは5こです。⏎⏎ぼくたちのために……⏎デルトラの未来のために⏎いのってください。	
-0	テーブルいっぱいのごちそうだ。⏎できたてほやほやの においがたまらない	A table full of feasts. ⏎The smell of freshly made food is irresistible	テーブルいっぱいのごちそうだ。⏎できたてほやほやの においがたまらない	
+9810208	さあ、マナス。⏎もう帰っていいぞ	"Come on, Manas. ⏎You can go home now."	"There is no need for⏎
+you to come any⏸
+farther、Manus。You⏎
+have guided us here⏸
+and that is all we⏎
+ask of you⏸
+Go home now to your⏎
+friends"	Making this closer to the book
+0d810208	わたしの命はあなたの物、だと?	My life is yours?	"『You saved me from⏎
+death』…⏸
+『My life is⏎
+yours』!?"	
+1810104	ありがとう。⏎でも、もうじゅうぶんだよ	thank you. ⏎But I've had enough.	"Thank you、Manus、but⏎
+you’ve done enough"	
+9810208	ソルディーン?	Soldeen?	『Soldeen』…?	
+1810104	それはなに?	What is that?	What does that mean?	
+1281030c	何か来るわよ!	Something is coming!	Something is coming!	
+5810104	(これがソルディーンなんだな……)	(This is Soldeen...)	(Soldeen!?)	
+1281030c	こんな相手じゃ わたしたちの⏎こうげきなんて通用しないわ!	Our ⏎attacks won't work against someone like this!	"Our attacks are⏎
+useless against a⏸
+beast like this!"	
+0a810208	しかし、戦うしかない!	But we have no choice but to fight!	"But we have no⏎
+choice but to fight!"	
+2810104	バルダ!	Barda!	Barda!	
+28010b7c	ははははは……	Hahahahaha...	GRA HA HA HA!	
+3810104	(わ、わらってるのか!?)	"(Wow, are you laughing!?)"	(Is it… laughing?)	
+28010b7c	これは良い剣だな。⏎もらっておこう	This is a good sword. ⏎Let's get it	"WHAT A FINE SWORD!⏎
+I THINK I’ll KEEP IT"	
+2810104	だめだ! これは父さんが!	No! This is my father!	"No! My father’s⏎
+sword!"	
+2810104	やめろ!	Stop it!	Stop!	
+0b810208	今はあきらめろ、リーフ	"Give up now, Leaf."	Let it go、Lief	
+0b810208	いったいどうしたものかな……	I wonder what happened...	Well… now what?	
+1810104	宝石は近くにあるんだ⏸ベルトがあたたかくなって⏎いるからね	The jewel is nearby ⏸ The belt is warm ⏎	"A gem is nearby!⏎
+My belt is warm!"	
+1281030c	わたしは ぬれて寒いけど	I'm wet and cold	"Well MY clothes are⏎
+all cold and wet!"	
+2810104	からむなよ、ジャスミン	"Don't mess with me, Jasmine."	"Quit joking around、⏎
+Jasmine!"	
+1281030c	だって!	Because!	Tsk!	
+3810104	(楽しい曲だな……)⏸(デルの町にいたころは⏎楽しかったなあ……)⏸(あの町はキライだと思ってたけど⏎それでも今よりは楽しかった……)	"(That's a fun song...)⏸(When I was in Del's town ⏎It was fun...)⏸(I thought that town was disgusting, but ⏎It was still more fun than it is now…)"	"(What a nice song…)⏸
+(It reminds me of my⏎
+life back in Del…)⏸
+(I hated it there at⏎
+the time、but now…)⏸
+(Compared to this⏎
+place…)"	
+9810208	リーフ	leaf	Lief	
+1810104	なに?	what?	Yeah?	
+0b810208	この旅のはてに⏎この曲のような楽しい……	At the end of this journey⏎It's fun like this song...	"If we finish this⏎
+quest、I would like⏸
+to hear music like⏎
+this more often…"	
+1481030c	うん、楽しい世界を⏎つくれるといいね	"Yeah, I hope we can create a fun world⏎"	"Yeah、I hope we can⏎
+make the world a⏸
+pleasant place!"	
+3810104	……うん	……Yeah	…Yeah	
+1810104	(そのとおりだ)⏸(前は良かったなんて⏎思っちゃいけない)⏸(この旅は未来を切り開く⏎旅なんだ)	(That's right)⏸(Don't think that things were good before)⏸(This journey is a journey that opens up the future)	"(They’re right!)⏸
+(I can’t get stuck⏎
+in the past)⏸
+(I need to fight for⏎
+a better future!)"	
+28010b7c	笛をやめるな!	Don't stop playing the whistle!	KEEP PLAYING!	
+28010b7c	おまえらは、なぜ⏎この きんだんの地へきた?	Why did you guys come to this kindan land?	"Why have you come to⏎
+this forbidden place?"	
+3810104	(何て言ったらいいんだ?)	(What should I say?)	(What should I say?)	
+28010b7c	しんじつか、さもなくば死	Do it or die	"Do not try to lie、⏎
+for I will know if⏸
+you do、and I will⏎
+kill you!"	
+1810104	ぼくたちは、ある宝石を⏎さがしにきた	We came to look for a certain jewel.	"We have come to seek⏎
+a certain stone、⏸
+which has special⏎
+meaning for us"	
+28010b7c	なるほど。⏎それなら わたしが持っている⏸さて、どうしたものかな	"I see. ⏎Then I have it⏸Now, what should I do with it?"	"I know of the stone。⏎
+It is in my keeping⏸
+Do you think that I⏎
+would let you take⏸
+it、with nothing in⏎
+return?"	
+9030208	宝石の代わりに何がほしい?⏎言ってみろ!⏸なんでも、さがしてきてやるぞ	"What do you want instead of jewelry?⏎Tell me!⏸I'll find it for you, whatever it is."	"Name your price! If⏎
+it is within our⏸
+power we will pay it⏸
+We will go from here⏎
+and find whatever-"	
+28010b7c	ギィキィキィキィー⏸石はくれてやる⏸かわりに、笛をふく⏎そいつをよこせ	"Squeaky squeaky⏸Give me the stone⏸Instead, blow the flute⏎Give me that one"	"Grargh! There is no⏎
+need for you to⏸
+search for my price⏸
+I will give you the⏎
+stone in return for⏸
+a companion… give⏎
+the little man to me"	
+2810104	マナスを?⏎そんな事はできない!	Manas?⏎You can't do that!	Manus? We cannot-!	
+28010b7c	マナスと言うのか⏸おまえは生きているかぎり……⏸いっときも休まず その笛をふいて⏎わたしの心を なぐさめるのだ	"Do you mean Manas?As long as you are alive...⏸never rest, you will blow that flute⏎to soothe my heart."	"I like his face and⏎
+the music he makes⏸
+He will come into⏎
+the Lake with me⏸
+He will play to me⏎
+through the endless⏸
+days、the lonely⏎
+nights⏸
+He will ease my pain⏎
+for as long as he⏸
+lives"	
+1281030c	だめよ!	No!	No!	
+0a810208	いかん! マナス!	No! Manas!	No、Manus!	
+28010b7c	こちらへ来たがって⏎いるではないか!	There are people who want to come here!	"He wishes to join⏎
+me。Let him come。"	
+1281030c	じょうだんじゃない!⏎わたすものですか!	This is not a joke! ⏎Is this something you should give away?	"We will not!⏸
+He would sacrifice⏎
+himself for us、but⏸
+we will not allow⏎
+it!"	
+2801077c	その男をよこせ!⏸さもないと おまえらを⏎みな殺しにするぞ!	Give me that man!⏸or I'll kill you all!	"Give him to me、or⏎
+I will kill you!"	
+2810104	やるなら、やってみろ!	"If you want to do it, do it!"	"Then do it!⏸
+But you will have to⏎
+kill your companion⏸
+too、for you are too⏎
+large to take one⏸
+of us without the⏎
+others!"	
+28010b7c	おろかなやつらめ!	You idiots!	WE SHALL SEE!	
+28010b7c	おまえは――マナスのために――⏎命を投げ出すと言うのか⏸マナスは……おまえたちのために⏎命を投げ出そうとした⏸むかし――ずっとむかし⏎わたしにも、そんな事が――	"Are you saying that you would give up your life for Manas? Manas was willing to give up his life for you. Once upon a time, a long time ago, it happened to me too. ―"	"You… would die for⏎
+him⏸
+He… would die for⏎
+you⏸
+And all of you would⏎
+give up…⏸
+Everything… for your⏎
+cause…⏸
+I remember… a time⏎
+when I、too…⏸
+Long ago… So long⏎
+ago…"	
+28010b7c	何かが――わたしに――⏎おこりかけている――⏸心が――きよめられている――	Something is happening to me. My heart is being purified.	"Something… is…⏎
+happening to me⏸
+My heart… is being…⏎
+purified"	
+1030104	(そうか、トパーズに こいつの⏎心が反応しているんだ!)	"(I see, this guy's ⏎heart is reacting to Topaz!)"	"(The topaz is curing
+his heart!)⏎"	
+28010b7c	さあ、もっていくがいい!	"Now, take it!"	Take it	
+1030104	(ベルトが あつい)⏸(だからこれは⏎さがしている宝石だ)⏸(でも、ピンク色の⏎宝石なんてあったかな……)	(The belt is hot)⏸(So this is the jewel I'm looking for)⏸(But I wonder if there was a pink jewel...)	"(The belt is hot、so⏎
+this must be it)⏸
+(But I don’t remember⏎
+a pink gem…)"	
+28010b7c	どうした? 何がふまんだ?	What's wrong? What's wrong?	What is the matter?	
+1030104	いや、何でもない	"No, it's nothing"	"Nothing!⏸
+I have the stone。We⏎
+can go。"	
+3030104	(おちついて考えるんだ)⏸(そうだ、デルトラの書を思い出せ)	"(Calm down and think)⏸(Yes, remember the Book of Deltora)"	"(Calm down and try⏎
+to recall the book)"	
+501	いだいなるルビーは⏎こうふくのシンボル⏎⏎しかし じゃあくが近い時⏎その赤は 色あせる	"The main ruby ​​is ⏎the symbol of Koufuku⏎⏎However, when the calf is near⏎ its red color fades."	"The great ruby、⏎
+symbol of happiness、⏎
+red as blood、grows⏎
+pale in the presence⏎
+of evil…"	
+2030104	(赤が色あせたらピンクになる!)⏸(つまりルビーは じゃあくな存在を⏎感じているんだ!)	"(When the red fades, it becomes pink!)⏸(In other words, Ruby feels a dangerous presence!)"	"(When red pales、
+what is it but pink?)"	
+2030104	みんな! 気をつけろ!	Everyone! Be careful!	Everyone! We must-!	
+2030104	かくれるんだ!	Hide it!	Hide!	
+0	ぼくたちが 岩のうしろに かくれた時⏎そのまじょは あらわれました。	"When we hid behind a rock, the magic appeared."	"We hid behind a rock⏎
+right before⏎
+something appeared!"	
+0	まじょテーガン。	Really Tegan.	"The sorceress⏎
+Thaegan!"	
+0	テーガンは にくしみに みちた目で⏎あたりを見わたすと、⏎やがて すがたを消しました。	"Tegan looked around with sad eyes, and then disappeared."	"She looked around⏎
+with hateful eyes、⏎
+then disappeared"	
+0	テーガンは ぼくたちを⏎さがしていました。⏎⏎きっといつか、ぼくたちを⏎見つけだして……そして命を⏎うばおうとするのでしょう。	Tegan was looking for us. ⏎⏎I'm sure someday they'll find us...and try to take our lives.	"She was looking for⏎
+us! We’re safe for⏎
+now、but I know some⏎
+day she’ll find us⏎
+and try to kill us"	
+500	父さん。母さん。⏎宝石は2こになりました。⏎残りは5こです。⏎⏎ぼくたちのために……⏎デルトラの未来のために⏎いのってください。	Dad. Mother. ⏎There are now 2 jewels. ⏎There are 5 pieces left. ⏎⏎For us...⏎For the future of Deltora⏎Please pray.	"Now we have 2 of the⏎
+gems。5 more remain。⏎
+⏎
+We must succeed。For⏎
+ourselves and for⏎
+the future of⏎
+Deltora。"	
+0	テーブルいっぱいのごちそうだ。⏎できたてほやほやの においがたまらない	A table full of feasts. ⏎The smell of freshly made food is irresistible	"A table piled with⏎
+irresistible food"	
 1810104	さっきから気になってたんだけど……⏎これはなんだろう?	I've been wondering about this for a while now...⏎What is this?	Hm… what is this?	"I think Lief might mean “what does that sound mean when I pick up an item?” or “what are these items that just go into my inventory?”
 I don’t really like that though, so I’m ditching the 4th wall break"
 1781030c	あ!	a!	Ah!	
