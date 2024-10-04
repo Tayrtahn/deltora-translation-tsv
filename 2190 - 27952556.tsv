@@ -1,18 +1,50 @@
-Header	Japanese	Google Translate	Translated
-28010764	これは旅のお方。⏎よいところに来たのう⏸细にモンスターが出はじめて⏎困っておるんじゃ⏸わしはこれから たねまきをするから⏎细をモンスターから守ってほしいんじゃが…⏸ひきうけてくれるか?	This is a traveler. ⏎You've come to a good place⏸Monsters are starting to appear in the grain ⏎You're in trouble⏸I'm going to sow seeds from now on ⏎I want you to protect the grain from monsters...⏸Will you accept it?	
-28010764	ありがとう⏎じゃあまくぞ	Thank you ⏎Let's go	
-28010764	いやか⏸いやだというのか⏸じゃあ たねまきはやめておこう	No, you say no? Then let's stop planting seeds.	
-28010764	はやくめが出ろ⏎ほいパッパ⏸いちにちたったら⏎でるパッパ⏸今はなんじかおぼえとけっ ほい	Hurry up, the baby will come out ⏎ Hey daddy ⏸ When the first day comes ⏎ The daddy will come out ⏸ Try to remember what it is now Hoi	
-28010764	今日はいいてんきじゃな⏸……ん?⏸とくに変わった事はないぞい	I'm not doing well today⏸...huh?⏸ Nothing special happened.	
-28010764	たいへんじゃ モンスターがあらわれた⏸はやくたいじしてくれないと⏎はたけが… は、はたけがっ!⏸おくの方にいる⏎さがしてくれ!	It's a big deal! A monster has appeared⏸If you don't take care of it quickly⏎It's Hatake... Ha, Hatake!⏸It's on the other side⏎Look for it!	
-28010764	よくやってくれた⏎ケガはなかったかい?⏸これでわしのグランドファームも⏎よい実りをむかえるじゃろう	You did a good job⏎Were you injured?⏸Now my grand farm will also be fruitful⏎	
-28010764	わしの细がダメになってしもうた⏸守ってくれると言ったではないか……	My grains are ruined ⏸ Didn't you say you would protect me?	
-28010764	よくやってくれた⏎いつもありがとうよ⏸おかげで作物もほうさくじゃ!⏸おれいに これをあげよう	You did a great job ⏎ Thank you as always ⏸ Thanks to you, the crops are healthy! ⏸ I'll give this to you.	
-28010000	『#f8ffこむぎ#fcff』を#f7ff10#fcffこ手に入れた!!	I got “#f8ff Komugi#fcff” and #f7ff10#fcff!!	
-28010000	『#f8ffかぼちゃ#fcff』を#f7ff10#fcffこ手に入れた!!	I got “#f8ff pumpkin #fcff” and #f7ff10#fcff!!	
-28010000	『#f8ffハイビスカス#fcff』を#f7ff10#fcffこ手に入れた!!	I got “#f8ff hibiscus #fcff” and #f7ff10#fcff!!	
-28010764	いやぁ いろいろと助かった⏎ホントに助かった⏸また今度もたのむよ	Well, it helped me in many ways⏎It really helped me⏸I'll ask for it again next time	
-28010000	ワールドマップにもどりますか?	Do you want to return to the world map?	
-28010000	ステータス:#f7ff#f5ff	Status:#f7ff#f5ff	
-28010000	残り:#f8ff#f5ff	Remaining: #f8ff#f5ff	
-28010a00	ワンワン	wan wan	
+Header	Japanese	Google Translate	Translated	Notes
+28010764	これは旅のお方。⏎よいところに来たのう⏸细にモンスターが出はじめて⏎困っておるんじゃ⏸わしはこれから たねまきをするから⏎细をモンスターから守ってほしいんじゃが…⏸ひきうけてくれるか?	This is a traveler. ⏎You've come to a good place⏸Monsters are starting to appear in the grain ⏎You're in trouble⏸I'm going to sow seeds from now on ⏎I want you to protect the grain from monsters...⏸Will you accept it?	"A traveler? I’m glad⏎
+you’re here!⏸
+I’m trying to grow⏎
+my crops、but these⏸
+monsters keep on⏎
+attacking my fields!⏸
+I need someone to⏎
+protect my crops…⏸
+Can you help?"	
+28010764	ありがとう⏎じゃあまくぞ	Thank you ⏎Let's go	"Ohh、thank you!⏎
+I’ll see you later!"	
+28010764	いやか⏸いやだというのか⏸じゃあ たねまきはやめておこう	"No, you say no? Then let's stop planting seeds."	"No? You won’t help?⏸
+I guess I’ll have to⏎
+stop planting seeds…"	
+28010764	はやくめが出ろ⏎ほいパッパ⏸いちにちたったら⏎でるパッパ⏸今はなんじかおぼえとけっ ほい	"Hurry up, the baby will come out ⏎ Hey daddy ⏸ When the first day comes ⏎ The daddy will come out ⏸ Try to remember what it is now Hoi"	"Grow、little seeds!⏸
+It will take them a⏎
+while to grow⏸
+Come back tomorrow!"	
+28010764	今日はいいてんきじゃな⏸……ん?⏸とくに変わった事はないぞい	I'm not doing well today⏸...huh?⏸ Nothing special happened.	"Nice weather today,⏎
+isn’t it?⏸
+Hm? No、nothing has⏎
+changed yet"	I’m not sure how this triggers
+28010764	たいへんじゃ モンスターがあらわれた⏸はやくたいじしてくれないと⏎はたけが… は、はたけがっ!⏸おくの方にいる⏎さがしてくれ!	"It's a big deal! A monster has appeared⏸If you don't take care of it quickly⏎It's Hatake... Ha, Hatake!⏸It's on the other side⏎Look for it!"	"M-monsters! Monsters⏎
+in my fields!⏸
+Go get rid of them、⏎
+quickly!"	
+28010764	よくやってくれた⏎ケガはなかったかい?⏸これでわしのグランドファームも⏎よい実りをむかえるじゃろう	You did a good job⏎Were you injured?⏸Now my grand farm will also be fruitful⏎	"Great job out there!⏎
+Are you injured?⏸
+Thanks to you、I’ll⏎
+have a good harvest!"	
+28010764	わしの细がダメになってしもうた⏸守ってくれると言ったではないか……	My grains are ruined ⏸ Didn't you say you would protect me?	"My crops! They’re⏎
+ruined! Didn’t you⏸
+say you would⏎
+protect them for me?"	
+28010764	よくやってくれた⏎いつもありがとうよ⏸おかげで作物もほうさくじゃ!⏸おれいに これをあげよう	"You did a great job ⏎ Thank you as always ⏸ Thanks to you, the crops are healthy! ⏸ I'll give this to you."	"Great job、as always!⏎
+The crops look great!⏸
+As payment for your⏎
+help、take these!"	
+28010000	『#f8ffこむぎ#fcff』を#f7ff10#fcffこ手に入れた!!	I got “#f8ff Komugi#fcff” and #f7ff10#fcff!!	Got『#f8ffWheat#fcff』!	
+28010000	『#f8ffかぼちゃ#fcff』を#f7ff10#fcffこ手に入れた!!	I got “#f8ff pumpkin #fcff” and #f7ff10#fcff!!	Got『#f8ffPumpkin#fcff』!	
+28010000	『#f8ffハイビスカス#fcff』を#f7ff10#fcffこ手に入れた!!	I got “#f8ff hibiscus #fcff” and #f7ff10#fcff!!	Got『#f8ffHibiscus#fcff』!	
+28010764	いやぁ いろいろと助かった⏎ホントに助かった⏸また今度もたのむよ	"Well, it helped me in many ways⏎It really helped me⏸I'll ask for it again next time"	"You really helped me⏎
+out of a jam!⏸
+Come back and help⏎
+again some time!"	
+28010000	ワールドマップにもどりますか?	Do you want to return to the world map?	Return to World Map?	
+28010000	ステータス:#f7ff#f5ff	Status:#f7ff#f5ff	Status:#f7ff#f5ff	
+28010000	残り:#f8ff#f5ff	Remaining: #f8ff#f5ff	Left:#f8ff#f5ff	
+28010a00	ワンワン	wan wan	Woof!	
