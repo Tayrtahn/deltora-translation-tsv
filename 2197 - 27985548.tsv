@@ -195,28 +195,29 @@ Do not turn off the⏎
 system or remove⏎
 the game card"	Unused?
 0	セーブがおわりました	The save is finished	Saved	Unused?
-0	マドレットに乗って帰りますか?	Would you like to ride Madret home?	Escape on Muddlet?	
+0	マドレットに乗って帰りますか?	Would you like to ride Madret home?	Return to world Map?	
 0	かじをしますか?	Do you want to steer?	Use the anvil?	
-5810104	うわっ⏎まっくらだ	Wow⏎It's pitch black	うわっ⏎まっくらだ	
-5810104	これじゃ先にすすめないぞ⏸引きかえそう!	We can't move forward like this ⏸ Let's turn back!	これじゃ先にすすめないぞ⏸引きかえそう!	
+5810104	うわっ⏎まっくらだ	Wow⏎It's pitch black	"Wow、it’s pitch⏎
+black!"	
+5810104	これじゃ先にすすめないぞ⏸引きかえそう!	We can't move forward like this ⏸ Let's turn back!	"I can’t see a thing!⏸
+Let’s turn back!"	
 1810104	そうだ、これを使おう!	"Yes, use this!"	そうだ、これを使おう!	
 0	リーフは⏎『#f8ff光のシャボンパイプ#fcff』をふいた	Leaf blew ⏎“#f8ff light soap pipe #fcff”	リーフは⏎『#f8ff光のシャボンパイプ#fcff』をふいた	
-0	#f7ffもうもてないよ	#f7ff I can't take it anymore	#f7ffもうもてないよ	
-0	#f7ffカギがかかっている	#f7ff is locked	#f7ffカギがかかっている	
+0	#f7ffもうもてないよ	#f7ff I can't take it anymore	#f7ffNo room!	
+0	#f7ffカギがかかっている	#f7ff is locked	#f7ffIt’s locked	
 0	『#f8ffカギ#fcff』を使った	Used “#f8ff key #fcff”	『#f8ffカギ#fcff』を使った	
-0	『#f7ffグランドファーム#fcff』に⏎行けるようになった!!	You can now go to “#f7ff Grand Farm #fcff”!!	『#f7ffグランドファーム#fcff』に⏎行けるようになった!!	
+0	『#f7ffグランドファーム#fcff』に⏎行けるようになった!!	You can now go to “#f7ff Grand Farm #fcff”!!	"『#f7ffGrand Farm#fcff』is now⏎
+available!"	
 0	ぼうけんの こころえ⏎⏎セーブアイコン:ぼうけんをきろくする⏎リーフたち:キャラクターをえらぶ⏎マドレット:ワールドマップへもどる	Brain's heart ⏎⏎Save icon: Sharpen the brain ⏎Leafs: Select a character ⏎Madlet: Return to world map	"Campsite⏎
 ⏎
-Tap the paper to⏎
-save the game⏎
+Paper: Save⏎
+Muddlet: Return to⏎
+World Map⏎ 
 Tap a character to⏎
-select them⏎
-Tap the muddlet to⏎
-go to the World Map⏎ "	
+select them⏎"	
 0	ぼうけんの こころえ⏎⏎セーブアイコン:ぼうけんをきろくする⏎リーフたち:キャラクターをえらぶ	Brain's heart ⏎⏎Save icon: Sharpen the mind ⏎Leafs: Select character	"Campsite⏎
 ⏎
-Tap the paper to⏎
-save the game⏎
+Paper: Save⏎
 Tap a character to⏎
 select them⏎"	
 0	ぼうけんの こころえ⏎⏎リーフたち:キャラクターをえらぶ	Adventure Heart⏎⏎Leafs: Choose a character	"Campsite⏎
@@ -225,10 +226,10 @@ Tap a character to⏎
 select them⏎"	
 0	ぼうけんの こころえ⏎⏎リーフたち:キャラクターをえらぶ⏎マドレット:ワールドマップへもどる	Adventure Mind ⏎⏎Leafs: Select a character ⏎Madlet: Return to the world map	"Campsite⏎
 ⏎
+Muddlet: Return to⏎
+World Map⏎ 
 Tap a character to⏎
-select them⏎
-Tap the muddlet to⏎
-go to the World Map⏎ "	
+select them⏎"	
 9810208	リーフ、あれを見ろ	"Leaf, look at that."	"Lief、look over⏎
 there"	
 1810104	TOM(トム)って書いてあるね⏎何のお店だろう	It says TOM (Tom) ⏎ I wonder what kind of shop it is.	"It says『TOM』…⏎
