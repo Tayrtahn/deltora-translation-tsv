@@ -192,7 +192,7 @@ champion earns 1000⏸
 gold coins⏸
 I think we can do it"	
 1303030c	いい考えって……	Good idea...	Some idea…	
-3810104	それ?	that?	That’s it?	
+3810104	それ?	that?	I don’t know…	
 0c030208	ああ	ah	Haha!	
 0b030208	オレたちは これまでたくさんの⏎かいぶつたちと戦ってきた	We have fought many ⏎kaibutsu so far.	"We have fought many⏎
 terrible monsters⏸
@@ -218,7 +218,7 @@ run away from!"
 it like that?"	
 0c030208	まあ、自信を持とうじゃないか	"Well, let's be confident"	"Hah! Come on、show⏎
 some confidence!"	
-500	父さん、ぼくたちは⏎自信を持ちすぎました。	"Dad, we were ⏎too confident."	"We were too⏎
+500	父さん、ぼくたちは⏎自信を持ちすぎました。	"Dad, we were ⏎too confident."	"Perhaps we were too⏎
 confident"	
 0	きょうぎ大会に出た ぼくたちは⏎あれよあれよと けっしょうへ……⏎⏎けっしょうに のこったのは⏎ぼくたち3人と見知らぬ男がひとり……	"We participated in the today's competition, ⏎areyo areyo, and went to the race...⏎⏎The only people left at the race were ⏎the three of us and one stranger..."	"We went to the day’s⏎
 tournament… after⏎
@@ -228,148 +228,354 @@ only the 3 of us and⏎
 one stranger left…"	
 9810208	(まず、あいつを たおそう)	"(First, let's defeat him)"	"(Let’s take this⏎
 guy down)"	
-1030104	(それから?)	(after that?)	(And then what?)	
-1281030c	(きまってるじゃない。インチキよ)	(It's obvious. It's a fake.)	"(Why, we will decide⏎
+1030104	(それから?)	(after that?)	"(And then what? There⏎
+is only one winner)"	
+1281030c	(きまってるじゃない。インチキよ)	(It's obvious. It's a fake.)	"(Why、we will decide⏎
 who is to win、then)⏸
 (just pretend to⏎
 fight each other)"	
 1281030c	(3人のうち、だれがかっても⏎金貨は手に入るのよ?)	"(Anyone out of the three will get the ⏎gold coins, right?)"	"(If any of us wins⏎
 we get the gold!)"	
 2030104	(ここまで来たんだから⏎正々堂々と戦おうよ)⏸(ぼくたちが たおしてきた相手に⏎もうしわけないと思わない?)	(We've come this far⏎⏎Let's fight fair and square.)⏸ (Don't you think there's nothing we can do about the people we've defeated?)	"(It would not be⏎
-honorable!)"	This is Barda’s line in the book.
-9810208	(ケガでもしたらどうする?)	(What would you do if you were injured?)	"(And what if one of⏎
-us injured you?)"	
-1030104	(手かげんするよ)	(I'll mess up)	(手かげんするよ)	
-1281030c	(まるであなたが かつみたいな⏎言い方ね!)	(That sounds like you're like a cutlet!)	(まるであなたが かつみたいな⏎言い方ね!)	
-3030104	(そういうわけじゃないけど)	(That's not the case though)	(そういうわけじゃないけど)	
-19810710	おい、試合中だぞ!	"Hey, the game is on!"	おい、試合中だぞ!	
-1203030c	わかってるわよ!	I know!	わかってるわよ!	
-0	怒ったジャスミンは強いんです……⏎本当に。	Angry Jasmine is strong...⏎Really.	怒ったジャスミンは強いんです……⏎本当に。	
-0	ゆだんしていた ぼくとバルダは⏎ジャスミンに あっさりと……	"Barda and I, who were resting in peace, easily met Jasmine..."	ゆだんしていた ぼくとバルダは⏎ジャスミンに あっさりと……	
-0a030208	ジャスミン、ケガには気をつけろ!	"Jasmine, be careful not to get hurt!"	ジャスミン、ケガには気をつけろ!	
-1281030c	負けた人は だまってて!	"Those who lost, stay quiet!"	負けた人は だまってて!	
-19030710	どうした……オレはまだ立っているぞ	What happened...I'm still standing.	どうした……オレはまだ立っているぞ	
-1281030c	ふん! おじさん、つかれて⏎フラフラのくせに	"Hmph! Uncle, I'm tired⏎Even though I'm dizzy"	ふん! おじさん、つかれて⏎フラフラのくせに	
-19030710	ふん、そう思うならトドメをさせ。⏎それとも……オレがこわいのか?⏸無理もない、おまえはまだ小むすめ。⏎本当なら母親のそばがお似合いだ⏸ほら、泣きながら家に帰れ	"Well, if you think so, let me deal you the final blow. ⏎Or... are you scared of me?⏸No wonder, you're still a small girl. ⏎If it's true, you look good next to your mother.⏸Come on, go home crying."	ふん、そう思うならトドメをさせ。⏎それとも……オレがこわいのか?⏸無理もない、おまえはまだ小むすめ。⏎本当なら母親のそばがお似合いだ⏸ほら、泣きながら家に帰れ	
-1281030c	お母さんですって!?⏎家ですって!?	It’s your mother!?⏎It’s your house!?	お母さんですって!?⏎家ですって!?	
-1281030c	わたしの事なんか⏎何も知らないくせに!	You don't know anything about me!	わたしの事なんか⏎何も知らないくせに!	
-2030104	ジャスミン、やめろ!⏎しょうぶは きまった	"Jasmine, stop it!⏎The match is decided!"	ジャスミン、やめろ!⏎しょうぶは きまった	
-29030930	やりましたね! チャンピオンですよ!	You did it! You're a champion!	やりましたね! チャンピオンですよ!	
-9810208	どうした?	what up?	どうした?	
-1303030c	わたし……お母さんの事を⏎言われてカッとなって……⏸そう、怒りに心をうばわれたの⏸もう しょうはいは きまっているのに⏎相手を せめつづけた……⏸しかも それを楽しんでいたのよ。⏎リーフが止めてくれなかったら……	"I...I got angry when someone said something about my mother...⏸Yes, my anger took over my heart⏸Even though it was already decided, I kept blaming the other person...⏸And I didn't enjoy it. I was there. ⏎If Leaf didn't stop me..."	わたし……お母さんの事を⏎言われてカッとなって……⏸そう、怒りに心をうばわれたの⏸もう しょうはいは きまっているのに⏎相手を せめつづけた……⏸しかも それを楽しんでいたのよ。⏎リーフが止めてくれなかったら……	
-9810208	忘れてしまえ⏸命がけの戦いで おまえはかった。⏎ただそれだけの事だ	Forget it ⏸ You fought in a life-or-death battle. ⏎That's all.	忘れてしまえ⏸命がけの戦いで おまえはかった。⏎ただそれだけの事だ	
-29030930	そうですよ!⏎ほら、金貨もこんなに!	"That's right!⏎Look, there are so many gold coins!"	そうですよ!⏎ほら、金貨もこんなに!	
-1303030c	受け取ってもいいのかしら……	I wonder if I can accept it...	受け取ってもいいのかしら……	
-9030208	ジャスミン次第だ。⏎なあ、リーフ?	"It's up to Jasmine. ⏎Hey, Leaf?"	ジャスミン次第だ。⏎なあ、リーフ?	
-1030104	もちろん。⏎チャンピオンはジャスミンだからね	of course. ⏎The champion is Jasmine.	もちろん。⏎チャンピオンはジャスミンだからね	
-1103030c	それじゃあ、もらうわ⏸このお金を使うたびに思い出すの。⏎われを 忘れる おそろしさを	"Well then, I'll take it⏸Every time I spend this money, I'll remember it. ⏎The fear of her forgetting herself"	それじゃあ、もらうわ⏸このお金を使うたびに思い出すの。⏎われを 忘れる おそろしさを	
-0b030208	そうだな。⏎オレたちも思い出すだろうよ	That's right. ⏎We'll remember it too	そうだな。⏎オレたちも思い出すだろうよ	
-1030104	ジャスミンを怒らせるな、ってね	"Don't make Jasmine angry, please."	ジャスミンを怒らせるな、ってね	
-1203030c	もう! わたしはまじめに⏎言ってるのよ!	Already! I'm being serious!	もう! わたしはまじめに⏎言ってるのよ!	
-500	ぼくたちは宿屋のおかみさんの⏎マザー・ブライトリーが教えてくれた⏎うら道から 町を出ました。	"We left town by taking the back road that Mother Brightly, the innkeeper's wife, had told us about."	ぼくたちは宿屋のおかみさんの⏎マザー・ブライトリーが教えてくれた⏎うら道から 町を出ました。	
-500	賞金目当ての ごうとうがいるから⏎表から出るのは きけんだと言われました。	"I was told that there was a boss out there who was after the prize money, so it was a shame to come out of the spotlight."	賞金目当ての ごうとうがいるから⏎表から出るのは きけんだと言われました。	
-500	でも父さん。⏎町を出たとたんになぐられて⏎ぼくたちは気を失ってしまいました。⏎⏎あの男が助けてくれなかったら⏎どうなっていた事か……	"But dad. ⏎As soon as we left town, we were attacked.⏎We lost consciousness. ⏎⏎If that man hadn't helped me, I wonder what would have happened..."	でも父さん。⏎町を出たとたんになぐられて⏎ぼくたちは気を失ってしまいました。⏎⏎あの男が助けてくれなかったら⏎どうなっていた事か……	
-19030710	気がついたか?	Have you noticed?	気がついたか?	
-1203030c	あなたは……けっしょう戦の相手!?	Are you... my opponent in the battle!?	あなたは……けっしょう戦の相手!?	
-19030710	ふん……好きほうだいに やってくれたな	Hmm...you did whatever you wanted.	ふん……好きほうだいに やってくれたな	
-0a030208	オレたちを おそったのは⏎あんただな!	It was you who scared us!	オレたちを おそったのは⏎あんただな!	
-19030710	おそわれた おまえたちを助けたんだ。⏎すこしは かんしゃしてくれ	I saved you guys from being attacked. ⏎Please be a little grateful.	おそわれた おまえたちを助けたんだ。⏎すこしは かんしゃしてくれ	
-1030104	あなたは……だれ?	Who are you?	あなたは……だれ?	
-19030710	オレはジョーカー。⏎レジスタンスのリーダーだ	I'm the Joker. ⏎He is the leader of the resistance.	オレはジョーカー。⏎レジスタンスのリーダーだ	
-0a030208	なんと!⏎影の大王と戦うレジスタンスの!?	What! ⏎The Resistance fighting against the Great Shadow King!?	なんと!⏎影の大王と戦うレジスタンスの!?	
-19030710	ああ	ah	ああ	
-1203030c	そのリーダーが どうして⏎あんな大会に出たのよ	Why did that leader participate in such a tournament?	そのリーダーが どうして⏎あんな大会に出たのよ	
-19030710	おまえたちが何者なのか⏎たしかめようと思ったのだ	I wanted to find out who you guys are.	おまえたちが何者なのか⏎たしかめようと思ったのだ	
-1030104	……ぼくたちを?	...us?	……ぼくたちを?	
-19030710	おまえたちはウワサになっている⏸男と少年、野育ちの少女の3人組が⏎黒い鳥と旅をしている⏸その3人の行く先々で影の大王の⏎手下が たおされる……とな⏸さて……おまえたちは何者だ?⏎どんなもくてきで旅をしている?	"You guys have heard a rumor that a trio of a man, a boy, and a wild girl are traveling with a black bird, and wherever they go, the shadow king's minions are defeated... ...Tonna⏸Now...who are you guys?⏎What kind of clothes are you traveling in?"	おまえたちはウワサになっている⏸男と少年、野育ちの少女の3人組が⏎黒い鳥と旅をしている⏸その3人の行く先々で影の大王の⏎手下が たおされる……とな⏸さて……おまえたちは何者だ?⏎どんなもくてきで旅をしている?	
-1030104	ぼくたちは……	We are...	ぼくたちは……	
-0a030208	リーフ、ダメだ!	"Leaf, no!"	リーフ、ダメだ!	
-19030710	なるほど……ひみつというわけか⏸なに、無理に聞き出しはしない。⏎オレたちは 大王とはちがうからな	I see...it's a secret⏸I don't force myself to ask. ⏎We are different from the Great King.	なるほど……ひみつというわけか⏸なに、無理に聞き出しはしない。⏎オレたちは 大王とはちがうからな	
-1203030c	もう行きましょう!	Let's go now!	もう行きましょう!	
-19030710	今、外は きけんだぞ。⏎影の憲兵団が おまえたちをさがしている	It's dangerous outside now. ⏎The shadow military police are looking for you guys.	今、外は きけんだぞ。⏎影の憲兵団が おまえたちをさがしている	
-1030104	どうして?	Why?	どうして?	
-19030710	おまえたちを おそったのは⏎憲兵団だからさ⏸マザー・ブライトリーの差し金だ	It was the Military Police that scared you guys.It was Mother Brightly's money.	おまえたちを おそったのは⏎憲兵団だからさ⏸マザー・ブライトリーの差し金だ	
-0a030208	マザー・ブライトリーが!?	Mother Brightly!?	マザー・ブライトリーが!?	
-19030710	そのとおり。⏸影の大王の やみのきょうぎ大会に⏎せんしゅを送りこむのが もくてきだ⏸ここの大会とはちがって、戦うのは⏎かいぶつばかり⏸つまり、めいよも賞金もない⏎ざんこくな見せ物に出されるんだ	"that's right. ⏸It's a good idea to send ⏎senshu to the Shadow King's dark tournament. ⏎Unlike the tournament here, there are only monsters to fight.In other words, there are no nieces or prizes.⏎Zankoku It's going to be put on display."	そのとおり。⏸影の大王の やみのきょうぎ大会に⏎せんしゅを送りこむのが もくてきだ⏸ここの大会とはちがって、戦うのは⏎かいぶつばかり⏸つまり、めいよも賞金もない⏎ざんこくな見せ物に出されるんだ	
-3030104	……もう、だれを信じていいのか⏎わからないよ	...I don't know who to trust anymore.	……もう、だれを信じていいのか⏎わからないよ	
-19030710	オレを信じてみてはどうだ?⏸レジスタンスのアジトで⏎好きなだけかくまってやるぞ	Why don't you believe in me? ⏸ I'll hide you in the Resistance's hideout for as long as you like.	オレを信じてみてはどうだ?⏸レジスタンスのアジトで⏎好きなだけかくまってやるぞ	
-0a030208	おりゃ!	Here we go!	おりゃ!	
-19030710	うっ!	Ugh!	うっ!	
-1030104	バルダ!?	Barda!?	バルダ!?	
-9030208	おまえの言うとおりだ。⏎だれも信用できない⏸この男も同じ事⏸アジトにつれこんで オレたちの⏎ひみつを聞き出すつもりかもしれん	You're right. ⏎I can't trust anyone⏸The same goes for this man⏸Maybe he wants to take us to his hideout and find out our ⏎secrets.	おまえの言うとおりだ。⏎だれも信用できない⏸この男も同じ事⏸アジトにつれこんで オレたちの⏎ひみつを聞き出すつもりかもしれん	
-1103030c	そうね。正体不明の男に だまされるより⏎憲兵団と戦うほうがマシよ	That's right. It's better to fight the military police than to be deceived by an unknown man.	そうね。正体不明の男に だまされるより⏎憲兵団と戦うほうがマシよ	
-500	父さん……だれも信用できないなんて……⏎おそろしくて、さびしいです。	Dad...I can't trust anyone...⏎It's scary and lonely.	父さん……だれも信用できないなんて……⏎おそろしくて、さびしいです。	
-3810104	どっちへ行けばいいんだろう	Which way should I go?	どっちへ行けばいいんだろう	
-9030208	オレたちが目指している⏎『うごめく砂』はそう遠くないはずだ	The ⏎“moving sand” we are aiming for shouldn’t be that far away.	オレたちが目指している⏎『うごめく砂』はそう遠くないはずだ	
-1103030c	クリー!	Cree!	クリー!	
-1203030c	ほら、あっちよ!⏎クリーを信じなさい!	Hey there! ⏎Believe in Kree!	ほら、あっちよ!⏎クリーを信じなさい!	
-3810104	ねえ、バルダ	"Hey, Barda"	ねえ、バルダ	
-9030208	なんだ?	What?	なんだ?	
-1810104	信用できる仲間がいて良かったよ	I'm glad I have friends I can trust.	信用できる仲間がいて良かったよ	
-0b030208	……ああ。⏎しかし、オレも時にはまちがえるぞ	"……ah. ⏎However, I also make mistakes sometimes."	……ああ。⏎しかし、オレも時にはまちがえるぞ	
-4810104	うん、よーく わかってる	"Yes, I understand very well."	うん、よーく わかってる	
-0a030208	おい!	Hey!	おい!	
-9030208	ジャード……いい息子を持ったな	Jard... you've got a good son.	ジャード……いい息子を持ったな	
-1810104	ここが『うごめく砂』だね	"This is ""moving sand"""	ここが『うごめく砂』だね	
-9030208	そのようだな	It seems like that	そのようだな	
-1203030c	こんなところで宝石をさがすの!?	Are you looking for gems in a place like this?	こんなところで宝石をさがすの!?	
-1810104	なんとかなるよ⏸今までの宝石と同じように⏎番人に守られてるはずだ⏸そして、その番人は ぼくたちが⏎来た事に気づいているはず	Everything will be fine⏸ Just like the previous jewels ⏎ it should be protected by a keeper ⏸ And that keeper should have noticed that we ⏎ came.	なんとかなるよ⏸今までの宝石と同じように⏎番人に守られてるはずだ⏸そして、その番人は ぼくたちが⏎来た事に気づいているはず	
-9030208	よし、かんげいしてもらおうか!	"Okay, let me have a look!"	よし、かんげいしてもらおうか!	
-1810104	うん!	Yeah!	うん!	
-1103030c	ねえ、何か聞こえるでしょ?	"Hey, can you hear something?"	ねえ、何か聞こえるでしょ?	
-0b030208	ブーンという音か?	Is it a buzzing sound?	ブーンという音か?	
-2810104	何かがいるのは かくじつさ	The fact that something is there	何かがいるのは かくじつさ	
-9030208	ブーンという音は⏎虫のはねの音だったようだな	The buzzing sound seems to have been the sound of insects splashing.	ブーンという音は⏎虫のはねの音だったようだな	
-1103030c	虫が宝石を守っているの?	Are insects protecting the jewels?	虫が宝石を守っているの?	
-3810104	いや……	no……	いや……	
-0a030208	来るぞ!⏎今度こそ番人か!?	It's coming! ⏎Is it the keeper this time!?	来るぞ!⏎今度こそ番人か!?	
-1103030c	宝石は?	What about jewelry?	宝石は?	
-3810104	それが……ベルトが反応しないんだ	That's... the belt doesn't respond.	それが……ベルトが反応しないんだ	
-0b030208	やれやれ……	Oh my...	やれやれ……	
-0b030208	今のかいぶつは番人じゃなかったのか	Wasn't the creature just now a keeper?	今のかいぶつは番人じゃなかったのか	
-2810104	うわっ!	Wow!	うわっ!	
-0a030208	リーフ!	Leaf!	リーフ!	
-1203030c	きゃっ!	Yay!	きゃっ!	
-2810104	バルダ、ベルトがあつい!⏎宝石があるよ!⏸わかった!⏎この砂が宝石の番人なんだ!	"Barda, your belt is tight!⏎There's a jewel!⏸I get it!⏎This sand is the keeper of the jewel!"	バルダ、ベルトがあつい!⏎宝石があるよ!⏸わかった!⏎この砂が宝石の番人なんだ!	
-1203010c	そんな事が わかっても⏎どうしようもないわよ!	"Even if I knew that, there was nothing I could do!"	そんな事が わかっても⏎どうしようもないわよ!	
-0a810108	リーフ、ジャスミン!⏎生きろ! なんとしても生きろ!	"Leaf, Jasmine!⏎Live! Live no matter what!"	リーフ、ジャスミン!⏎生きろ! なんとしても生きろ!	
-1203010c	そうよ、せめてリーフだけでも!	"Yes, at least just the leaf!"	そうよ、せめてリーフだけでも!	
-0	ぼくだけ生きのこって⏎旅を続けるなんて……⏎いや、それでも旅を続けないと……⏎宝石を取りもどすんだ……⏎⏎でも……ああ、バルダ、ジャスミン……	"I'm the only one left alive⏎To continue my journey...⏎No, I still have to continue my journey...⏎I need to get the jewel back...⏎⏎But...Oh, Barda, Jasmine..."	ぼくだけ生きのこって⏎旅を続けるなんて……⏎いや、それでも旅を続けないと……⏎宝石を取りもどすんだ……⏎⏎でも……ああ、バルダ、ジャスミン……	
-0	ん……息ができるぞ?	Hmm... can you breathe?	ん……息ができるぞ?	
-1810104	こ、これは!?	"Hey, what is this!?"	こ、これは!?	
-3810104	そうか、砂にのみこまれた⏎旅人たちの おとし物がここに……	"I see, here are the treasures of the travelers who were swallowed by the sand..."	そうか、砂にのみこまれた⏎旅人たちの おとし物がここに……	
-0a030208	生きていたんだな、リーフ!	"You're alive, Leaf!"	生きていたんだな、リーフ!	
-3810104	バルダァ……	Baldur...	バルダァ……	
-1403030c	やーねー、今の なさけない声は⏎本当にリーフなの?	"Hey, is that sad voice you just made ⏎really Leaf?"	やーねー、今の なさけない声は⏎本当にリーフなの?	
-3810104	ジャスミン……	jasmine……	ジャスミン……	
-1103030c	もしかして、泣いてる?	Maybe you're crying?	もしかして、泣いてる?	
-3810104	ま、まさか……	"Well, no way..."	ま、まさか……	
-9030208	ほら、リーフ、しっかりしてくれ。⏎宝石はまだなんだろう?	"Hey, Leaf, stay strong. ⏎What are the gems yet?"	ほら、リーフ、しっかりしてくれ。⏎宝石はまだなんだろう?	
-1103030c	……この塔、宝石だらけよ。⏎どれがベルトの宝石なの?	...This tower is full of jewels. ⏎Which is the jewel on the belt?	……この塔、宝石だらけよ。⏎どれがベルトの宝石なの?	
-3810104	ええと……	you know……	ええと……	
-9030208	おい、リーフ。⏎ベルトの宝石が光っているぞ	Hey Leaf. ⏎The jewel on the belt is shining	おい、リーフ。⏎ベルトの宝石が光っているぞ	
-1810104	光っているのは……オパールだ	What's shining is...opal.	光っているのは……オパールだ	
-1103030c	どういう事?	What do you mean?	どういう事?	
-3810104	ええと……⏸オパールは希望の宝石……⏸未来をかいま見せる……⏸目が弱いものを助ける……⏸まだあったはず……	Well... ⏸ Opal is a jewel of hope... ⏸ It gives a glimpse of the future... ⏸ It helps those with weak eyes... ⏸ There must have been more...	ええと……⏸オパールは希望の宝石……⏸未来をかいま見せる……⏸目が弱いものを助ける……⏸まだあったはず……	
-1203030c	思い出して!	Remember!	思い出して!	
-1810104	そうだ!	That's right!	そうだ!	
-501	オパールは神力の石⏎まよけにもなるラピスラズリと⏎強いつながりを持つ石	"Opal is a stone of divine power ⏎A stone with a strong connection to lapis lazuli, which can also be used as a talisman."	オパールは神力の石⏎まよけにもなるラピスラズリと⏎強いつながりを持つ石	
-1810104	ここにはラピスラズリがあるはずだ!⏸だから つながりを持つ⏎オパールが光っているんだ!	There must be lapis lazuli here!⏸That's why we have a connection⏎The opal is shining!	ここにはラピスラズリがあるはずだ!⏸だから つながりを持つ⏎オパールが光っているんだ!	
-9030208	なるほど!	I see!	なるほど!	
-1810104	どこに あるんだろう……	I wonder where it is...	どこに あるんだろう……	
-1203030c	あれ!	That!	あれ!	
-2810104	よーし、行ってくる!	"Okay, let's go!"	よーし、行ってくる!	
-500	父さん。⏎こうして ぼくたちはラピスラズリを⏎手に入れました。⏎⏎苦労や辛い事が 多い旅だけど⏎なんとか生きています。⏎でも、気になる事があります。	"Dad. ⏎This is how we ⏎obtained lapis lazuli. ⏎⏎It's a journey with many hardships and hardships, but ⏎I'm somehow surviving. ⏎However, there is something that concerns me."	父さん。⏎こうして ぼくたちはラピスラズリを⏎手に入れました。⏎⏎苦労や辛い事が 多い旅だけど⏎なんとか生きています。⏎でも、気になる事があります。	
-500	ぼくたちは あちらこちらで⏎ウワサになっているみたいなのです。⏎影の大王の耳にもとどいているのかな?	It seems like there are rumors all over the place about us. ⏎I wonder if it has reached the ears of the Great Shadow King?	ぼくたちは あちらこちらで⏎ウワサになっているみたいなのです。⏎影の大王の耳にもとどいているのかな?	
-9810208	岩で先に進めないぞ	I can't move forward because of the rock.	岩で先に進めないぞ	
-3020104	どうしよう	What should I do?	どうしよう	
-1403030c	あら、こんな岩くらい⏎かんたんに登れるじゃない	"Oh, there's a rock like this⏎It's easy to climb."	あら、こんな岩くらい⏎かんたんに登れるじゃない	
-3020104	(ジャスミンならね……)	(If it's jasmine...)	(ジャスミンならね……)	
-0b810208	なにかロープのような物でもあればな……⏎『#f7ffTOMの店#fcff』にでも行ってみるか	"If only there was something like a rope...⏎Maybe I should go to ""#f7ffTOM's store #fcff"""	なにかロープのような物でもあればな……⏎『#f7ffTOMの店#fcff』にでも行ってみるか	
-9810208	そうだ!⏎この『#f8ffじどうまき取りロープ#fcff』を使おう	"That's right! ⏎Let's use this ""#f8ff Jido winding rope #fcff"""	そうだ!⏎この『#f8ffじどうまき取りロープ#fcff』を使おう	
-1103030c	じゃあ 私が先に行って⏎ロープをかけてくる	"Okay, I'll go first and put the rope on."	じゃあ 私が先に行って⏎ロープをかけてくる	
-1103030c	行くわよ!	Let's go!	行くわよ!	
-1020104	よし、これで登れるぞ!	"Okay, now you can climb!"	よし、これで登れるぞ!	
+honorable!)"	"This is Barda’s line in the book, but the game gives it to Lief."
+9810208	(ケガでもしたらどうする?)	(What would you do if you were injured?)	"(We don’t want to⏎
+hurt each other)"	
+1030104	(手かげんするよ)	(I'll make you feel good)	"(Don’t worry、I’ll⏎
+make you look good!)"	"I’m really not sure what the intended meaning is here, and automated translation isn’t really helping me. For now, I’m going to put in something else that should make sense."
+1281030c	(まるであなたが かつみたいな⏎言い方ね!)	(It's like you are like that!)	"(Perfect! You can put⏎
+on a good show while⏸
+I take you down!)"	
+3030104	(そういうわけじゃないけど)	(That's not the case though)	"(That’s… not what I⏎
+meant…)"	
+19810710	おい、試合中だぞ!	"Hey, the game is on!"	"Hey、we’re supposed⏎
+to be fighting!"	
+1203030c	わかってるわよ!	I know!	Just watch me!	
+0	怒ったジャスミンは強いんです……⏎本当に。	Angry Jasmine is strong...⏎Really.	"Jasmine is stronger⏎
+than she looks。⏎
+⏎
+A lot stronger。"	
+0	ゆだんしていた ぼくとバルダは⏎ジャスミンに あっさりと……	"Barda and I, who were resting in peace, easily met Jasmine..."	"She caught me and⏎
+Barda by surprise⏎
+and quickly took us⏎
+down…"	
+0a030208	ジャスミン、ケガには気をつけろ!	"Jasmine, be careful not to get hurt!"	"Jasmine、I said to⏎
+avoid injuries!"	"I’m not sure if this is the right way to go with this scene, but it’s kinda funny?"
+1281030c	負けた人は だまってて!	"Those who lost, stay quiet!"	"You lost! Losers do⏎
+not speak!"	
+19030710	どうした……オレはまだ立っているぞ	What happened...I'm still standing.	"What’s wrong? Giving⏎
+up already?"	
+1281030c	ふん! おじさん、つかれて⏎フラフラのくせに	"Hmph! Uncle, I'm tired⏎Even though I'm dizzy"	"Hmph! I thought you⏎
+could use a break!⏸
+You look tired、old⏎
+man!"	
+19030710	ふん、そう思うならトドメをさせ。⏎それとも……オレがこわいのか?⏸無理もない、おまえはまだ小むすめ。⏎本当なら母親のそばがお似合いだ⏸ほら、泣きながら家に帰れ	"Well, if you think so, let me deal you the final blow. ⏎Or... are you scared of me?⏸No wonder, you're still a small girl. ⏎If it's true, you look good next to your mother.⏸Come on, go home crying."	"Hah! You cannot⏎
+master your fear⏸
+enough even to put⏎
+up a good show for⏸
+the crowd!⏸
+Run home and hide⏎
+your head in your⏸
+mamma’s lap!"	Altered to better match the book.
+1281030c	お母さんですって!?⏎家ですって!?	It’s your mother!?⏎It’s your house!?	"My mother!?⏎
+How dare you!"	
+1281030c	わたしの事なんか⏎何も知らないくせに!	You don't know anything about me!	"You know nothing⏎
+about me!"	
+2030104	ジャスミン、やめろ!⏎しょうぶは きまった	"Jasmine, stop it!⏎The match is decided!"	"Jasmine、wait! The⏎
+match is decided!"	
+29030930	やりましたね! チャンピオンですよ!	You did it! You're a champion!	"You did it、my dear!⏎
+You’re the champion!"	
+9810208	どうした?	what up?	Is something wrong?	
+1303030c	わたし……お母さんの事を⏎言われてカッとなって……⏸そう、怒りに心をうばわれたの⏸もう しょうはいは きまっているのに⏎相手を せめつづけた……⏸しかも それを楽しんでいたのよ。⏎リーフが止めてくれなかったら……	"I...I got angry when someone said something about my mother...⏸Yes, my anger took over my heart⏸Even though it was already decided, I kept blaming the other person...⏸And I didn't enjoy it. I was there. ⏎If Leaf didn't stop me..."	"I… I am ashamed⏸
+The man Doom jeered⏎
+about my mother。He⏸
+made me angry、and⏎
+I forgot myself。⏸
+If Lief hadn’t⏎
+stopped me…"	I’m taking some bits from the book and combining them with the game’s text here.
+9810208	忘れてしまえ⏸命がけの戦いで おまえはかった。⏎ただそれだけの事だ	Forget it ⏸ You fought in a life-or-death battle. ⏎That's all.	"In the end、he lost⏎
+and you won⏸
+Think of that and⏎
+forget the rest"	I’m changing this to a near quote from the book.
+29030930	そうですよ!⏎ほら、金貨もこんなに!	"That's right!⏎Look, there are so many gold coins!"	"That’s right、my⏎
+dear!⏸
+And just look at all⏎
+these gold coins!"	
+1303030c	受け取ってもいいのかしら……	I wonder if I can accept it...	"I’m not sure that I⏎
+can accept them…"	
+9030208	ジャスミン次第だ。⏎なあ、リーフ?	"It's up to Jasmine. ⏎Hey, Leaf?"	"What do you think、⏎
+Lief?"	
+1030104	もちろん。⏎チャンピオンはジャスミンだからね	of course. ⏎The champion is Jasmine.	"Of course! Jasmine⏎
+is the champion!"	
+1103030c	それじゃあ、もらうわ⏸このお金を使うたびに思い出すの。⏎われを 忘れる おそろしさを	"Well then, I'll take it⏸Every time I spend this money, I'll remember it. ⏎The fear of her forgetting herself"	"Then I’ll take it⏸
+It will remind me to⏎
+be careful not to⏸
+forget myself in⏎
+anger again"	
+0b030208	そうだな。⏎オレたちも思い出すだろうよ	That's right. ⏎We'll remember it too	"Yes、we’ll remember⏎
+that too"	
+1030104	ジャスミンを怒らせるな、ってね	"Don't make Jasmine angry, please."	"Yes、remember: do not⏎
+make Jasmine mad!"	
+1203030c	もう! わたしはまじめに⏎言ってるのよ!	Already! I'm being serious!	"Hey! I’m being⏎
+serious!"	
+500	ぼくたちは宿屋のおかみさんの⏎マザー・ブライトリーが教えてくれた⏎うら道から 町を出ました。	"We left town by taking the back road that Mother Brightly, the innkeeper's wife, had told us about."	"We left town by a⏎
+back road that the⏎
+innkeeper、Mother⏎
+Brightly、told⏎
+us about"	
+500	賞金目当ての ごうとうがいるから⏎表から出るのは きけんだと言われました。	"I was told that there was a boss out there who was after the prize money, so it was a shame to come out of the spotlight."	"She said that there⏎
+were bandits outside⏎
+of town、so we should⏎
+try to sneak out"	
+500	でも父さん。⏎町を出たとたんになぐられて⏎ぼくたちは気を失ってしまいました。⏎⏎あの男が助けてくれなかったら⏎どうなっていた事か……	"But dad. ⏎As soon as we left town, we were attacked.⏎We lost consciousness. ⏎⏎If that man hadn't helped me, I wonder what would have happened..."	"As soon as we left、⏎
+we were attacked and⏎
+knocked unconscious!⏎
+⏎
+If that man hadn’t⏎
+shown up…"	
+19030710	気がついたか?	Have you noticed?	Good、you’re awake	
+1203030c	あなたは……けっしょう戦の相手!?	Are you... my opponent in the battle!?	"You again!? Didn’t I⏎
+beat you already?"	
+19030710	ふん……好きほうだいに やってくれたな	Hmm...you did whatever you wanted.	Hmm… if you say so	
+0a030208	オレたちを おそったのは⏎あんただな!	It was you who scared us!	"So it was you who⏎
+attacked us!"	
+19030710	おそわれた おまえたちを助けたんだ。⏎すこしは かんしゃしてくれ	I saved you guys from being attacked. ⏎Please be a little grateful.	"No、it was I who just⏎
+saved you from your⏸
+attackers。You could⏎
+be a little grateful"	
+1030104	あなたは……だれ?	Who are you?	Then… who are you?	
+19030710	オレはジョーカー。⏎レジスタンスのリーダーだ	I'm the Joker. ⏎He is the leader of the resistance.	"My name is Doom⏸
+I am the leader of⏎
+the Resistance"	
+0a030208	なんと!⏎影の大王と戦うレジスタンスの!?	What! ⏎The Resistance fighting against the Great Shadow King!?	"The Resistance? So⏎
+you fight against⏸
+the Shadow Lord?"	
+19030710	ああ	ah	Right	
+1203030c	そのリーダーが どうして⏎あんな大会に出たのよ	Why did that leader participate in such a tournament?	"Why would the leader⏎
+of the Resistance be⏸
+fighting in some⏎
+tournament?"	
+19030710	おまえたちが何者なのか⏎たしかめようと思ったのだ	I wanted to find out who you guys are.	"I needed to find out⏎
+who you were"	
+1030104	……ぼくたちを?	...us?	Us?	
+19030710	おまえたちはウワサになっている⏸男と少年、野育ちの少女の3人組が⏎黒い鳥と旅をしている⏸その3人の行く先々で影の大王の⏎手下が たおされる……とな⏸さて……おまえたちは何者だ?⏎どんなもくてきで旅をしている?	"You guys have heard a rumor that a trio of a man, a boy, and a wild girl are traveling with a black bird, and wherever they go, the shadow king's minions are defeated... ...Tonna⏸Now...who are you guys?⏎What kind of clothes are you traveling in?"	"I have heard whispers⏎
+about 3 travelers -⏸
+a man、a boy、and a⏎
+wild girl accompanied⏸
+by a black bird⏸
+Wherever they go、it⏎
+is said、part of the⏸
+Shadow Lord’s evil⏎
+is undone⏸
+So… just who are you?⏎
+What are you doing?"	
+1030104	ぼくたちは……	We are...	We are-	
+0a030208	リーフ、ダメだ!	"Leaf, no!"	Lief、no!	
+19030710	なるほど……ひみつというわけか⏸なに、無理に聞き出しはしない。⏎オレたちは 大王とはちがうからな	I see...it's a secret⏸I don't force myself to ask. ⏎We are different from the Great King.	"A secret、huh?⏸
+Very well、I won’t⏎
+force you to say"	
+1203030c	もう行きましょう!	Let's go now!	Let’s keep moving!	
+19030710	今、外は きけんだぞ。⏎影の憲兵団が おまえたちをさがしている	It's dangerous outside now. ⏎The shadow military police are looking for you guys.	"It is dangerous to⏎
+travel now。The Grey⏸
+Guards will be⏎
+looking for you"	
+1030104	どうして?	Why?	For us? Why?	
+19030710	おまえたちを おそったのは⏎憲兵団だからさ⏸マザー・ブライトリーの差し金だ	It was the Military Police that scared you guys.It was Mother Brightly's money.	"It was the Grey⏎
+Guards who attacked⏸
+you as you left⏸
+Mother Brightly led⏎
+you right to them"	
+0a030208	マザー・ブライトリーが!?	Mother Brightly!?	Mother Brightly!?	
+19030710	そのとおり。⏸影の大王の やみのきょうぎ大会に⏎せんしゅを送りこむのが もくてきだ⏸ここの大会とはちがって、戦うのは⏎かいぶつばかり⏸つまり、めいよも賞金もない⏎ざんこくな見せ物に出されるんだ	"that's right. ⏸It's a good idea to send ⏎senshu to the Shadow King's dark tournament. ⏎Unlike the tournament here, there are only monsters to fight.In other words, there are no nieces or prizes.⏎Zankoku It's going to be put on display."	"That’s right⏸
+The Games are used⏎
+to find the strongest⏸
+fighters in the land⏸
+The Grey Guards grab⏎
+the winners and take⏸
+them to the Shadow⏎
+Arena、where they die⏸
+fighting monsters for⏎
+the amusement of the⏸
+Shadow Lord’s men"	
+3030104	……もう、だれを信じていいのか⏎わからないよ	...I don't know who to trust anymore.	"I don't know who I⏎
+can trust anymore…"	
+19030710	オレを信じてみてはどうだ?⏸レジスタンスのアジトで⏎好きなだけかくまってやるぞ	Why don't you believe in me? ⏸ I'll hide you in the Resistance's hideout for as long as you like.	"Hm、you do not⏎
+believe me?⏸
+Come、I will take you⏎
+to the Resistance’s⏸
+stronghold where you⏎
+can hide for as long⏸
+as you need"	
+0a030208	おりゃ!	Here we go!	Raargh!	
+19030710	うっ!	Ugh!	Oof!	
+1030104	バルダ!?	Barda!?	Barda!?	
+9030208	おまえの言うとおりだ。⏎だれも信用できない⏸この男も同じ事⏸アジトにつれこんで オレたちの⏎ひみつを聞き出すつもりかもしれん	You're right. ⏎I can't trust anyone⏸The same goes for this man⏸Maybe he wants to take us to his hideout and find out our ⏎secrets.	"You are right、Lief⏸
+We cannot trust any-⏎
+one、including him⏸
+He may have planned⏎
+to take us to his⏸
+hideout and learn⏎
+our secrets"	
+1103030c	そうね。正体不明の男に だまされるより⏎憲兵団と戦うほうがマシよ	That's right. It's better to fight the military police than to be deceived by an unknown man.	"Yeah、I would rather⏎
+fight the Grey Guards⏸
+than be deceived by⏎
+some stranger"	
+500	父さん……だれも信用できないなんて……⏎おそろしくて、さびしいです。	Dad...I can't trust anyone...⏎It's scary and lonely.	"I seems like I can’t⏎
+trust anyone now…⏎
+I’m scared and lonely"	
+3810104	どっちへ行けばいいんだろう	Which way should I go?	"Which way do we go⏎
+now?"	
+9030208	オレたちが目指している⏎『うごめく砂』はそう遠くないはずだ	The ⏎“moving sand” we are aiming for shouldn’t be that far away.	"The Shifting Sands⏎
+should be near here"	
+1103030c	クリー!	Cree!	Kree!	
+1203030c	ほら、あっちよ!⏎クリーを信じなさい!	Hey there! ⏎Believe in Kree!	"That way! Kree knows⏎
+where to go!"	
+3810104	ねえ、バルダ	"Hey, Barda"	Hey、Barda?	
+9030208	なんだ?	What?	What it is、Lief?	
+1810104	信用できる仲間がいて良かったよ	I'm glad I have friends I can trust.	"I’m glad I have⏎
+friends I can trust"	
+0b030208	……ああ。⏎しかし、オレも時にはまちがえるぞ	"……ah. ⏎However, I also make mistakes sometimes."	"As am I、Lief⏸
+Though、I do make a⏎
+mistake or two…"	
+4810104	うん、よーく わかってる	"Yes, I understand very well."	"You can say that⏎
+again!"	
+0a030208	おい!	Hey!	Hey!	
+9030208	ジャード……いい息子を持ったな	Jard... you've got a good son.	"Jarred… you’ve got⏎
+a good son"	
+1810104	ここが『うごめく砂』だね	"This is ""moving sand"""	"This must be the⏎
+Shifting Sands…"	
+9030208	そのようだな	It seems like that	It seems so	
+1203030c	こんなところで宝石をさがすの!?	Are you looking for gems in a place like this?	"If the gem is hidden⏎
+here、we will never⏸
+find it!"	From the book
+1810104	なんとかなるよ⏸今までの宝石と同じように⏎番人に守られてるはずだ⏸そして、その番人は ぼくたちが⏎来た事に気づいているはず	Everything will be fine⏸ Just like the previous jewels ⏎ it should be protected by a keeper ⏸ And that keeper should have noticed that we ⏎ came.	"No。This gem is like⏎
+the others…⏸
+It has a terrible⏎
+Guardian。We will⏸
+not have to search⏎
+for it…⏸
+It will find us"	
+9030208	よし、かんげいしてもらおうか!	"Okay, let me have a look!"	"Well、let’s take a⏎
+look"	
+1810104	うん!	Yeah!	Right!	
+1103030c	ねえ、何か聞こえるでしょ?	"Hey, can you hear something?"	Do you hear that?	
+0b030208	ブーンという音か?	Is it a buzzing sound?	That buzzing sound?	
+2810104	何かがいるのは かくじつさ	The fact that something is there	I hear it too!	
+9030208	ブーンという音は⏎虫のはねの音だったようだな	The buzzing sound seems to have been the sound of insects splashing.	"It sounds like a⏎
+swarm of insects"	
+1103030c	虫が宝石を守っているの?	Are insects protecting the jewels?	"Are insects guarding⏎
+the gem?"	
+3810104	いや……	no……	I don't think so…	
+0a030208	来るぞ!⏎今度こそ番人か!?	It's coming! ⏎Is it the keeper this time!?	"Something is coming!⏸
+Could this be the⏎
+Guardian?"	
+1103030c	宝石は?	What about jewelry?	Any sign of the gem?	
+3810104	それが……ベルトが反応しないんだ	That's... the belt doesn't respond.	"No… the belt isn’t⏎
+responding…"	
+0b030208	やれやれ……	Oh my...	Hmm…	
+0b030208	今のかいぶつは番人じゃなかったのか	Wasn't the creature just now a keeper?	"Was that beast not⏎
+the Guardian?"	
+2810104	うわっ!	Wow!	Whoa!	
+0a030208	リーフ!	Leaf!	Lief!	
+1203030c	きゃっ!	Yay!	Aaah!	
+2810104	バルダ、ベルトがあつい!⏎宝石があるよ!⏸わかった!⏎この砂が宝石の番人なんだ!	"Barda, your belt is tight!⏎There's a jewel!⏸I get it!⏎This sand is the keeper of the jewel!"	"The belt is warm!⏎
+The gem is nearby!⏸
+The Sand is the⏎
+Guardian!"	
+1203010c	そんな事が わかっても⏎どうしようもないわよ!	"Even if I knew that, there was nothing I could do!"	"So what!? There is⏎
+nothing we can do!"	
+0a810108	リーフ、ジャスミン!⏎生きろ! なんとしても生きろ!	"Leaf, Jasmine!⏎Live! Live no matter what!"	"Lief! Jasmine! Do⏎
+not give up!"	
+1203010c	そうよ、せめてリーフだけでも!	"Yes, at least just the leaf!"	"You have to be⏎
+strong、Lief!"	
+0	ぼくだけ生きのこって⏎旅を続けるなんて……⏎いや、それでも旅を続けないと……⏎宝石を取りもどすんだ……⏎⏎でも……ああ、バルダ、ジャスミン……	"I'm the only one left alive⏎To continue my journey...⏎No, I still have to continue my journey...⏎I need to get the jewel back...⏎⏎But...Oh, Barda, Jasmine..."	"I’m the only one left⏎
+I can’t go on…⏎
+⏎
+No! I have to keep⏎
+going! I need to get⏎
+the gem!⏎
+⏎
+But Barda… Jasmine…"	
+0	ん……息ができるぞ?	Hmm... can you breathe?	Wait… I can breathe?	
+1810104	こ、これは!?	"Hey, what is this!?"	What is this!?	
+3810104	そうか、砂にのみこまれた⏎旅人たちの おとし物がここに……	"I see, here are the treasures of the travelers who were swallowed by the sand..."	"These must be things⏎
+left behind by other⏸
+travelers who were⏎
+swallowed by the sand"	
+0a030208	生きていたんだな、リーフ!	"You're alive, Leaf!"	Lief! You’re alive!	
+3810104	バルダァ……	Baldur...	Barda…	
+1403030c	やーねー、今の なさけない声は⏎本当にリーフなの?	"Hey, is that sad voice you just made ⏎really Leaf?"	"Is that sad voice⏎
+really you、Lief?"	
+3810104	ジャスミン……	jasmine……	Jasmine…	
+1103030c	もしかして、泣いてる?	Maybe you're crying?	Are you crying?	
+3810104	ま、まさか……	"Well, no way..."	Can’t be…	
+9030208	ほら、リーフ、しっかりしてくれ。⏎宝石はまだなんだろう?	"Hey, Leaf, stay strong. ⏎What are the gems yet?"	"You must be strong、⏎
+Lief!⏸
+Do you see the gem⏎
+anywhere?"	
+1103030c	……この塔、宝石だらけよ。⏎どれがベルトの宝石なの?	...This tower is full of jewels. ⏎Which is the jewel on the belt?	"This tower is full⏎
+of countless gems…⏸
+Which one are we⏎
+looking for?"	
+3810104	ええと……	you know……	Um…	
+9030208	おい、リーフ。⏎ベルトの宝石が光っているぞ	Hey Leaf. ⏎The jewel on the belt is shining	"Lief! A gem on the⏎
+belt is glowing!"	
+1810104	光っているのは……オパールだ	What's shining is...opal.	"The opal… the opal⏎
+is shining"	
+1103030c	どういう事?	What do you mean?	What does that mean?	
+3810104	ええと……⏸オパールは希望の宝石……⏸未来をかいま見せる……⏸目が弱いものを助ける……⏸まだあったはず……	Well... ⏸ Opal is a jewel of hope... ⏸ It gives a glimpse of the future... ⏸ It helps those with weak eyes... ⏸ There must have been more...	"Umm…⏸
+The opal is the⏎
+symbol of hope…⏸
+It has the power to⏎
+give glimpses of the⏸
+future… to aid those⏎
+with weak sight…⏸
+and… um…"	
+1203030c	思い出して!	Remember!	You have to remember!	
+1810104	そうだ!	That's right!	That’s right!	
+501	オパールは神力の石⏎まよけにもなるラピスラズリと⏎強いつながりを持つ石	"Opal is a stone of divine power ⏎A stone with a strong connection to lapis lazuli, which can also be used as a talisman."	"The opal has a⏎
+special relationship⏎
+with the lapis lazuli、⏎
+the heavenly stone、⏎
+a powerful talisman⏎"	
+1810104	ここにはラピスラズリがあるはずだ!⏸だから つながりを持つ⏎オパールが光っているんだ!	There must be lapis lazuli here!⏸That's why we have a connection⏎The opal is shining!	"The lapis lazuli must⏎
+be here!⏸
+That’s why the opal⏎
+is glowing!"	
+9030208	なるほど!	I see!	I see!	
+1810104	どこに あるんだろう……	I wonder where it is...	Where could it be?	
+1203030c	あれ!	That!	There!	
+2810104	よーし、行ってくる!	"Okay, let's go!"	"Let’s get it and get⏎
+out of here!"	
+500	父さん。⏎こうして ぼくたちはラピスラズリを⏎手に入れました。⏎⏎苦労や辛い事が 多い旅だけど⏎なんとか生きています。⏎でも、気になる事があります。	"Dad. ⏎This is how we ⏎obtained lapis lazuli. ⏎⏎It's a journey with many hardships and hardships, but ⏎I'm somehow surviving. ⏎However, there is something that concerns me."	"Now we have the⏎
+lapis lazuli。⏎
+Our journey has been⏎
+full of hardships、⏎
+but somehow we have⏎
+survived this far。⏎
+But one thing⏎
+worries me…"	
+500	ぼくたちは あちらこちらで⏎ウワサになっているみたいなのです。⏎影の大王の耳にもとどいているのかな?	It seems like there are rumors all over the place about us. ⏎I wonder if it has reached the ears of the Great Shadow King?	"It seems like rumors⏎
+about us have spread。⏎
+Has the Shadow Lord⏎
+noticed us yet?"	
+9810208	岩で先に進めないぞ	I can't move forward because of the rock.	"These rocks are⏎
+blocking our path"	
+3020104	どうしよう	What should I do?	What do we do?	
+1403030c	あら、こんな岩くらい⏎かんたんに登れるじゃない	"Oh, there's a rock like this⏎It's easy to climb."	"Rocks like these are⏎
+easy to climb!"	
+3020104	(ジャスミンならね……)	(If it's jasmine...)	(Maybe for Jasmine…)	
+0b810208	なにかロープのような物でもあればな……⏎『#f7ffTOMの店#fcff』にでも行ってみるか	"If only there was something like a rope...⏎Maybe I should go to ""#f7ffTOM's store #fcff"""	"We need some sort of⏎
+rope… maybe #f7ffTom#fcff has⏸
+something we could⏎
+use…"	
+9810208	そうだ!⏎この『#f8ffじどうまき取りロープ#fcff』を使おう	"That's right! ⏎Let's use this ""#f8ff Jido winding rope #fcff"""	"I know!⏸
+We can use this⏎
+#f8ffself-coiling rope#fcff!"	
+1103030c	じゃあ 私が先に行って⏎ロープをかけてくる	"Okay, I'll go first and put the rope on."	"Okay、I’ll go first⏎
+and set up the rope"	
+1103030c	行くわよ!	Let's go!	Here we go!	
+1020104	よし、これで登れるぞ!	"Okay, now you can climb!"	"Great! Now we can⏎
+climb up!"	
 28010800	ほいほいほい⏸あなたも玉に乗ってみない?⏎たまにはいいものよ	Hoi hoi hoi⏸Would you like to ride the ball too?⏎It’s nice once in a while	"Ho ho ho!⏸
 Would you like to⏎
 ride on the ball too?⏸
